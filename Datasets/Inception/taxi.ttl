@@ -1,0 +1,38 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/866fb7e3-c143-4e92-93ec-98d5fa62b59b>
+        rdf:type        dcat:Distribution ;
+        dct:identifier  "http://knowdive.disi.unitn.it/etype#taxi_company" ;
+        dcat:accessURL  "http://knowdive.disi.unitn.it/etype#taxi_company" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/428bb69c-b279-48c9-a429-3d2ee6880823>
+        rdf:type           dcat:Dataset ;
+        dct:description    "A dataset containing the taxi company information of those working on the Trentino territory." ;
+        dct:identifier     "https://drive.google.com/file/d/11ddRB5kaAxeQVxhJ-ZNuhxuFbTF3XUM4/view?usp=share_link" ;
+        dct:title          "taxi_company" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/866fb7e3-c143-4e92-93ec-98d5fa62b59b> .
