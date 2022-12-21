@@ -1,0 +1,287 @@
+id,Name,Latitude,Longitude,City,Address,Phone_number,n_bus,n_bike
+restaurant0,MASO CANTANGHEL,46.083546,11.174873,Civezzano,Loc. Forte di Civezzano,+39 0461 858714,bus_stop2593,bike_station64
+restaurant1,MONTECROCE,46.1826,11.3259,Bedollo,"PIAZZA ROSMINI, 6 Fraz. BRUSAGO",+39 0461 556603,bus_stop190,bike_station28
+restaurant2,EUROPA,46.1716,11.2199,Cembra,"VIA SAN CARLO, 19",+39 0461 683032,bus_stop1882,bike_station28
+restaurant3,GIACOMOZZI,46.186722,11.26064,Segonzano,"Loc. Stedro, 12",+39 0461 686100,bus_stop238,bike_station28
+restaurant4,HAPPY RANCH SALOON,46.194559,11.208489,Cembra,Loc. Lago Santo,+39 0461 683518  +39 347 9192665,bus_stop95,bike_station28
+restaurant5,DA GIGI,46.126448,11.246784,Baselga di Piné,"Fr. Miola - Via dei Caduti, 24",+39 0461 557248,bus_stop823,bike_station0
+restaurant6,ALPINO,46.131895,11.243409,Baselga di Piné,"Corso Roma, 3",+39 0461 557204,bus_stop177,bike_station0
+restaurant7,TAVOLA CALDA DO SPAGHI,46.168389,11.247134,Segonzano,"Fr. Sevignano, 68",+39 328 0475981 +39 380 3689810,bus_stop236,bike_station28
+restaurant8,EXTREME PIZZA,46.09015,11.181437,Civezzano,"Via Murialdo, 1/b",+39 0461 857160,bus_stop204,bike_station32
+restaurant9,TALPA,46.12722,11.249635,Baselga di Piné,"Fr. Miola  Via della Cros, 7",+39 0461 557202,bus_stop823,bike_station0
+restaurant10,HOTEL 2 PINI,46.123772,11.242033,Baselga di Piné,"VIA DEL 26 MAGGIO, 24 Fraz. VIGO DI BASELGA",+39 0461 557030,bus_stop835,bike_station30
+restaurant11,BAITA ALPINA,46.169799,11.302225,Bedollo,"Loc. Pec, 27",+39 0461 556033,bus_stop508,bike_station28
+restaurant12,SAUCH,46.214783,11.192523,Giovo,Loc. Sauch,+39 0461 683768  +39 335 5933061,bus_stop1814,bike_station5
+restaurant13,TIROL,46.2173,11.3267,Sover,"Fr. Montesover, Via D. Santuari, 3",+39 0461 698377,bus_stop140,bike_station28
+restaurant14,LA VECCHIA SEGHERIA,46.133657,11.24747,Baselga di Piné,"Vicolo delle Roge, 7",+39 0461 558651,bus_stop178,bike_station0
+restaurant15,PIZZERIA BAR CENTRALE (BEDOLLO),46.160929,11.302517,Bedollo,"VIA VERDI, 46",+39 0461 556625,bus_stop185,bike_station28
+restaurant16,ALLE PIRAMIDI,46.187355,11.2584,Stredro,"FRAZIONE SCANCIO, 24 Fraz. SCANCIO",+39 0461 686106,bus_stop238,bike_station28
+restaurant17,AL LAGO,46.144035,11.218902,Lases,"Fr. Lases, Via Nazionale, 16",+39 0461 689207,bus_stop254,bike_station0
+restaurant18,SERGIO,46.135142,11.249391,Baselga di Piné,"Viale della Serraia, 7/a",+39 0461 557124,bus_stop178,bike_station0
+restaurant19,AL LIDO,46.14042,11.25674,Baselga di Piné,"Via del Lido, 1",+39 0461 557670,bus_stop179,bike_station28
+restaurant20,OSTERIA DEL MAESTRO - Ristorante Albergo Lagorai,46.1272,11.2466,Baselga di Piné,"VIA DEI CADUTI, 21",+39 0461 557044,bus_stop823,bike_station0
+restaurant21,LAGO SANTA COLOMBA,46.12445,11.1798,Civezzano,"LOCALITA' SANTA COLOMBA, 80/81 ",+39 0461 850122,bus_stop218,bike_station57
+restaurant22,CA' DEI BOCI - Ristorante Romantik Hotel Posta 1899,46.098624,11.235974,Baselga di Piné,"VIA D. TARGA, 1 Fraz. MONTAGNAGA",+39 0461 558322,bus_stop831,bike_station68
+restaurant23,Ristorante Carraro,46.0804201004719,11.5544682741165,Bieno,"Via A.G. Bettolo, 8",+39 (0461) 596309,bus_stop533,bike_station68
+restaurant24,Prime Rose Al Belvedere,46.016217555207,11.2897825241089,Levico Terme,Loc. Belvedere,+39 (0461) 706416,bus_stop512,bike_station68
+restaurant25,"Passo Brocon ""Da Sciopo""",46.119,11.6881,Castello Tesino,Loc. Passo Brocon,+39 (0461) 594364,bus_stop635,bike_station68
+restaurant26,Villa Ester,46.0151893502917,11.2646341323853,Tenna,"Via Campolongo, 22",+39 (0461) 706539,bus_stop1163,bike_station68
+restaurant27,La Cantina - LevicoLand,46.0075740782513,11.2923574447632,Levico Terme,"Via Traversa Lido, 5",+39 (0461) 700029,bus_stop559,bike_station68
+restaurant28,Ristorante Mezzolago,46.0260664914701,11.2307095527649,Pergine Valsugana,"Fraz. Valcanover, 85",+39 (0461) 530158,bus_stop550,bike_station68
+restaurant29,Baitella Lino,46.0504056521342,11.2568235397339,Pergine Valsugana,"Via per la Panarotta, 10 - Assizzi",+39 (0461) 511351,bus_stop1877,bike_station68
+restaurant30,La Stua,46.009407204326,11.2999749183655,Levico Terme,"Via Battisti, 62",+39 (0461) 707028,bus_stop487,bike_station68
+restaurant31,La Tana dei Golosi di Garbari sas,46.0509864435783,11.2227702140808,Pergine Valsugana,"Via Rio Santo, 7 - Susà",+39 (0461) 530996,bus_stop642,bike_station68
+restaurant32,Sapori e Saperi di F&H Dynamics ,46.0602633865876,11.2373292446136,Pergine Valsugana,"Viale Venezia, 7",+39 (0461) 510859,bus_stop255,bike_station68
+restaurant33,Scaranò,46.0161132454348,11.3154244422913,Levico Terme,"Via Per Vetriolo, 86",+39 (0461) 706810,bus_stop2410,bike_station68
+restaurant34,Albergo Valcanover,46.0275861408122,11.2296581268311,Pergine Valsugana,"Fraz. Valcanover, 73",+39 (0461) 548037,bus_stop563,bike_station68
+restaurant35,Veg Point,46.0128646426197,11.2670803070068,Tenna,"Via Alberè, 22/1",+39 (0461) 700149,bus_stop1164,bike_station68
+restaurant36,Albergo Miramonti,46.0501524847217,11.2524461746216,Pergine Valsugana,"Via alle Canzane, 5",+39 (0461) 531268,bus_stop1931,bike_station68
+restaurant37,Bar - One Rosso,46.014250537803,11.2667798995972,Tenna,"Via Alberè, 28",+39 (0461) 706448,bus_stop1164,bike_station68
+restaurant38,Rifugio Barricata,45.9786085879012,11.5910911560059,Grigno,Loc. Marcesina,+39 (0461) 765139,bus_stop639,bike_station68
+restaurant39,La Darsena,46.0384012615909,11.2369644641876,Pergine Valsugana,"Via dei Pescatori, 47 - S. Cristoforo",+39 (0461) 533569,bus_stop564,bike_station68
+restaurant40,Vezzena,45.9571765971136,11.3289642333984,Levico Terme,Passo Vezzena,+39 (0461) 784197,bus_stop1151,bike_station51
+restaurant41,Betty's Hill,46.078500021792,11.5810060501099,Pieve Tesino,Loc. Pradellano,+39 (0461) 594015,bus_stop2627,bike_station68
+restaurant42,Vecchia Pergine,46.0589382044302,11.2403118610382,Pergine Valsugana,"Via Maier, 71",+39 (0461) 511201,bus_stop547,bike_station68
+restaurant43,Alla Corte,46.0777111328917,11.206226348877,Pergine Valsugana,"Via al Dos dela Roda, 41 - Cirè",+39 (0461) 531710,bus_stop771,bike_station68
+restaurant44,Albergo Alla Comparsa,46.0941563885027,11.2337779998779,Pergine Valsugana,"Loc. Guarda, 14",+39 (0461) 557707,bus_stop831,bike_station68
+restaurant45,Sale & Pepe,46.0533542224146,11.4552211761475,Borgo Valsugana,"Via XI Febbraio, 4",+39 (0461) 757043,bus_stop2538,bike_station68
+restaurant46,Al Posta,46.0613651992214,11.2383913993835,Pergine Valsugana,"Via Pennella, 104",+39 (0461) 532274,bus_stop571,bike_station68
+restaurant47,Albergo Ristorante Turismo,46.0596,11.2372,Pergine Valsugana,"Viale Venezia, 20",+39 (0461) 531073,bus_stop255,bike_station68
+restaurant48,Albergo Ristorante Meridiana,46.0396971464544,11.2421035766602,Pergine Valsugana,"Via della Valsugana, 7 - San Cristoforo",+39 (0461) 538039,bus_stop1158,bike_station68
+restaurant49,Baita Al Verle,45.9584296347948,11.3272476196289,Levico Terme,"Via dei Forti, 4 - Passo Vezzena",+39 (0461) 784050,bus_stop1151,bike_station51
+restaurant50,Romanda,46.0112551723709,11.30042552948,Levico Terme,"Via Garibaldi, 7",+39 (0461) 707122,bus_stop487,bike_station68
+restaurant51,S. Giorgio,46.0531010685176,11.4579033851624,Borgo Valsugana,"Via Fratelli, 6",+39 (0461) 753693,bus_stop494,bike_station68
+restaurant52,Umberto I (Grand Hotel Bellavista),46.0157,11.2954,Levico Terme,"Via V. Emanuele III, 7",+39 (0461) 706136,bus_stop512,bike_station68
+restaurant53,Albergo Ristorante La Rotonda,46.058789305571,11.2375330924988,Pergine Valsugana,"Viale Venezia, 37",+39 (0461) 531128,bus_stop547,bike_station68
+restaurant54,La Giachenza (Hotel Al Salus),46.0143213218398,11.2961393594742,Levico Terme,"Via Pigio, 3/5",+39 (0461) 706328,bus_stop512,bike_station68
+restaurant55,Compet,46.0394588250821,11.2998676300049,Vignola Falesina,"Loc. Compet, 26",+39 (0461) 706466,bus_stop1843,bike_station68
+restaurant56,Da Remo,45.9975727842012,11.6663217544556,Grigno,"Via Masetto Vecchio, 59 - Fraz. Tezze",+39 (0461) 769190,bus_stop2327,bike_station68
+restaurant57,Albergo Ristorante Pizzeria Cirè,46.0751,11.2107,Pergine Valsugana,"Via per Trento, 3 - Cirè",+39 (0461) 538444,bus_stop2439,bike_station68
+restaurant58,Canterbury,46.0614768681936,11.6317749023438,Castello Tesino,"Via F.lli Ballerin, 12/b",+39 (0461) 594383,bus_stop545,bike_station68
+restaurant59,Spiky Pizza,46.0091538490556,11.3007581233978,Levico Terme,"Corso Centrale, 19",+39 (0461) 707707,bus_stop487,bike_station68
+restaurant60,Aurora L'Istciot,46.039786516704,11.3001251220703,Vignola Falesina,"Loc. Compet, 28",+39 (0461) 706447,bus_stop1843,bike_station68
+restaurant61,Spaghetti Club,46.0030431645636,11.2820792198181,Caldonazzo,"Loc. Costa di Brenta, 5",+39 (0461) 701494,bus_stop557,bike_station68
+restaurant62,Carlon,46.0060836870758,11.3802909851074,Borgo Valsugana,Loc. Sella,+39 (0461) 761036,bus_stop516,bike_station68
+restaurant63,Pizzeria Spaghetteria Panorama,46.0044814717762,11.2593019008636,Calceranica Al Lago,"Viale Venezia, 19",+39 (0461) 723479,bus_stop637,bike_station51
+restaurant64,Vecchia Fontana,46.0108826031376,11.3016486167908,Levico Terme,"Piazza Venezia, 5",+39 (0461) 706366,bus_stop487,bike_station68
+restaurant65,Vecchia Fattoria,46.0106292546253,11.296112537384,Levico Terme,"Via Per Caldonazzo, 31",+39 (0461) 700242,bus_stop487,bike_station68
+restaurant66,La rustica,46.0510609035782,11.4566588401794,Borgo Valsugana,"Via Naurizio, 18",+39 (0461) 752648,bus_stop494,bike_station68
+restaurant67,Chalet Paradiso,46.1051370051494,11.6551208496094,Castello Tesino,Loc. Marande,,bus_stop543,bike_station68
+restaurant68,Alla Stella,46.069680197538,11.2069988250732,Pergine Valsugana,"Via La Svizzera, 41 - Roncogno",+39 (0461) 532715,bus_stop501,bike_station68
+restaurant69,Camping Alice,46.041953701001,11.6472887992859,Castello Tesino,Loc. Celado,+39 (0461) 594018,bus_stop546,bike_station68
+restaurant70,Bar Maso Al Vetriolo Vecchio,46.0413951564783,11.3098239898682,Levico Terme,Loc. Vetriolo,+39 (0461) 701564,bus_stop1843,bike_station68
+restaurant71,Cafè Ristorante Sapori e Saperi ,46.0603080550949,11.2373828887939,Pergine Valsugana,"Viale Venezia, 7",+39 (0461) 510859,bus_stop255,bike_station68
+restaurant72,Bici Grill Levico,46.0019103781571,11.3096523284912,Levico Terme,"Via per Santa Giuliana, 10",+39 (328) 6548969,bus_stop638,bike_station68
+restaurant73,Pizza Mania,46.059265780507,11.2373828887939,Pergine Valsugana,"Viale Venezia, 29",+39 (0461) 512830,bus_stop547,bike_station68
+restaurant74,Pizzo degli Uccelli,46.1188671376725,11.6885089874268,Castello Tesino,Loc. Passo Brocon,+39 (0461) 594365,bus_stop635,bike_station68
+restaurant75,Alla Torre,45.9926907210768,11.2591302394867,Caldonazzo,"Via della Villa, 37",+39 (0461) 723331,bus_stop555,bike_station51
+restaurant76,Bar Trento,46.0803159118704,11.5529179573059,Bieno,"Via Milano, 10",+39 (340) 3134256,bus_stop533,bike_station68
+restaurant77,Papillon,46.0091240424769,11.3117229938507,Levico Terme,"Via Giannettini, 9",+39 (0461) 706341,bus_stop490,bike_station68
+restaurant78,IL LIBERTINO,46.070125,11.124925,Trento,"Piazza Piedicastello, 4-6 ",(+39) 0461 260085,bus_stop3092,bike_station35
+restaurant79,LOCANDA MARGON,46.069691,11.121088,Trento,"Via Margone, 15",(+39) 0461 349401,bus_stop3241,bike_station35
+restaurant80,CLESIO c/o GRAND HOTEL TRENTO,46.070544,11.121636,Trento,"Via Vittorio Alfieri, 1/3",(+39) 0461271000,bus_stop3241,bike_station35
+restaurant81,DOC,46.061719,11.129111,Trento,"Via Milano, 148",(+39) 0461 262022,bus_stop3138,bike_station64
+restaurant82,HOTEL RELAIS VILLA MADRUZZO,46.074016,11.146816,Trento,"Via Ponte Alto, 26",(+39) 0461 986220,bus_stop2859,bike_station33
+restaurant83,MOVER,46.101533,11.101316,Trento,"Via Innsbruck, 13",(+39) 0461 966899,bus_stop1927,bike_station67
+restaurant84,CHISTE,46.068883,11.121255,Trento,"Via delle Orne, 4",(+39) 0461 262979,bus_stop721,bike_station35
+restaurant85,NIKY'S,46.055005,11.120361,Trento,"Via San Pio X, 29",(+39) 0461 390828,bus_stop3215,bike_station44
+restaurant86,ALLA MOSTRA,46.071188,11.125855,Trento,"Piazza della Mostra, 13 ",(+39) 0461 230787,bus_stop3093,bike_station35
+restaurant87,AMERICA  EL MERICAN,46.070986,11.12343,Trento,"Via Torre Verde, 50",(+39) 0461 983010,bus_stop3241,bike_station35
+restaurant88,AL MARINAIO ,46.033955,11.129333,Trento,Via dei Marinai dItalia ,(+39) 0461 1734471/933053,bus_stop3849,bike_station41
+restaurant89,DUE MORI ,46.064622,11.123308,Trento,"Via S. Marco, 11",(+39) 0461 984251,bus_stop2987,bike_station37
+restaurant90,AL VOLT,46.14205,11.155242,Trento,"Via Santa Croce ,16 ",(+39) 0461 983776,bus_stop82,bike_station0
+restaurant91,AI VICOLI ,46.069691,11.121088,Trento,Piazza Santa Teresa Verzieri ,(+39) 0461 260673,bus_stop3241,bike_station35
+restaurant92,GREEN TOWER,46.069691,11.121088,Trento,"Piazza S. Pellico, 12 ",(+39) 0461 231545,bus_stop3241,bike_station35
+restaurant93,SCRIGNO DEL DUOMO,46.067352,11.120883,Trento,"Piazza Duomo, 29",(+39) 0461 220030,bus_stop3208,bike_station36
+restaurant94,LA CANTINOTA,46.069691,11.121088,Trento,"Via S. Marco, 22-24",(+39) 0461 238527,bus_stop3241,bike_station35
+restaurant95,AL VO,46.070791,11.123888,Trento,"Vicolo del Vo, 11",(+39) 0461 985374,bus_stop3241,bike_station35
+restaurant96,TORREFRANCA,46.00625,11.136672,Trento,"Via Pomeranos, 43",(+39) 0461 944511,bus_stop3822,bike_station51
+restaurant97,IL CAPPELLO,46.069691,11.121088,Trento,"Piazzetta B. Lunelli, 5",(+39) 0461 235850,bus_stop3241,bike_station35
+restaurant98,FORST,46.068916,11.122541,Trento,"Via Oss Mazzurana, 38",(+39) 0461 235590,bus_stop3241,bike_station35
+restaurant99,IL SIMPOSIO,46.067966,11.118869,Trento,"Via Rosmini, 19",(+39) 0461 261848,bus_stop3208,bike_station36
+restaurant100,OSTERIA DA GUIDO,46.069413,11.126516,Trento,Parco San Marco (via livio marchetti 9?),(+39) 0461 262418,bus_stop2465,bike_station33
+restaurant101,AI TRE GAROFANI,46.0657,11.123022,Trento,"Via Giuseppe Mazzini, 33 ",(+39) 0461 237543,bus_stop2987,bike_station37
+restaurant102,OLYMPIC,46.057736,11.112491,Trento,"Via R. da Sanseverino, 125",(+39) 0461 391215,bus_stop3580,bike_station43
+restaurant103,4 STAGIONI,46.075252,11.137725,Trento,"Via San Vito, 36",(+39) 0461 987031,bus_stop2864,bike_station32
+restaurant104,ROSA DORO,46.069691,11.121088,Trento,"Piazza S. Maria Maggiore, 21",(+39) 0461 261792,bus_stop3241,bike_station35
+restaurant105,EVEREST,46.078808,11.11828,Trento,"Corso Alpini, 14",(+39) 0461 825300,bus_stop2870,bike_station52
+restaurant106,DUO,46.070127,11.119711,Trento,"Via Torre Vanga, 14",(+39) 0461 1594461/1594462,bus_stop3570,bike_station34
+restaurant107,TEX-MEX RESTAURANT CUEVA MAYA,46.06745,11.12088,Trento,"Piaza Duomo, 22",(+39) 0461 984507,bus_stop3208,bike_station36
+restaurant108,SAPORI MEDITERRANEI,46.065072,11.113966,Trento,"Via Roberto da Sanseverino, 39/4",(+39) 0461 984360,bus_stop3582,bike_station36
+restaurant109,A LE DUE SPADE,46.067225,11.120036,Trento,"Via Don A. Rizzi, 11 ",(+39) 0461 234343,bus_stop3208,bike_station36
+restaurant110,IL GIARDINO DELLE SPEZIE,46.058436,10.9809,Pardegnone,"Via Nazionale, 109",(+39) 0461 340122,bus_stop307,bike_station49
+restaurant111,ORSO GRIGIO,46.065583,11.122052,Trento,"Via degli Orti, 19",(+39) 0461 984400,bus_stop3566,bike_station36
+restaurant112,NEVADA,46.039756,11.058479,Trento,"Strada di Vason, 61",(+39) 0461 948117,bus_stop435,bike_station43
+restaurant113,RIFUGIO VIOTE,46.02325,11.038169,Trento,"Località Viote, 6",(+39) 0461 948033 - 348 3590494,bus_stop434,bike_station85
+restaurant114,UVA E MENTA,46.065422,11.123858,Trento,"Via Dietro le Mura A, 35",(+39) 0461 1903162,bus_stop2987,bike_station37
+restaurant115,MALGA CANDRIAI,46.046327,11.065047,Trento,"Strada di Candriai, 4",(+39) 0461 947526,bus_stop436,bike_station43
+restaurant116,CHALET LO SCIATORE,46.040137,11.05859,Trento,"Strada di Vason, 84",(+39) 340 7124107,bus_stop435,bike_station43
+restaurant117,MALGA BRIGOLINA,46.057136,11.060485,Trento,"Via della Brigolina, 6",(+39) 0461 947474 ,bus_stop430,bike_station49
+restaurant118,LILLÀ,46.097411,11.058247,Terlago,"Località Maso Travolt, 12",(+39) 0461 866159,bus_stop2360,bike_station67
+restaurant119,BAITA IMPERIALE,46.130638,11.204015,Fornace,Loc. Pian del Gac,+39 0461 849202 +39 347 0426302,bus_stop1883,bike_station0
+restaurant120,CHIOSCO ALLE PIRAMIDI,46.180679,11.263719,Segonzano,"Fr. Sevignano, 1",+39 338 5267314,bus_stop237,bike_station28
+restaurant121,LA LOCANDA DEL PASSATORE,46.18037,11.23473,Faver,"Via Campagna, 16",+39 328 6766881,bus_stop116,bike_station28
+restaurant122,CENTRALE,46.160929,11.302517,Bedollo,"Fr. Centrale, Via G. Verdi, 46",+39 0461 556625,bus_stop185,bike_station28
+restaurant123,LE TRE COLOMBE,46.1302,11.21425,Fornace,"Loc. S. Stefano, 22",+39 0461 849424  +39 333 5221610,bus_stop224,bike_station0
+restaurant124,OSTERIA DEL GRILLO,46.23114,11.298379,Grauno,Via Chiesa 17,+39 0461 688027,bus_stop103,bike_station28
+restaurant125,SAINT ROCK,46.175202,11.222485,Cembra,"Viale IV Novembre, 51",+39 0461 683030,bus_stop118,bike_station28
+restaurant126,ANGEL PIZZA,46.133304,11.246379,Baselga di Piné,"Corso Roma, 48",+39 0461 557658 +39 349 5067537,bus_stop822,bike_station0
+restaurant127,DOLOMITI,46.160312,11.234491,Lases,"VIA PROVINCIALE, 28 Fraz. LONA",+39 0461 697029,bus_stop234,bike_station28
+restaurant128,ALBERGO RISTORANTE DUE LAGHI,46.1508,11.273,Baselga di Piné,"LOCALITA' CAMPOLONGO, 116",+39 0461 554074 ,bus_stop181,bike_station28
+restaurant129,PINETA,46.154753,11.286777,Bedollo,Loc. Lago delle Piazze,+39 0461 556642,bus_stop196,bike_station28
+restaurant130,SERRAIA,46.134668,11.24909,Baselga di Piné,"Viale della Serraia, 3",+39 0461 557027,bus_stop178,bike_station0
+restaurant131,EL CASEL EI MASI,46.221951,11.271814,Grumes,"Loc. Maso Noldi, 7 ",+39 0461 688012,bus_stop2335,bike_station28
+restaurant132,LA CANOPA,46.10247,11.192871,Civezzano,"Fr. Penedallo, 3",+39 0461 850103,bus_stop215,bike_station30
+restaurant133,ALBERGO ANITA,46.133233,11.248433,Baselga di Piné,"VIA DEL FÒSCH, 21",+39 0461 557106,bus_stop178,bike_station0
+restaurant134,EL FILO',46.139986,11.252489,Baselga di Piné,"Fr. Sternigo, Via Miralago, 43",+39 0461 553156,bus_stop179,bike_station28
+restaurant135,RISTORANTE PENSIONE MARIA TURISMO RURALE,46.23814,11.325241,Sover,"VIA DEL LAGORAI, 30 Fraz. PISCINE",+39 0461 698251,bus_stop245,bike_station28
+restaurant136,ALBERGO RISTORANTE SAN GIORGIO,46.1005,11.235456,Baselga di Piné,"VIA BERNARDI, 2 Fraz. MONTAGNAGA",+39 0461 557756,bus_stop1481,bike_station68
+restaurant137,PONCIACH,46.20728,11.231062,Faver,"VIA PONCIACH, 14 Fraz. PONCIACH",+39 0461 683166,bus_stop99,bike_station28
+restaurant138,MAGIC PIZZA,46.144912,11.200249,Albiano,"Via Roma, 39/b",+39 0461 687069,bus_stop227,bike_station0
+restaurant139,MAGIC PIZZA,46.083434,11.199126,Civezzano,"Loc. Mochena, 4 - c/o Centro Commerciale Europa",+39 0461 858758,bus_stop2551,bike_station68
+restaurant140,L'OSTERIA DEI TÒNI,46.1828,11.3255,Bedollo,"PIAZZA ROSMINI, 2 Fraz. BRUSAGO",+39 0461 556646 +39 333 5760608,bus_stop190,bike_station28
+restaurant141,DUE CAMINI,46.126021,11.243774,Baselga di Piné,"Via del 26 Maggio, 65",+39 0461 557200,bus_stop835,bike_station0
+restaurant142,PIZZA PONDY,46.174781,11.220538,Cembra,"Viale IV Novembre, 23/1",+39 348 4286248,bus_stop93,bike_station28
+restaurant143,LA CAPANNINA,46.143374,11.245858,Baselga di Piné,Loc. Bedolpian,+39 328 8888269,bus_stop178,bike_station28
+restaurant144,LAGO SANTO,46.1969,11.2055,Cembra,"LOCALITÀ LAGO SANTO, 1 Fraz. LAGO SANTO",+39 0461 683066,bus_stop95,bike_station28
+restaurant145,CANE' IN FIORE,46.12019,11.261748,Baselga di Piné,"LOC. CANE', 241/1",+39 0461 558270,bus_stop2322,bike_station30
+restaurant146,MIRAMONTI,46.1558,11.2879,Bedollo,"VIA CAVOUR, 20 Fraz.Piazze di Bedollo",+39 0461 556626,bus_stop183,bike_station28
+restaurant147,MASO SVESERI,46.20683,11.32401,Sover,"VIA SVESERI, 22",+39 0461 698106,bus_stop194,bike_station28
+restaurant148,STELLA ALPINA,46.221688,11.293805,Grumes,"Piazza Municipio, 1",+39 0461 685019,bus_stop102,bike_station28
+restaurant149,BEL BAIT,46.162608,11.131155,Giovo,"Fr. Palù, Loc. Santa Croce",+39 0461 684111  +39 0461 246480,bus_stop86,bike_station79
+restaurant150,FIOR DI BOSCO,46.1776,11.1674,Giovo,"FRAZIONE MASEN, 10",+39 0461 695008,bus_stop84,bike_station28
+restaurant151,BAITA MONTE PAT,46.221088,11.344754,Sover,"Loc. Vernera,1",,bus_stop140,bike_station28
+restaurant152,AL CAMINETTO,46.1743,11.2235,Cembra,"Via C. Battisti, 7/9",+39 0461 683007,bus_stop118,bike_station28
+restaurant153,MASO FRANCH GOURMET E RELAIS,46.143058,11.118222,Giovo,"Maso Franch, 2",+39 0461 245533,bus_stop78,bike_station0
+restaurant154,Rifugio Crucolo,46.120964,11.498823,Scurelle,Loc. Val Campelle,+39 (0461) 766093,bus_stop1012,bike_station68
+restaurant155,Cantinota,46.0113818453386,11.3013803958893,Levico Terme,"Via Trieste, 1",+39 (0461) 701699,bus_stop487,bike_station68
+restaurant156,Malga Sorgazza,46.1335752604075,11.5986442565918,Pieve Tesino,Loc. Sorgazza,+39 (346) 2304405,bus_stop535,bike_station68
+restaurant157,Boeriu Nineta - Hotel Madrano,46.0856292796992,11.215238571167,Pergine Valsugana,"Piazza Prada,11 - Madrano",+39 (0461) 552569,bus_stop587,bike_station68
+restaurant158,Al Volt,46.0604643945862,11.2408590316772,Pergine Valsugana,"Piazza Municipio, 10",+39 (0461) 532737,bus_stop571,bike_station68
+restaurant159,Fiore di Cardo,46.0559303696104,11.473503112793,Borgo Valsugana,"Corso Vicenza, 63",+39 (0461) 757462,bus_stop459,bike_station68
+restaurant160,Alte Stube,46.0059048374363,11.6572880744934,Grigno,"Fraz. Palù, 16",+39 (0461) 779605,bus_stop474,bike_station68
+restaurant161,Monte Cimone,45.9958,11.2703,Caldonazzo,"Vial Trento, 21",+39 (0461) 723100,bus_stop556,bike_station51
+restaurant162,Alpina,46.0398312017746,11.4649200439453,Borgo Valsugana,Via Volpi - fraz. Olle,,bus_stop496,bike_station68
+restaurant163,Biba's,46.0021488614333,11.2545919418335,Calceranica Al Lago,"Via Lungolago, 50",+39 (0461) 1740099,bus_stop2714,bike_station51
+restaurant164,Ca' Rossa,46.0278021660037,11.2453544139862,Pergine Valsugana,"Via della Valsugana, 26 - Ischia",+39 (0461) 530840,bus_stop1159,bike_station68
+restaurant165,Happy Days,46.0159046253001,11.2340569496155,Pergine Valsugana,"Fraz. Valcanover, 276",+39 (0461) 548000,bus_stop551,bike_station68
+restaurant166,Alpina,46.064469512512,11.6322791576385,Castello Tesino,"Via Municipio Vecchio, 9",+39 (0461) 594127,bus_stop546,bike_station68
+restaurant167,L'Angolo dei Risotti,46.0103759049526,11.3011765480042,Levico Terme,"Via Battisti, 22",+39 (0461) 700156,bus_stop487,bike_station68
+restaurant168,Al Cacciatore,46.035228449668,11.6472244262695,Castello Tesino,Loc. Pozze di Celado,+39 (0461) 594681,bus_stop473,bike_station68
+restaurant169,Camping Casteltesino,46.0676480888854,11.6337060928345,Castello Tesino,"Loc. Sottomolizza, 1",+39 (338) 4490234,bus_stop546,bike_station68
+restaurant170,Camping Valmalene,46.1140627241198,11.6182136535645,Pieve Tesino,"Loc. Valmalene, snc",+39 (0461) 594627,bus_stop536,bike_station68
+restaurant171,Al Cavalletto,46.0605090629309,11.2392926216125,Pergine Valsugana,"Via Pennella, 15",+39 (0461) 531024,bus_stop571,bike_station68
+restaurant172,Camping Lagorai,46.0904956970005,11.5986442565918,Pieve Tesino,"Loc. Quistaon, 1",+39 (0461) 593355,bus_stop536,bike_station68
+restaurant173,Cacciatore,46.0225055808545,11.3115406036377,Levico Terme,Loc. Prati di Monte,+39 (0461) 701575,bus_stop2410,bike_station68
+restaurant174,Al Brenta,46.0059048374363,11.2918639183044,Levico Terme,"Via Claudia Augusta, 17",+39 (0461) 706131,bus_stop558,bike_station68
+restaurant175,Belvedere,46.0859566973921,11.21433198452,Pergine Valsugana,"Via di Castel Rocca, 3-
+Madrano",+39 (0461) 552140,bus_stop172,bike_station68
+restaurant176,Ristorante Albergo San Cristoforo,46.0394513775227,11.2348616123199,Pergine Valsugana,"Viale Europa, 29 - S. Cristoforo",+39 (0461) 531105,bus_stop2214,bike_station68
+restaurant177,Bellavista,46.0661593171176,11.634349822998,Castello Tesino,"Via Roma, 19",+39 (0461) 594169,bus_stop546,bike_station68
+restaurant178,Kapriol,46.0799884606992,11.6398966312408,Castello Tesino,Loc. Fradea,+39 (0461) 594126,bus_stop544,bike_station68
+restaurant179,Osteria Storica Morelli,46.0780534822903,11.2779808044434,Pergine Valsugana,"Piazza G.A. Petrini, 1 - Canezza",+39 (0461) 509504,bus_stop482,bike_station68
+restaurant180,Ristorante Al Falco,46.0824889476738,11.5440130233765,Bieno,"Fraz. Casetta, 12c",+39 (0461) 596263,bus_stop532,bike_station68
+restaurant181,Boivin,46.0113594913066,11.3006186485291,Levico Terme,"Via Garibaldi, 9",+39 (0461) 701670,bus_stop487,bike_station68
+restaurant182,Ke Pi Kebab,46.0099884267378,11.3009190559387,Levico Terme,"Via Xicco Polentone, 2",+39 (389) 8385501,bus_stop487,bike_station68
+restaurant183,Osteria del Borgo Wine Bar,46.0516565799634,11.4565193653107,Borgo Valsugana,"Via Spagolla, 5/b",+39 (0461) 751304,bus_stop494,bike_station68
+restaurant184,Bar Al Tastavin,46.0669483711555,11.6521596908569,Castello Tesino,Loc. Rodena,+39 (0461) 593168,bus_stop546,bike_station68
+restaurant185,Pizzeria al taglio Macapla,46.0608738530605,11.2416315078735,Pergine Valsugana,"Via Tre Novembre, 3 ",+39 (0461) 533184,bus_stop571,bike_station68
+restaurant186,Dolomiti,46.0556027737462,11.4638471603394,Borgo Valsugana,"Via Temanza, 11",+39 (0461) 757193,bus_stop458,bike_station68
+restaurant187,Chalet Panarotta,46.0488419525058,11.3200807571411,Pergine Valsugana,Loc. Panarotta,+39 (0461) 706507,bus_stop1957,bike_station68
+restaurant188,Albergo Ristorante Pizzeria Sedran,46.0396077760603,11.2347435951233,Pergine Valsugana,"Via alla Stazione, 4 - S. Cristoforo",+39 (0461) 531539,bus_stop2214,bike_station68
+restaurant189,Chalet Heidi,46.115847694466,11.6611289978027,Castello Tesino,Loc. Marande,+39 (0461) 1866060,bus_stop635,bike_station68
+restaurant190,Miravalle,46.0084384867338,11.314480304718,Levico Terme,"Viale Venezia, 78",+39 (0461) 700080,bus_stop513,bike_station68
+restaurant191,Chalet Rosa,46.005055293752,11.2419748306274,Calceranica Al Lago,"Via Bosentino, 1",+39 (0461) 724082,bus_stop562,bike_station51
+restaurant192,Al Corso,46.012246194315,11.2996101379395,Levico Terme,"Via Dante, 35",,bus_stop487,bike_station68
+restaurant193,Millennium,46.0167316504955,11.2944281101227,Levico Terme,"Viale Vittorio Emanuele, 50",+39 (0461) 703012,bus_stop512,bike_station68
+restaurant194,Al Cristallo,46.0619458754105,11.2416529655457,Pergine Valsugana,"Via Chimelli, 4",+39 (0461) 510301,bus_stop2212,bike_station68
+restaurant195,Taverna die Gonzaga,46.0125665961073,11.298086643219,Levico Terme,Via Garibaldi,+39 (0461) 701802,bus_stop512,bike_station68
+restaurant196,Al Moro,46.0613279761805,11.2424468994141,Pergine Valsugana,"Via Tre Novembre, 22",+39 (0461) 532108,bus_stop2371,bike_station68
+restaurant197,Taverna,46.0150254317992,11.2861347198486,Levico Terme,"Loc. Lago, 3",+39 (0461) 706243,bus_stop512,bike_station68
+restaurant198,Al Faro,46.0369712844015,11.2433588504791,Pergine Valsugana,"Via della Valsugana, 18 - Ischia",+39 (0461) 534663,bus_stop1158,bike_station68
+restaurant199,Bar Ristorante Pizzeria Minuetto,46.0630997650958,11.232168674469,Pergine Valsugana,"Viale Dante, 81",+39 (0461) 538087,bus_stop2049,bike_station68
+restaurant200,Al Conte ,46.0114787127063,11.3021421432495,Levico Terme,"Via Regia, 8",+39 (0461) 702302,bus_stop487,bike_station68
+restaurant201,Bar Ristorante Al Capriolo,46.081298253724,11.2655353546143,Pergine Valsugana,"Masi Alti, 11",,bus_stop2007,bike_station68
+restaurant202,Giropizza VIP,46.0319660728167,11.2296152114868,Pergine Valsugana,"Fraz. Valcanover, 13",+39 (0461) 512282,bus_stop2222,bike_station68
+restaurant203,Centrale,46.053391450831,11.458021402359,Borgo Valsugana,"Piazza Martiri, 5",,bus_stop494,bike_station68
+restaurant204,Al Cipriani,46.0162473579629,11.4467239379883,Borgo Valsugana,"Via del Dosso, 121 - Val di Sella",,bus_stop495,bike_station68
+restaurant205,El Filò,46.0067990798514,11.3048887252808,Levico Terme,"Viale Stazione, 64",+39 (0461) 706240,bus_stop638,bike_station68
+restaurant206,Hotel Paoli - Alla Vedova,45.9894,11.2984,Caldonazzo,"Loc. Lochere, 6",+39 (0461) 700017,bus_stop1387,bike_station51
+restaurant207,Giardino di Giada,46.0597794754413,11.2394213676453,Pergine Valsugana,"Via Roma, 20",+39 (0461) 512146,bus_stop571,bike_station68
+restaurant208,Ai Larici,46.0514629858429,11.6548204421997,Castello Tesino,Loc. Celado,+39 (0461) 594147,bus_stop546,bike_station68
+restaurant209,Bandus Braci e Pizza,46.0041759277763,11.2884521484375,Levico Terme,Via Claudia Augusta  ,+39 (0461) 709082,bus_stop558,bike_station68
+restaurant210,Tavola Calda Bar Malene,46.1061189049888,11.6182994842529,Pieve Tesino,"Loc. Valmalene, 3",+39 (0461) 594627,bus_stop543,bike_station68
+restaurant211,Conca D'Oro,46.0172159387867,11.6356801986694,Grigno,"Piazza Dante, 1",+39 (0461) 765126,bus_stop473,bike_station68
+restaurant212,Valsugana,46.0634124278255,11.2327587604523,Pergine Valsugana,"Viale Dante, 42",+39 (0461) 510649,bus_stop2049,bike_station68
+restaurant213,Gilda,45.9953964062115,11.2666511535645,Caldonazzo,"Via Brenta, 22",+39 (0461) 723446,bus_stop637,bike_station51
+restaurant214,Angi,46.0471292783092,11.2332630157471,Pergine Valsugana,"Via dell'Angi, 59 - Canale",+39 (0461) 538037,bus_stop2317,bike_station68
+restaurant215,Trattoria Crosara,46.0649608266733,11.633448600769,Castello Tesino,Piazza San Giorgio,+39 (04619 594245,bus_stop546,bike_station68
+restaurant216,Stube Valzurg,46.238,11.1643,Vignola Falesina,"Fraz. Vignola, 22",+39 (0461) 511103,bus_stop1606,bike_station4
+restaurant217,Aquila d'Oro,45.9920273235372,11.2627029418945,Caldonazzo,Via Roma,+39 (0461) 723116,bus_stop555,bike_station51
+restaurant218,Due Spade,45.9916173547901,11.2616407871246,Caldonazzo,"Piazza Municipio, 2",+39 (0461) 723113,bus_stop555,bike_station51
+restaurant219,Albergo Ristorante Da Ciolda,46.0323682940693,11.2303447723389,Pergine Valsugana,"Fraz. Valcanover, 95",+39 (0461) 548007,bus_stop2222,bike_station68
+restaurant220,Aquilotto,45.9920273235372,11.2627029418945,Caldonazzo,"Viale Stazione, 4/a",+39 (0461) 718127,bus_stop555,bike_station51
+restaurant221,Tre Faggi,46.0096605584359,11.4353084564209,Borgo Valsugana,Val di Sella,+39 (0461) 761016,bus_stop495,bike_station68
+restaurant222,Cima XII,46.0429143843715,11.4608001708984,Borgo Valsugana,"Via Per Olle, 59",+39 (0461) 754555,bus_stop495,bike_station68
+restaurant223,Cima D'Asta,46.0689,11.6099,Pieve Tesino,"Via Brigata Abruzzi, 2",+39 (0461) 592112,bus_stop542,bike_station68
+restaurant224,Antiche Contrade,46.0550369217671,11.2362670898438,Pergine Valsugana,"Via al Lago, 11",+39 (0461) 538228,bus_stop548,bike_station68
+restaurant225,RISTORANTE CINESE LA GIADA,46.2836881931,11.4367246627808,Castello-Molina di Fiemme,Via Roma 29,+39 (0462)230192,bus_stop2178,bike_station5
+restaurant226,"BAR PIZZERIA ""I VOLTI""",46.2833655,11.48388,Cavalese,"Via Chiesa, 33/a",+39 (0462)231567,bus_stop2817,bike_station28
+restaurant227,MASO DELLO SPECK,46.3054382284177,11.4361667633057,Ville di Fiemme,Via Pozze di Sopra 2,+39 (0462)342244,bus_stop815,bike_station5
+restaurant228,RISTORANTE PIZZERIA MILLENIUM,46.309262494812,11.6013479232788,Predazzo,Via Fiamme Gialle 2/c,+39 (0462)502449,bus_stop1884,bike_station28
+restaurant229,STEAK HOUSE DA POLDO,46.31663,11.59824,Predazzo,Via Mazzini 48,+39 (0462)502472,bus_stop25,bike_station5
+restaurant230,STALA DEL NONO,46.3416246511521,11.5393352508545,Tesero,"Loc. Pampeago, 1",+39 (0462)813244,bus_stop1377,bike_station5
+restaurant231,PIZZA SHOP,46.2876474315177,11.4440846443176,Ville di Fiemme,"Via Nazionale, 10",+39 (0462)232156,bus_stop11,bike_station5
+restaurant232,PIZZA HOUSE,46.2888336644683,11.5112042427063,Tesero,"Via Roma, 43",+39 (0462)814668,bus_stop18,bike_station28
+restaurant233,LA RUOTA,46.2713637883303,11.4178204536438,Castello-Molina di Fiemme,Via Quirino Prada 2,+39 (0462)230220,bus_stop109,bike_station5
+restaurant234,VECCHIA OSTERIA,46.2925404768632,11.4577746391296,Cavalese,"Via IX Novembre, 14",+39 (0462)230361,bus_stop65,bike_station5
+restaurant235,RISTORANTE PIZZERIA GAMS,46.3137238012574,11.5995669364929,Predazzo,Corso Dolomiti 13,+39 (0462)502322,bus_stop1884,bike_station5
+restaurant236,RISTORANTE PIZZERIA ROMA,46.289412,11.5097609,Tesero,"Via Roma, 54",+39 (0462)813220,bus_stop18,bike_station28
+restaurant237,RISTORANTE AL LAGO,46.2665331,11.406282,Castello-Molina di Fiemme,Stramentizzo Nuovo,+39 (0462)341235,bus_stop108,bike_station5
+restaurant238,RISTORANTE ANCORA,46.3111078301165,11.6027855873108,Predazzo,"Via IX Novembre, 1",(0039) 0462 501651,bus_stop24,bike_station28
+restaurant239,PIZZERIA PRONTO PIZZA,46.31311,11.60245,Predazzo,"Via Dante, 1",+39 (0462)502227,bus_stop1884,bike_station5
+restaurant240,HORSES RISTO PUB,46.3000422974147,11.5981721878052,Predazzo,Via Lagorai 117,+39 (0462)500116,bus_stop2161,bike_station28
+restaurant241,PIZZERIA DOLOMITI,46.2627478,11.337486,Capriana,Via Dallio G.B.,+39 (0462)816081,bus_stop105,bike_station5
+restaurant242,RISTORANTE COSTA SALICI,46.2934004214863,11.4566373825073,Cavalese,"Via Costa Salici, 10",+39 (0462)340140,bus_stop65,bike_station5
+restaurant243,LA PELLE DELL'ORSO,46.2901384910427,11.4340853691101,Ville di Fiemme,Via del Nonéndol - loc. veronza,+39 (0462)240654,bus_stop166,bike_station5
+restaurant244,RISTORANTE PIZZERIA RELAX,46.3112041712146,11.6078925132751,Predazzo,Via Venezia 28,+39 (0462)502344,bus_stop24,bike_station28
+restaurant245,PIZZERIA LA BRICIOLA,46.3044598847961,11.5947604179382,Predazzo,Via Fiamme Gialle 54,+39 (0462)500050,bus_stop2161,bike_station28
+restaurant246,PIZZERIA DES ALPES,46.290197800603,11.478009223938,,via Marco 135 - 380330 CAVALESE,+39 (0462)231117,bus_stop157,bike_station5
+restaurant247,PIZZERIA L'INCONTRO,46.3142425342196,11.6011548042297,Predazzo,Via Verdi 13/a,+39 (0462)502716,bus_stop1884,bike_station5
+restaurant248,PIZZERIA BARCOLLO,46.3128123014276,11.6650986671448,Predazzo,c/o Centro Servizi,+39 (338)6704809,bus_stop732,bike_station28
+restaurant249,RISTORANTE AGRITUR MASO SORTE,46.2778896908959,11.444878578186,Castello-Molina di Fiemme,Via Maso Sorte,+39 (0462)340522,bus_stop10,bike_station5
+restaurant250,RISTORANTE AGRITUR PIANRESTEL,46.2883888301223,11.478009223938,Cavalese,Via del Gastaldo,+39 (0462)340960,bus_stop153,bike_station5
+restaurant251,RISTORANTE LE CAORE,46.3196667043666,11.5028142929077,Tesero,"loc. Stava, 31",+39 (0462)814679,bus_stop1377,bike_station5
+restaurant252,RISTORANTE PIZZERIA DEJAVU',46.305422,11.462465,Varena,Via A. Cantelger 2,+39 (347)7686059,bus_stop1378,bike_station5
+restaurant253,RISTORANTE PIZZERIA LA BAITA,46.3145982339805,11.4715719223022,Varena,"Via Bancoline, 1",+39 (0462)230283,bus_stop1378,bike_station5
+restaurant254,RISTORANTE AGRITUR SALANZADA,46.2722833943649,11.4645767211914,Cavalese,Loc. Salanzada 1,+39 (0462)235480,bus_stop15,bike_station28
+restaurant255,PIZZERIA RISTORANTE EL CALDERON,46.2855566334027,11.4656496047974,Cavalese,"Via Cermis, 4",+39 (0462)340111,bus_stop15,bike_station5
+restaurant256,RISTORANTE PIZZERIA LA CANTINETTA,46.302856,11.45444,Varena,"Via Val del Ru, 11",+39 (0462)342695,bus_stop767,bike_station5
+restaurant257,PIZZERIA LA LANTERNA,46.300078,11.44749,Ville di Fiemme,"Via Ancona,2",+39 (0462)340607,bus_stop766,bike_station5
+restaurant258,RISTORANTE PIZZERIA ANCORA,46.2895427,11.5105439,Tesero,Via IV Novembre 32,+39 (0462)813117,bus_stop18,bike_station28
+restaurant259,LA SALERA,46.2915470757489,11.4627313613892,Cavalese,"Via Pizzegoda, 3",+39 (0462)341001,bus_stop14,bike_station5
+restaurant260,RISTORANTE MIOLA,46.2978778459822,11.6067123413086,Predazzo,Loc. Miola 1,+39 (0462)501924,bus_stop23,bike_station28
+restaurant261,RISTORANTE PIZZERIA MAJESTIC,46.30619,11.5982299,Predazzo,Via Fiamme Gialle 20/A,+39 (0462)500076,bus_stop23,bike_station28
+restaurant262,PIZZERIA EXCELSIOR,46.2918769758785,11.4590406417847,Cavalese,Piazza Cesare Battisti 11,+39 (0462)248421,bus_stop1823,bike_station5
+restaurant263,RISTORANTE AGRITUR FIOR DI BOSCO,46.2286295989053,11.3632965087891,Valfloriana,Loc. Comuni,+39 (0462)910002,bus_stop135,bike_station28
+restaurant264,AL CANTUCCIO,46.29159,11.46059,Cavalese,"Via Unterberger, 14",+39 (0462)235040,bus_stop14,bike_station5
+restaurant265,RISTORANTE PIZZERIA LA TRATTORIA,46.2825759959976,11.5234351158142,Tesero,Lago di Tesero,+39 (0462)810203,bus_stop820,bike_station28
+restaurant266,RISTORANTE PIZZERIA GI & GIò,46.292948210911,11.4563369750977,Cavalese,"P.zza 12 Partigiani, 7",+39 (0462)342688,bus_stop65,bike_station5
+restaurant267,PIZZA TIME,46.3098924355446,11.6021418571472,Predazzo,Via Trento 15,+39 (0462)501555,bus_stop24,bike_station28
+restaurant268,"RISTORANTE ""EL MOLIN""",46.2919696440967,11.4602476358414,Cavalese,Piazza Cesare Battisti 11,,bus_stop1823,bike_station5
+restaurant269,RISTORANTE PINETA,46.2700288488885,11.4207172393799,Castello-Molina di Fiemme,"Via Cadino, 2",+39 (0462)341332,bus_stop114,bike_station5
+restaurant270,RISTORANTE VILLAGGIO,46.2476853,11.3463739,Valfloriana,Fraz. Villaggio 2/a,+39 (0462)910098,bus_stop129,bike_station28
+restaurant271,PIZZERIA RISTORANTE L'ARCADE,46.3109522018304,11.6034078598022,Predazzo,"Via IX Novembre, 1 ",+39 (340)0021359,bus_stop24,bike_station28
+restaurant272,TRATTORIA LA BERLOCCA,46.3113968529022,11.606605052948,Predazzo,Via Venezia 10/a,+39 (0462)502880,bus_stop24,bike_station28
+restaurant273,RISTORANTE AGRITUR MASO CORRADINI,46.2796841778629,11.4326691627502,Castello-Molina di Fiemme,Via Milano 28,+39 (0462)231010,bus_stop112,bike_station5
+restaurant274,RISTORANTE PIZZERIA ANGELO D'ORO,46.2904869337896,11.4606070518494,Cavalese,"Vicolo rasmo, 3",+39 (0462)235760,bus_stop14,bike_station5
+restaurant275,BAR RISTORANTE LÖZE,46.299908874801,11.5994381904602,Predazzo,Via Lagorai 115,+39 (0462)502235,bus_stop2161,bike_station28
+restaurant276,RISTORANTE LA STUA,46.292629437278,11.4588904380798,Cavalese,Piazza Dante,+39 (0462)340235,bus_stop1823,bike_station5
+restaurant277,RISTORANTE AL MOLIN,46.285825,11.565681,Ziano di Fiemme,Via G.Verdi 20/a,+39 (0462)571442,bus_stop22,bike_station28
+restaurant278,RISTORANTE AGRITUR MASO LENA,46.2976109898811,11.6019487380981,Predazzo,Località Löze,+39 (340)5923104,bus_stop2161,bike_station28
+restaurant279,PIZZERIA HOTEL CANADA,46.3112856904729,11.6761708259583,Predazzo,Via della Torba 1,,bus_stop733,bike_station28
+restaurant280,OSTERIA DE L'ACQUAROL,46.2854528328355,11.5387344360352,Panchià,Via nazionale 42,+39 (0462)813082,bus_stop20,bike_station28
+restaurant281,PIZZERIA LA PIEVE,46.2886779728581,11.4615726470947,Cavalese,"Via Marconi, 13",+39 (0462)232060,bus_stop2591,bike_station5
+restaurant282,PIZZERIA RISTORANTE VERONZA,46.2901533184388,11.4304804801941,Ville di Fiemme,Viale Veronza 3,+39 (0462)341734,bus_stop165,bike_station5
+restaurant283,RISTORANTE AL CONVENTO,46.29189,11.4587299,Cavalese,"P.zza Rizzoli, 4",+39 (0462)342250,bus_stop1823,bike_station5
+restaurant284,RISTORANTE PIZZERIA SOTTOVOCE,46.2872322439159,11.4211249351501,Castello-Molina di Fiemme,Via Nucleo Stazione 9,+39 (0462)235597,bus_stop2090,bike_station5

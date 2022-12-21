@@ -1,0 +1,18 @@
+id,Name,City,latitude,longitude,Length(km),n_bus,n_restaurant,n_barpubs,n_hotel,n_natural
+skiing_infrastructure0,San Martino di Castrozza,San Martino di Castrozza,46.26442326,11.80505414,60,bus_stop743,restaurant279,bar200,hotel103,natural_attractions45
+skiing_infrastructure1,Carezza,San Giovanni di Fassa,46.40847201,11.59154633,40,bus_stop2679,restaurant230,bar194,hotel112,natural_attractions45
+skiing_infrastructure2,Latemar-Obereggen/Pampeago/Predazzo,Predazzo,46.35601994,11.53954883,49,bus_stop1377,restaurant230,bar193,hotel142,natural_attractions45
+skiing_infrastructure3,Madonna di Campiglio,Madonna di Campiglio,46.22823291,10.83001901,150,bus_stop363,restaurant110,bar19,hotel47,natural_attractions22
+skiing_infrastructure4,Passo San Pellegrino,Moena,46.38407194,11.78324761,68,bus_stop286,restaurant279,bar217,hotel103,natural_attractions45
+skiing_infrastructure5,Ponte di Legno/Tonale,Vermiglio,46.25511653,10.50898295,100,bus_stop2206,restaurant110,bar19,hotel26,natural_attractions22
+skiing_infrastructure6,Belvedere/Col Rodella,Canazei,46.47462599,11.80237104,55,bus_stop54,restaurant279,bar217,hotel103,natural_attractions45
+skiing_infrastructure7,Paganella/Andalo,Andalo,46.14400126,11.03671221,40,bus_stop1645,restaurant118,bar19,hotel34,natural_attractions22
+skiing_infrastructure8,Alpe Lusia-Moena/Bellamonte,Moena,46.36845201,11.68737043,28,bus_stop283,restaurant279,bar217,hotel99,natural_attractions45
+skiing_infrastructure9,Folgaria/Fiorentini,Folgaria,45.89405692,11.18961635,70,bus_stop1282,restaurant218,bar60,hotel275,natural_attractions24
+skiing_infrastructure10,Alpe Cermis-Cavalese,Cavalese,46.28421737,11.47136195,24,bus_stop152,restaurant255,bar252,hotel92,natural_attractions25
+skiing_infrastructure11,Monte Bondone,Trento,45.98921855,11.03054066,19,bus_stop1494,restaurant113,bar9,hotel28,natural_attractions24
+skiing_infrastructure12,Catinaccio-Vigo di Fassa,Vigo di Fassa,46.42148418,11.67129597,14,bus_stop35,restaurant248,bar217,hotel158,natural_attractions45
+skiing_infrastructure13,Pejo 3000,Peio Fonti,46.37044658,10.65978295,20,bus_stop2071,restaurant216,bar2,hotel47,natural_attractions43
+skiing_infrastructure14,Lavarone,Lavarone,45.94969527,11.26431147,30,bus_stop1144,restaurant218,bar60,hotel275,natural_attractions24
+skiing_infrastructure15,Passo Rolle,San Martino di Castrozza,46.30076944,11.78307594,15,bus_stop1422,restaurant279,bar200,hotel103,natural_attractions45
+skiing_infrastructure16,Lagorai/Passo Brocon-Castello Tesino,Castello Tesino,46.11587055,11.66048875,10,bus_stop635,restaurant189,bar66,hotel289,natural_attractions45

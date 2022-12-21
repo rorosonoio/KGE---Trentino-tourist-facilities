@@ -1,0 +1,380 @@
+id,Name,Latitude,Longitude,City,Address,Phone_number,n_bus,n_bike,n_amusement,n_train
+holiday_house0,GIOVANNINI EGIDIO,46.1305,11.2461,,"Via dei Caduti,2",+39 0461 557029 ,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house1,IORIATTI NORMA,46.1341,11.2475,,"Corso Roma, 99",+39 0461 557013; +39 0461 557061  ,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house2,CONDOMINIO PERLA,46.230278,11.300556,,"Via Al Pian, 2",+39 335 451478 ,bus_stop103,bike_station28,amusement10,train_station28
+holiday_house3,GATTI CARLA,46.136944,11.248333,,"Piazzetta dei Conti di Schreck, 31  Fr. Ricaldo",+39 0461 557254,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house4,SAVOI MARIA GRAZIA,46.1811,11.2363,,"Via Beghei, 5",+39 0461 682285 ,bus_stop116,bike_station28,amusement3,train_station23
+holiday_house5,BORTOLOTTI ARMANDO,46.1325,11.2377,,"Via Municipio Vecchio, 8",+39 0461 557370,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house6,MARZADRI MARIA,46.1436,11.2608,,"Fr. Rizzolaga, 2",+39 0461 558892 ,bus_stop179,bike_station28,amusement3,train_station19
+holiday_house7,ANDREATTA ROMANO,46.157032,11.281,,"Fr. Piazze, Via Marconi, 89",+39 0461 556562 ,bus_stop182,bike_station28,amusement3,train_station19
+holiday_house8,FASSAN ERMANNO,46.2086,11.2691,,"Via Centrale, 19  Loc. Provane",+39 0461 685040 ,bus_stop101,bike_station28,amusement10,train_station28
+holiday_house9,GIOVANNINI WALTER,46.1485925,11.2607198,,"Loc. Rizzolaga, 69/3",+39 0461 557631,bus_stop180,bike_station28,amusement3,train_station19
+holiday_house10,MATTIVI FERNANDO,46.160278,11.294722,,"Loc. Casei, Via Crocefisso, 4",+39 0461 874279 ,bus_stop184,bike_station28,amusement3,train_station19
+holiday_house11,VILLA COSTALTA,46.1341,11.2438,,"Via Collina, 11",+39 348 5107780 ,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house12,ANDREATTA CLAUDIA,46.1583,11.283,,"Loc. Cialini, Piazze di Bedollo",+39 349 3898105,bus_stop196,bike_station28,amusement3,train_station19
+holiday_house13,NARDON LAURA,46.1763,11.223,,"Via Carraia, 9",+39 0461 682308,bus_stop118,bike_station28,amusement3,train_station23
+holiday_house14,MASO ZEPP,46.2225,11.2677,,Loc. Maso Giovanni   Masi Alti di Grumes,+39 0471 885258 ,bus_stop2335,bike_station28,amusement10,train_station28
+holiday_house15,Residenza Torre Vanga,46.069024,11.11869,Trento,"Via Prepositura, 17",+39 0461 2604387 cell. 348 4140922,bus_stop721,bike_station34,amusement1,train_station13
+holiday_house16,Residenza Gocciadoro,46.054177,11.135225,Trento,"Via Gocciadoro, 152",+39 0461 2604387 cell. 348 4140922,bus_stop2143,bike_station39,amusement1,train_station2
+holiday_house17,Residenza Galileo,46.067904,11.125848,Trento,"Via Galilei, 7",+39 0461 2604387 cell. 348 4140922,bus_stop862,bike_station33,amusement1,train_station13
+holiday_house18,Collina appartamenti,46.043697,11.136582,Trento,"Lanzerotti, 14",+39 0461 924868,bus_stop1925,bike_station61,amusement1,train_station6
+holiday_house19,Residenza PortAquila,46.068332,11.127067,Trento,"P.zza Venezia,12",+39 0461 2604387 cell. 348 4140922,bus_stop862,bike_station33,amusement1,train_station13
+holiday_house20,Residenza Piedicastello,46.070648,11.111976,Trento,"Via Brescia, 37",+39 0461 2604387 cell. 348 4140922,bus_stop2993,bike_station60,amusement1,train_station13
+holiday_house21,Residenza Al Parco,46.103108,11.110538,Trento,"Via Bolzano, 21/B/F",+39 0461 2604387 cell. 348 4140922,bus_stop3585,bike_station45,amusement1,train_station3
+holiday_house22,Residenza Antonella,46.122042,11.09206,Trento,"Via al Pont dei Vodi, 2",+39 348 0409704,bus_stop3057,bike_station57,amusement1,train_station3
+holiday_house23,Karinhall,45.995601,11.126269,Trento,"Loc. I Grezzi, 17",+39 0461 945339,bus_stop1076,bike_station51,amusement1,train_station6
+holiday_house24,America 2,46.071114,11.124084,Trento,"Via Torre Verde, 50",+39 0461 983010,bus_stop3241,bike_station35,amusement1,train_station13
+holiday_house25,Borgo Rossi Via delle Cave,46.066693,11.132449,Trento,"Via delle Cave, 45",+39 0461 652327,bus_stop3248,bike_station56,amusement1,train_station16
+holiday_house26,Alex,46.09804,11.112821,Trento,"Via 4 Novembre, 106",+39 0461 992951 cell. 338 4040877,bus_stop3075,bike_station59,amusement1,train_station3
+holiday_house27,Lagolo,46.037492,11.002635,Lagolo,"Via Al Camp, 7",+39 0461 564128 - +39 0461 091214 cell.338 2204125,bus_stop1050,bike_station43,amusement1,train_station13
+holiday_house28,Borgo Rossi Via G. Ossanna,46.062525,11.125071,Trento,"Via G. Ossanna, 4",+39 0461 652327,bus_stop1513,bike_station37,amusement1,train_station13
+holiday_house29,Borgo Rossi Via Suffragio,46.070585,11.124683,Trento,"Via Suffragio, 104",+39 0461 652327,bus_stop3241,bike_station35,amusement1,train_station13
+holiday_house30,SIGHEL NOEMI,46.1286,11.2505,,"Via della Laita, 26 - Miola",+39 0461 554094 ,bus_stop823,bike_station0,amusement3,train_station19
+holiday_house31,BROSEGHINI FABIO,46.1308,11.2455,,"Via Cesare Battisti, 21",+39 0461 557897,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house32,BRAGHIROLI TOMASI ALESSANDRA,46.135,11.2491,,"Via della Serraia, 9",+39 348 5730510,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house33,FRANCESCHI NADIA,46.096111,11.23472,,"Fr. Montagnaga di Piné, Via Dom. Targa, 43",+39 0461 553030; +39 0461 558818,bus_stop831,bike_station68,amusement3,train_station19
+holiday_house34,ANESI TULLIO,46.12991,11.2332869,,"Fr. Tressilla, 134",+39 0461 557485,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house35,ANESI MARIA,46.1275,11.235,,"Fr.Tressilla, 46",+39 0461 557546,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house36,NATTIVI LUCIANO,46.1647,11.3069,,"Fr. Centrale - Via Verdi, 8",+39 0461 556543 ,bus_stop195,bike_station28,amusement3,train_station19
+holiday_house37,BORTOLOTTI LORENZO,46.1441,11.2608,,"Fr. Rizzolaga, 5/1",+39 349 5755080,bus_stop179,bike_station28,amusement3,train_station19
+holiday_house38,ANDREATTA ESTER,46.1333992,11.2530465,,"Via del Lido, 6",+39 0461 557046,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house39,ANDREATTA ONORINA,46.1494088,11.2695905,,"Loc. Campolongo, 128",+39 0461 557184,bus_stop181,bike_station28,amusement3,train_station19
+holiday_house40,SIMEONI LUISA,46.221667,11.293611,,"Via Oriola, 10",+39 0461 685302 ,bus_stop102,bike_station28,amusement10,train_station28
+holiday_house41,SIGHEL CRISTINA,46.130278,11.245278,,"Via del Mercato, 13",+39 0461 558454; +39 0461 557011,bus_stop177,bike_station0,amusement3,train_station19
+holiday_house42,SIGHEL SANDRO,46.1313,11.2463,,"Via C. Battisti, 51",+39 0461 558033 ,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house43,ANESI GRAZIELLA,46.1353,11.248,,"Fr. Ricaldo  - Via di Ricaldo, 14",+39 0461 557172,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house44,RESIDENZA SAN ROCCO,46.175,11.2225,,"Via Roma, 3",+39 0461 683701 ,bus_stop118,bike_station28,amusement3,train_station23
+holiday_house45,SIGHEL ROSANNA,46.124444,11.246667,,"Via del Massalon, 11",+39 0461 557218 ,bus_stop823,bike_station30,amusement3,train_station19
+holiday_house46,GOTTARDI ANNINO,46.1763,11.2225,,"Vicolo Barbi, 5",+39 0461 683620,bus_stop118,bike_station28,amusement3,train_station23
+holiday_house47,RESIDENZA DOSSALT,46.1408,11.2541,,"Fr. Sternigo, 38",+39 0461 242463,bus_stop179,bike_station28,amusement3,train_station19
+holiday_house48,RENSI CLAUDIO,46.095833,11.233056,,"Via D. Targa, 51/1  Fr. Montagnaga",+39 0461 558683 ,bus_stop831,bike_station68,amusement3,train_station19
+holiday_house49,SIGHEL GILIO,46.1313,11.243,,"Via Marconi, 33",+39 0461 557008 ,bus_stop177,bike_station0,amusement3,train_station19
+holiday_house50,FOLLADOR FRANCESCO,46.1252,11.243,,"Via del 26 Maggio, 20 Loc. Cadrobbi",+39 0461 557054,bus_stop835,bike_station30,amusement3,train_station19
+holiday_house51,PAOLAZZI MONICA,46.1805,11.2336,,Via Perlaia 9g,+39 340 4786198 ,bus_stop96,bike_station28,amusement3,train_station23
+holiday_house52,PEDRI ARMANDO,46.1875,11.257222,,"Fr. Saletto, 11",+39 0461 686440,bus_stop238,bike_station28,amusement3,train_station23
+holiday_house53,CASA DEI CHECHI,46.1363,11.248,,Piazzetta dei Conti di Schreck  Fr. Ricaldo,+39 0461 557117   ,bus_stop178,bike_station0,amusement3,train_station19
+holiday_house54,AVI LUCIA,46.13,11.2344,,"Fr. Tressilla - Via Belvedere, 112",+ 38 0461 553025,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house55,AVI CLAUDIO,46.1294,11.2333,,"Fr. Tressilla - Via Belvedere, 87 ",+ 39 0461 558968,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house56,FAM. GERMANO - SCHMOHL,46.133,11.2477,,"Via C.Battisti, 80",+39 340 8208346,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house57,TESSADRI GIORGIO,46.1263,11.2472,,"Via Baldessari, 4  Fr. Miola",+39 0461 557830 ,bus_stop823,bike_station0,amusement3,train_station19
+holiday_house58,LEONARDELLI GIUSEPPE,46.1077,11.235,,"Fr. Montagnaga di Piné, Via Valt 33",+39 0461 557723,bus_stop832,bike_station30,amusement3,train_station19
+holiday_house59,GIOVANNINI SILVANO,46.1327,11.2491,,"Via del Fosch, 9",+39 0461 557932 ,bus_stop822,bike_station0,amusement3,train_station19
+holiday_house60,CONDOMINIO AL SOL,46.230833,11.300278,,"Via Al Pian, 1",+39 335 5479194,bus_stop103,bike_station28,amusement10,train_station28
+holiday_house61,AVI MARIO,46.1283,11.2366,,"Fr. Tressilla, 21",+ 39 0461 557691,bus_stop176,bike_station0,amusement3,train_station19
+holiday_house62,CASAGRANDA MAURO,46.1247,11.2413,,"Loc. Cadrobbi, 12",+39 0461 557819,bus_stop835,bike_station30,amusement3,train_station19
+holiday_house63,FONTANA ANDREA,46.125556,11.249722,,Fraz. Miola - Via del Cadrobol 20,+39 0461 557503,bus_stop823,bike_station30,amusement3,train_station19
+holiday_house64,RESIDENZA SOFIA,46.160278,11.173333,,"Loc. Ceola di Giovo, Via Nazionale, 35",+39 349 2892388,bus_stop89,bike_station28,amusement3,train_station24
+holiday_house65,DALLAFIOR LUCIANO,46.1408471,11.2568737,,"Loc. Sternigo al Lago, 66",0461 558633,bus_stop179,bike_station28,amusement3,train_station19
+holiday_house66,CA' DEI SONI,46.1086,11.2402,,"Via Grill, 5  Fr. Montagnaga",+39 0464 555034 ,bus_stop832,bike_station30,amusement3,train_station19
+holiday_house67,BORTOLOTTI IVO,46.1305042,11.2441154,,"Via Marconi, 14",+39 0461 557264,bus_stop177,bike_station0,amusement3,train_station19
+holiday_house68,ISCHIA NADIA,46.139444,11.251111,,"Fraz. Ricaldo  Via dei Piagi, 5",+39 0461 822827 ,bus_stop178,bike_station28,amusement3,train_station19
+holiday_house69,TONEZZER MATTEO,46.2305,11.2977,,"Via Ronchi, 12",+39 0461 848912 ,bus_stop103,bike_station28,amusement10,train_station28
+holiday_house70,IORIATTI SERGIO,46.140278,11.256667,,"Loc. Sternigo al Lago, 68",+39 0461 558505 ,bus_stop179,bike_station28,amusement3,train_station19
+holiday_house71,SALVATERRA FERNANDA,46.3026,11.4563,Varena,"Via Scarian, 22/A",+39(0462)341524,bus_stop768,bike_station5,amusement7,train_station28
+holiday_house72,ENI ANA,46.289115391019,11.5706741809845,Ziano di Fiemme,"VIA NAZIONALE, 115/B",+39 (347)9138667,bus_stop2666,bike_station28,amusement6,train_station37
+holiday_house73,CASA MARTINELLI,46.2946,11.4604,Cavalese,Via Revignana 3,+39(339)6404061,bus_stop65,bike_station5,amusement7,train_station40
+holiday_house74,CONCI DAVIDE,46.282865,11.436743,Castello-Molina di Fiemme,"Via Latemar, 3",+39 (0462)231674,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house75,BORTOLOTTI MAURO,46.290402,11.511575,Tesero,VIA CAVADA 16/A,,bus_stop18,bike_station28,amusement8,train_station37
+holiday_house76,CHALET CERMIS,46.2496002210523,11.5051746368408,Cavalese,"Località Alpe Cermis, 25",(0039) 347 0960325,bus_stop2420,bike_station28,amusement8,train_station37
+holiday_house77,VOCATURO ERNESTO,46.2912024,11.4605662,Cavalese,Via Costa Salici 8,(0039) 320 0768237,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house78,RUNGALDIER MARIO,46.2859125195686,11.438934803009,Castello-Molina di Fiemme,"Via Roma, 41",(0039) 0462 235507,bus_stop2178,bike_station5,amusement7,train_station28
+holiday_house79,BONINSEGNA CHIARA/Casa Nicoleta,46.3109889,11.6027703,Predazzo,"Via S.Dellagiacoma, 14",+39(0462)500176,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house80,BARBOLINI ROSA LINA,46.2865,11.4554,Cavalese,VIA PALA 4,+39(0462)341917,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house81,GUADAGNINI LORETTA,46.30314,11.60151,Predazzo,"Via delle Fontanelle, 16",(0039) 0462 501496 ,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house82,BRIGADOI GIORGIO,46.311044,11.603092,Predazzo,"Via IX Novembre, 5",+39(348)3429356,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house83,MORANDINI PIETRO,46.2974,11.5975,Predazzo,"Via C. Bernardi, 4",+39(0462)503158,bus_stop2161,bike_station28,amusement12,train_station37
+holiday_house84,DELVAI RIZZOLI OLGA,46.288,11.467,Cavalese,VIA CACCIATORI 7,+39(0462)341878,bus_stop152,bike_station5,amusement7,train_station40
+holiday_house85,ZORZI GIANFRANCO,46.2869912853824,11.5652185678482,Ziano di Fiemme,"SENTIERO DEGLI ALPINI, 1",+39(0462)571484,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house86,FANTON ROSA,46.2994,11.4022,Ville di Fiemme,LOCALITA' AGUAI 20/B,+39(333)9710810,bus_stop2157,bike_station5,amusement10,train_station28
+holiday_house87,MODENA FIORENZO,46.31117,11.60255,Predazzo,"Via IX Novembre, 4",+39(333)3450572,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house88,FESTA STEFANO,46.3078,11.6011,Predazzo,"Via Fiamme Gialle, 61",+39(039)512501,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house89,ISABELLA FIPINGER,46.2877662,11.5392303,Panchià,VIA COSTA 30/A,+39 (339) 2207580,bus_stop20,bike_station28,amusement6,train_station37
+holiday_house90,MORANDINI GIUSEPPE,46.3164,11.5989,Predazzo,"Via Mazzini, 50",+39(0462)502076,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house91,DELLAGIACOMA VANZO PATRIZIA,46.2875065646484,11.5631425380707,Ziano di Fiemme,"VIA NAZIONALE,37",+39(0462)571297,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house92,CUCCIA MARIACLARA,46.3141,11.6608,Predazzo,"Via Viezzena, 22",+39(0382)482708,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house93,BONELLI CRISTINA,46.2915037,11.4379931,Ville di Fiemme,"VIA PIAZZON, 4",+39(0462)230627,bus_stop161,bike_station5,amusement7,train_station28
+holiday_house94,VARESCO RINA,46.3131,11.6625,Predazzo,"Via Prai de Mont, 8",+39(0462)576063,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house95,VANZETTA RENZO,46.2885074529678,11.5651273727417,Ziano di Fiemme,"VIA ZANON, 3",+39(0462)571232,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house96,MAGNI FAMIGLIA,46.2871,11.4638,Cavalese,VIA MARCO 93,+39(0462)342718,bus_stop15,bike_station5,amusement7,train_station40
+holiday_house97,COSTA MARGHERITA,46.3071,11.5975,Predazzo,"Via Col. Barbieri, 20",+39(0462)501887,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house98,BONINSEGNA CHIARA / Casa Nicoleta,46.3120193583339,11.6041696071625,Predazzo,"Via S.Dellagiacoma, 14",+39(0462)500176,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house99,GIACOMUZZI GIANCARLO,46.285456540002,11.563013792038,Ziano di Fiemme,"Via Molini, 2",+39(0462)571387,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house100,MICHIELINI AGOSTINO,46.305,11.6019,Predazzo,"Via Lagorai, 65",+39(0462)501181,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house101,GIACOMUZZI CARLA,46.2903,11.4591,Cavalese,VICOLO BATTISTELLA 1,+39(0462)342580,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house102,BALUGANI LORENA,46.3037347,11.6008107,Predazzo,"Via Lagorai, 11",+39(06) 5190152,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house103,CARENI MARISA,46.2807074540364,11.5595269203186,Ziano di Fiemme,"VIA CAVELONTE, 11",+39(019)695022 ,bus_stop21,bike_station28,amusement6,train_station37
+holiday_house104,NONES NICOLETTA,46.281758,11.435393,Castello-Molina di Fiemme,VIA ROMA 10,+39(333)4898693,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house105,CEMIN RENATO,46.3126,11.603,Predazzo,"Piazza SS. Apostoli, 12",+39(0462)763137,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house106,GABRIELLI TULLIO,46.3167,11.5999,Predazzo,"Via Indipendenza, 61",+39(0342)910770,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house107,LONGO ELISA,46.2932,11.4399,Ville di Fiemme,VIA PAREDON 16,+39(0462)342778,bus_stop160,bike_station5,amusement7,train_station28
+holiday_house108,BONINSEGNA LIVIO,46.3087,11.6038,Predazzo,"Via Marconi, 6",+39(349)5835155,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house109,FINATO DINO,46.2923,11.4633,Cavalese,VIA PINETA 1,+39(0462)341254,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house110,COTTONE IVANO,46.3184,11.5993,Predazzo,"Via Bedovina, 21",+39 (0462)501635,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house111,COTTONE MIRKO,46.3184,11.5993,Predazzo,"Via Bedovina, 21B",+39(340)7852106,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house112,CARIOLI ENRICO,46.2882,11.4631,Cavalese,VIA LIBERTA' 21,+39 (333)1300446,bus_stop15,bike_station5,amusement7,train_station40
+holiday_house113,CAVIOLA DIEGO,46.3025,11.4492,Ville di Fiemme,Via Colonia 21,+39(0461)810457,bus_stop766,bike_station5,amusement7,train_station28
+holiday_house114,STOFFIE VALENTINA,46.3074,11.602,Predazzo,"Via Coronelle, 3",+39(333)6803899,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house115,TOSATO PAMELA,46.250305,11.343062,Valfloriana,"Località Casatta, 122",(0039) 347 0440128,bus_stop127,bike_station28,amusement10,train_station28
+holiday_house116,MORANDINI BRUNA,46.3274,11.5907,Predazzo,"Località al Fol, 12/A",+39(338)3814840,bus_stop26,bike_station5,amusement11,train_station37
+holiday_house117,CIRESA GIORGIO,46.2957,11.4102,Ville di Fiemme,"Via Cela, 13",+39(334)9217791,bus_stop2157,bike_station5,amusement10,train_station28
+holiday_house118,DELLAGIACOMA DELLASEGA PIA,46.3119,11.5996,Predazzo,"Via Cavour, 10",+39 0462 501194,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house119,LE PLEJADI APPARTAMENTI,46.2888972,11.4685805,Cavalese,VIA  MARCO 95/A ,+39(0462)762371,bus_stop152,bike_station5,amusement7,train_station40
+holiday_house120,MANCURTI OLGA,46.3128,11.6605,Predazzo,"Via Dossi, 2",+39(0721)806029,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house121,FULVI CLAUDIO,46.289892,11.470073,Cavalese,VIA MARCO 93,+39(339)8844550,bus_stop158,bike_station5,amusement7,train_station40
+holiday_house122,BONELLI CLAUDIO,46.3017,11.4038,Ville di Fiemme,Loc. Aguai 16/a,+39(0462)230574,bus_stop2157,bike_station5,amusement10,train_station28
+holiday_house123,VILLA MIRABELL,46.2912,11.4841,Cavalese,Loc. Marco 16,+39(0462)342014,bus_stop16,bike_station5,amusement8,train_station40
+holiday_house124,DEFRANCESCO BRUNO,46.2862,11.5456,Panchià,VIA TEMPLARI 1,+39,bus_stop20,bike_station28,amusement6,train_station37
+holiday_house125,GAMBONI SORCI ANGELA,46.2859866622288,11.5632498264313,Ziano di Fiemme,"VIA PROF. VANZETTA, 10",+39(0541)55587,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house126,VARESCO WILMA,46.2885,11.4401,Ville di Fiemme,VIA BIVIO 1B,+39(333)4247682,bus_stop11,bike_station5,amusement7,train_station28
+holiday_house127,IELLICI MARIO,46.2897,11.5139,Tesero,VIA FIA 21,(0039)0462 813161,bus_stop18,bike_station28,amusement8,train_station37
+holiday_house128,SANGIORGI CATIA,46.2926,11.4645,Cavalese,VIA MONTEBELLO 2,+39(0462)342718,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house129,BIANCOLI GANDOLFI,46.3062,11.601,Predazzo,"Via Lagorai, 6",+39(0462)501683,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house130,ZORZI SANDRA,46.2875,11.5675,Ziano di Fiemme,"VIA GIUSEPPE VERDI, 33 A",+39(0462)571733,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house131,CRISTELLON JELLICI ROSA,46.3148,11.6651,Predazzo,"VIA DE VAL, 20",+39(0462)571187,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house132,SEGAT GIORGIO,46.2909,11.4334,Ville di Fiemme,VIA LAGORAI 9 - VILLAGGIO VERONZA,+39(0471)272923,bus_stop166,bike_station5,amusement7,train_station28
+holiday_house133,BALDI GABRIELLA,46.3031,11.6005,Predazzo,"Via Lagorai, 28",+39(0462)501638,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house134,LARGER PAOLA,46.2893,11.4721,Cavalese,VIA CAVAZZAL 4,+39(0462)340205,bus_stop158,bike_station5,amusement7,train_station40
+holiday_house135,VAIA PAOLA,46.2811325,11.4825604,Cavalese,VIA GIANARDE 14,+39(0462)230826,bus_stop2817,bike_station28,amusement8,train_station40
+holiday_house136,MORONI ALESSANDRO,46.3141,11.6608,Predazzo,"Via Viezzena, 12",+39(0462)501255,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house137,DEZULIAN RITA,46.31524,11.59775,Predazzo,"Via Dolomiti, 39",+39 (0462) 501360,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house138,DELLANTONIO CLARA,46.3121,11.5982,Predazzo,"Via Minghetti, 32",+39(0462)502306,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house139,DEFLORIAN SESTO,46.3131,11.6609,Predazzo,Via Dossi,+39(0462)501355,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house140,VENTURA ADRIANA,46.2072,11.2323,Castello-Molina di Fiemme,"Via Bolzano, 24",+39 (0039) 341269,bus_stop99,bike_station28,amusement3,train_station28
+holiday_house141,CRAFFONARA ITALO,46.3108,11.6033,Predazzo,"Via IX Novembre, 6",+39(0462)501651,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house142,MANNUCCI ADOLFO,46.289892,11.470073,Cavalese,VIA MARCO 93,(0039) 0462 342718 ,bus_stop158,bike_station5,amusement7,train_station40
+holiday_house143,PELLEGRINI MARIAGRAZIA,46.2925413,11.4397947,Ville di Fiemme,"VIA GIOVANELLI, 60",+39(333)6613114,bus_stop160,bike_station5,amusement7,train_station28
+holiday_house144,ALBERTI LUISA,46.2815,11.4858,Cavalese,VIA PIZZONI 80,+39 (333) 5815142,bus_stop155,bike_station28,amusement8,train_station40
+holiday_house145,LOCHMANN VINCENZO,46.3057,11.6008,Predazzo,"Via Prof. Morandini,  5",+39(0462)500033,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house146,VANZETTA RAFFAELA,46.2870987900899,11.5602350234985,Ziano di Fiemme,"VIA CORONELLE, 5",(0039) 3333953375,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house147,CROCE LUIGIA,46.3113,11.608,Predazzo,"Via Venezia, 7a",+39(0462)501901,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house148,ZORZI GIULIANO,46.2866391133115,11.5658569335938,Ziano di Fiemme,"VIA CADUTI, 7",+39(0462)571512,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house149,FALLIVA ROBERTO,46.281883,11.435125,Castello-Molina di Fiemme,VIA CESURE 1/A,(0039)3470506400,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house150,CRISTELLON JELLICI ROSA,46.2860459762847,11.5724551677704,Ziano di Fiemme,VIA RODA 21,+39(0462)571187,bus_stop2666,bike_station28,amusement6,train_station37
+holiday_house151,ANTONIAZZI DONATELLA,46.2886,11.4575,Cavalese,"Via Cesure, 10",+39(333)2909280,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house152,CASAGRANDE ALBERTO,46.3037,11.6021,Predazzo,"Via Sandro Pertini, 9",+39(333)3874618,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house153,DEL PERO LUIGI,46.2898049,11.4609894,Cavalese,VIALE C. MENDINI 3,+39(0462)340553,bus_stop2591,bike_station5,amusement7,train_station40
+holiday_house154,GUADAGNINI ERNESTINA,46.3166,11.5999,Predazzo,"Via Indipendenza, 76",+39(0462)501452,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house155,RASTELLI AUGUSTA,46.2912024,11.4605662,Cavalese,VIA MATTEOTTI 47,+39(0462)342336,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house156,PALLA ROSALBA,46.313,11.6023,Predazzo,"Via Dante, 1",+39(0462)501455,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house157,DEFLORIAN GIOVANNI,46.3085,11.5053,Tesero,LOC. SFRONZON  22,+39(0462)813582,bus_stop1376,bike_station5,amusement8,train_station37
+holiday_house158,DELVAI AUGUSTO,46.2935,11.438,Ville di Fiemme,Via F. Tommasi 28/C,+39(340)6143626,bus_stop2043,bike_station5,amusement7,train_station28
+holiday_house159,GIACOMELLI SILVANO,46.30927,11.60275,Predazzo,"Via  Marconi, 3 ",+39 (0462) 501570,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house160,POLO VANZETTA SILVIA,46.286,11.5668,Ziano di Fiemme,"VIA GIUSEPPE VERDI, 21",+39(0462)571125,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house161,VAIA RICCARDO,46.285913,11.479908,Cavalese,"Via Milon, 9 - Masi di Cavalese",(0039) 0462 341806 ,bus_stop2816,bike_station5,amusement8,train_station40
+holiday_house162,ZENI MARIA VALENTINA,46.3162499,11.66624,Predazzo,VIA DE VAL 83,(0039) 0462 813460 ,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house163,MAS DEL TAS APPARTAMENTI,46.3128,11.6056,Predazzo,"Salita Brigadoi, 1",+39(0462)502260,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house164,BONINSEGNA CHIARA / Casa Volpin,46.3122,11.6041,Predazzo,Via S. Dellagiacoma 16,+39 (0462) 500176,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house165,DEFRANCESCO DOLORES,46.3023,11.4503,Ville di Fiemme,VIA PASQUALINE 7,+39(0462)341300,bus_stop765,bike_station5,amusement7,train_station28
+holiday_house166,BONINSEGNA MICHELANGELO,46.3138592,11.6009585,Predazzo,"Via Verdi, 7",+39(0462)502487,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house167,FOCHI MAURA,46.2894,11.47,Cavalese,Via Marco 91,+39(0521)690098,bus_stop158,bike_station5,amusement7,train_station40
+holiday_house168,TURETTA GIUSEPPE,46.3015,11.4496,Ville di Fiemme,VIA BAREL 8,+39(0471)270701,bus_stop766,bike_station5,amusement7,train_station28
+holiday_house169,QUADRAROLI FLORENZA,46.29191,11.43259,Ville di Fiemme,"Via Lagorai, 20",(0039) 347 9398213,bus_stop166,bike_station5,amusement7,train_station28
+holiday_house170,SPAZZALI GIANCARLA,46.29007,11.4578399,Cavalese,VIA UNTERPERGER 1,+39(0039)232378,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house171,RIZZOLI GIUSEPPINA,46.2891063,11.454834,Cavalese,"VIA DOSSI, 19",+39(328)3410406,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house172,GIOVANELLI FIRMO,46.2931,11.4398,Ville di Fiemme,VIA PAREDON 8/A,+39(0471)202028,bus_stop160,bike_station5,amusement7,train_station28
+holiday_house173,APPARTAMENTI NEGRITELLA DI DEGIAMPIETRO MARIO,46.28931,11.45417,Cavalese,"Via Dossi, 22",(0039) 349 6354068,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house174,SANGIORGI CATIA,46.292512,11.460786,Cavalese,"Via Montebello, 2",(0039) 0462 342718,bus_stop1823,bike_station5,amusement7,train_station40
+holiday_house175,DELLASEGA ANTONIO,46.3078,11.6011,Predazzo,"Via Fiamme Gialle, 44",+39(0462)501194,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house176,CORRADINI CARLA,46.2839,11.5436,Panchià,Via Cavelonte 10,+39(0462)814780,bus_stop20,bike_station28,amusement6,train_station37
+holiday_house177,CAVADA MARIA CRISTINA,46.2071,11.2324,Castello-Molina di Fiemme,"Via Bolzano, 30",(0039)(328)8419623,bus_stop99,bike_station28,amusement3,train_station28
+holiday_house178,FONTANARi ANGELA,46.2868,11.5671,Ziano di Fiemme,"VIA GIUSEPPE VERDI, 25",+39(0462)571564,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house179,BETTA NATALINA,46.2919,11.4644,Cavalese,"Via G. Betta,  4",+39(333)1784939,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house180,ZANCANELLA RAFFAELE,46.2871499,11.44816,Cavalese,VIA DEI GIGLI 3,(0039) 340 3228423,bus_stop2827,bike_station5,amusement7,train_station28
+holiday_house181,MENTANI LUCA,46.2832789,11.5685974,Ziano di Fiemme,"Via Bosin, 28",(0039)3474748031,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house182,CHELODI BETTA ESTER,46.2896,11.4637,Cavalese,VIA ROMA 5,+39(0462)230504,bus_stop15,bike_station5,amusement7,train_station40
+holiday_house183,MARTINI ANNALISA,46.2863,11.5575,Ziano di Fiemme,"VIA PARTI DEL CIOTO,2 A",+39(0521)231826,bus_stop21,bike_station28,amusement6,train_station37
+holiday_house184,DELLADIO FABIANA E SAVERIA,46.2895,11.5091,Tesero,VIA ROMA 32,+39(0462)813103,bus_stop18,bike_station28,amusement8,train_station37
+holiday_house185,DELLASEGA ROBERTA,46.3158,11.5989,Predazzo,"Via Mazzini, 63",+39(0462)502142,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house186,VINANTE ALESSANDRO,46.283513,11.524658,Tesero,VIA TRESSELUME 2,(0039) 0462 814518,bus_stop820,bike_station28,amusement6,train_station37
+holiday_house187,MODENA FIORENZO,46.3079,11.5995,Predazzo,"Via Col. Barbieri, 3/E",+39(333)3450572,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house188,LONGO MARIA AGNESE,46.3181,11.5009,Tesero,VIA CUCAL 4,+39(0039)813404,bus_stop1377,bike_station5,amusement9,train_station40
+holiday_house189,CORRADINI LORETTA,46.2904,11.4665,Cavalese,"Via Zandonai, 8",+39(0462)230837,bus_stop152,bike_station5,amusement7,train_station40
+holiday_house190,CASA SILVANO WELPONER,46.29175,11.4606999,Cavalese,"VICOLO ZENI, 4",+39(0462)342702,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house191,VANZETTA LORENZO,46.2864315160826,11.5591621398926,Ziano di Fiemme,VIA NAZIONALE 14,+39 (333) 4750761,bus_stop21,bike_station28,amusement6,train_station37
+holiday_house192,DEL DIN MARCO,46.2875,11.4537,Cavalese,VIA DELUGAN 6,+39(0462)232160,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house193,UTILI FULVIO,46.3055,11.463,Varena,VIA CANTALGER 7,+39(02)4045339,bus_stop1378,bike_station5,amusement7,train_station28
+holiday_house194,GABRIELLI GIUSEPPINA,46.3032,11.6006,Predazzo,"Via Lagorai, 12",+39(0462)500107,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house195,FIORINI ZELINDA PERBELLINI RENZO,46.3107,11.6044,Predazzo,"Via Bedovei, 5",+39(045)8730792,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house196,NEGRO EMILIO,46.314499,11.661994,Predazzo,"Via Viezzena, 28",(0039) 333 3016524 ,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house197,VOLPETTI FRANCESCA,46.3076,11.6006,Predazzo,"VIA FIAMME GIALLE, 4",+39 (0462)502901,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house198,MONTAGNA GIUSY,46.2871,11.4562,Cavalese,Via Avisio 20,+39(0462)230923,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house199,GNUDI GIANFRANCA,46.317852,11.598482,Predazzo,"VIA POZ, 63",(0039) 051 550586 ,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house200,BRAITO ELVIRA,46.2836,11.4374,Castello-Molina di Fiemme,"Via Roma, 52",+39(0462)231793,bus_stop2178,bike_station5,amusement7,train_station28
+holiday_house201,DELVAI ERNESTO,46.2915,11.4368,Ville di Fiemme,VIA FONTANELLE  4,+39(0462)340015,bus_stop817,bike_station5,amusement7,train_station28
+holiday_house202,DELLAGIACOMA GIUSEPPINA,46.3122426,11.6037886,Predazzo,"Via Dellagiacoma, 24",(0039) 0462 501056  ,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house203,BRESSANI GIANLUIGI,46.285773,11.575428,Ziano di Fiemme,"VIA BASTER, 2/A",(0039)348 7252095   ,bus_stop2666,bike_station28,amusement6,train_station37
+holiday_house204,DEMATTIO MARIA ERNA,46.2935,11.4582,Cavalese,VIA ROCCA 1,+39(0462)340212,bus_stop65,bike_station5,amusement7,train_station40
+holiday_house205,BRAITO LUCIANO,46.3009,11.4477,Ville di Fiemme,"Via Miramonti, 5",+39(0462)342493,bus_stop766,bike_station5,amusement7,train_station28
+holiday_house206,BETTA NATALINA,46.2911,11.4618,Cavalese,"Via Barattieri, 10",+39(333)1784939,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house207,LESO ERIBERTO,46.3167,11.5999,Predazzo,"Via Indipendenza, 57/a",+39(0462)503129,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house208,GALVAN RENZO,46.2854528328355,11.4770650863647,Cavalese,Via Milon 15,(0039) 335 5730817,bus_stop2816,bike_station5,amusement8,train_station40
+holiday_house209,CASA SOREGHINA DI VARESCO MARIA,46.3131,11.6625,Predazzo,"Via Prai de Mont, 41",+39(0039)576120,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house210,IELLICI BIANCA MARIA,46.3128755,11.6631891,Predazzo,"VIA PRAI DE MONT, 38",(0039) 347 0748581,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house211,LA DUCA ELOISA,46.2822942358139,11.4362955093384,Castello-Molina di Fiemme,"Via Latemar, 1/C",(0039) 328 3052415,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house212,DEFLORIAN GERARDO,46.3113,11.6039,Predazzo,"Via IX Novembre, 40",+39 (0462) 501355,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house213,MARCH SARA,46.2723959,11.420648,Castello-Molina di Fiemme,VIA SEGHERIE 33,+39(0461)864332,bus_stop2478,bike_station5,amusement10,train_station28
+holiday_house214,TRETTEL PAOLO,46.2885,11.5059,Tesero,VIA SOCCE 5,+39(349)6126590,bus_stop2664,bike_station28,amusement8,train_station37
+holiday_house215,ZANOL TULLIO,46.2866094566127,11.5744292736053,Ziano di Fiemme,"VIA CASCATELLE, 9",+39(0462)571302,bus_stop2666,bike_station28,amusement6,train_station37
+holiday_house216,CAVADA ANNALISA,46.293112,11.460171,Cavalese,VIA VANZO 6,,bus_stop1823,bike_station5,amusement7,train_station40
+holiday_house217,DEFRANCESCO GIOVANNI,46.2906,11.459,Cavalese,Piazza Ress 2,+39(0462)232264,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house218,BONORA RINA,46.3274,11.5907,Predazzo,"Loc. Al Fol, 4",+39(0462)501520,bus_stop26,bike_station5,amusement11,train_station37
+holiday_house219,MORANDINI GIUSEPPE,46.31311,11.60245,Predazzo,"Via Dante, 1a",+39(0462)502076,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house220,ZORZI GIORGIO,46.2894712540643,11.5706956386566,Ziano di Fiemme,"VIA CASABIANCA, 12",+39(0462)571450,bus_stop2666,bike_station28,amusement6,train_station37
+holiday_house221,PEZZO FAUSTO,46.3078,11.6011,Predazzo,"Via Fiamme Gialle, 12",+39(0461)913434,bus_stop2668,bike_station28,amusement12,train_station37
+holiday_house222,GUADAGNINI LORETTA Via Garibaldi,46.31089,11.60134,Predazzo,"Via Garibaldi,26",(0039) 333 7835639,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house223,ANTONIAZZI PATRIZIA,46.288,11.4611,Cavalese,VIA PIEVE 8,+39(348)7361365,bus_stop15,bike_station5,amusement7,train_station40
+holiday_house224,ZORZI PAOLO,46.2865,11.5597,Ziano di Fiemme,"VIA SCOPOLI, 2",+39(0462)571165,bus_stop21,bike_station28,amusement6,train_station37
+holiday_house225,VARESCO  WILMA,46.29095,11.43895,Ville di Fiemme,VIA GIOVANELLI 59/C,+39(333)4247682,bus_stop161,bike_station5,amusement7,train_station28
+holiday_house226,BRIGADOI VALENTINO,46.312,11.5981,Predazzo,"Via Minghetti, 5",+39(0462)501329,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house227,BERTASI RITA,46.3181269,11.50167,Tesero,LOCALITA' STAVA 18/A,(0039) 347 3896257 ,bus_stop1377,bike_station5,amusement9,train_station40
+holiday_house228,GUADAGNINI GIACOMO,46.3023,11.6023,Predazzo,"Via delle Fontanele, 10",+39(0462)501485,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house229,AMADIO AVERARDO,46.283,11.4349,Castello-Molina di Fiemme,Via Campo Liberto 4,+39(045)8302848,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house230,CASAL CARLO,46.2643119,11.337547,Capriana,VIA ANTERIVO 14,+39(389)5126709,bus_stop105,bike_station5,amusement10,train_station28
+holiday_house231,DE VILLA FERRUCCIO,46.312,11.5981,Predazzo,"Via Minghetti, 60",+39(0462)502079,bus_stop1884,bike_station5,amusement12,train_station37
+holiday_house232,FANTÓ ANTONELLA,46.2750678,11.4651669,Cavalese,LOCALITA' SALANZADA,+39(06)3610464 ,bus_stop15,bike_station28,amusement8,train_station40
+holiday_house233,CAVIOLA IDA,46.2902,11.4568,Cavalese,"VIA PASQUAI, 5",+39(0462)342951,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house234,BONINSEGNA GIOVANNI,46.3113,11.6001,Predazzo,"Via Pra' Maor, 8",+39(0462)502710,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house235,ECCHER RENZO,46.2824,11.4381,Castello-Molina di Fiemme,VIA DOLOMITI 43,+39(0461)685078,bus_stop113,bike_station5,amusement7,train_station28
+holiday_house236,BENUZZI GIULIO,46.3105,11.6012,Predazzo,"Via Pencati, 15",+39(0462)500176,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house237,VANZETTA FRANCESCA,46.2873656974168,11.5613722801208,Ziano di Fiemme,"VIA CORONELLE, 5",(0039) 3333953375,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house238,PIAZZI GABRIELE,46.3162,11.5031,Tesero,LOC. STAVA  11,+39(0462)813029,bus_stop1377,bike_station5,amusement7,train_station37
+holiday_house239,RIGOTTI ENZO,46.3011,11.4456,Ville di Fiemme,VIA S. TOMMASO 5,+39(0462)230234,bus_stop815,bike_station5,amusement7,train_station28
+holiday_house240,CAVADA OLGA,46.2856233622349,11.5658891201019,Ziano di Fiemme,"Via Giuseppe Verdi , 14",+39(0462)570086,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house241,DALPALU' GIOVANNA,46.2802,11.4334,Castello-Molina di Fiemme,VIA MILANO 21,+39(388)8488094,bus_stop10,bike_station5,amusement10,train_station28
+holiday_house242,KINOWEB APPARTAMENTI,46.2900935,11.4566416,Cavalese,VIA PASQUAI 6,+393405721631,bus_stop1510,bike_station5,amusement7,train_station40
+holiday_house243,ZORZI GIANFRANCO,46.3141,11.6608,Predazzo,"Via Viezzena,10",+39(0462)501255,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house244,MARINO RENATA,46.3048,11.6013,Predazzo,"Via dei Lagorai, 30",+39(0541)53147,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house245,MONSORNO  NADIA,46.3013677,11.4530137,Ville di Fiemme,Via Lunga 42,(0039) (349) 5322417,bus_stop767,bike_station5,amusement7,train_station28
+holiday_house246,LAFORGIA ANTONIO,46.3098,11.6019,Predazzo,VIA TRENTO 19,+39 (0462) 502943,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house247,GIANMOENA MARIAELENA,46.2958021,11.4603494,Cavalese,"VIA VALLE, 1",+39(338)2063667,bus_stop2145,bike_station5,amusement7,train_station40
+holiday_house248,DI GIROLAMO BARBARA,46.31683,11.60082,Predazzo,"VIA BEDOVINA, 24",+39(0462)502333 ,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house249,CORSO FRANCO,46.2901777,11.4605315,Cavalese,VIA G. DEL VAI 4 ,+39(0462)342628,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house250,BERNARDI REMO,46.2913,11.4639,Cavalese,Via Doss di Mezzodì 16,+39(0461)912759,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house251,MUNDA CALOGERO,46.2920752,11.4319375,Ville di Fiemme,"VIA LATEMAR 10, VILLAGGIO VERONZA",(0039) 320 4889815,bus_stop166,bike_station5,amusement7,train_station28
+holiday_house252,RUNGALDIER MARIO,46.2858754482008,11.4388704299927,Castello-Molina di Fiemme,Via Roma 41,+39(0462)235507,bus_stop2178,bike_station5,amusement7,train_station28
+holiday_house253,MICH DARIO,46.28110786125,11.5595161914825,Ziano di Fiemme,"VIA CAVELONTE, 18",+39(338)6454653,bus_stop21,bike_station28,amusement6,train_station37
+holiday_house254,VENTURINI ADRIANO,46.28724,11.4504,Cavalese,"Via Marmolaia,4",(0039) 347 2950264,bus_stop2827,bike_station5,amusement7,train_station40
+holiday_house255,MASO CHELO',46.2860284,11.4811959,Cavalese,Località Chelò,+39(0462)342014,bus_stop2816,bike_station5,amusement8,train_station40
+holiday_house256,ZORZI CARLO,46.2877,11.5391,Panchià,VIA COSTA 21,(0039) 0462/814245,bus_stop20,bike_station28,amusement6,train_station37
+holiday_house257,VENTURA ROMANO,46.2818,11.431,Castello-Molina di Fiemme,"Via Stazione, 6",,bus_stop9,bike_station5,amusement10,train_station28
+holiday_house258,CASATI GIULIANO,46.3131,11.6609,Predazzo,"Via Dossi, 2",+39(02)39262171,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house259,ZORZI GIAMPAOLO,46.2869208511494,11.564649939537,Ziano di Fiemme,"SENTIERO DEGLI ALPINI, 10",+39(0462)571390,bus_stop2390,bike_station28,amusement6,train_station37
+holiday_house260,DELLANTONIO LUIGI,46.3139,11.6688,Predazzo,"Via Serradori, 2",+39(0462)502234,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house261,HENDEL LORENZO,46.2912024,11.4605662,Cavalese,"via Paradisi, 19",(0039) 346 3776526,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house262,SPINEL BENIAMINO,46.3002,11.45,Ville di Fiemme,Via San Tommaso 23,+39(0462)341243,bus_stop765,bike_station5,amusement7,train_station28
+holiday_house263,BAITA L'OR,46.312,11.6617,Predazzo,"Via de l'Or, 32",(0039)0462 501194,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house264,PIAZZI CLEMENTE,46.287,11.51,Tesero,"VIA SOTTOPEDONDA, 16",+39 (0462) 813603,bus_stop18,bike_station28,amusement8,train_station37
+holiday_house265,DEMARCHI LORENZO,46.2906,11.4548,Cavalese,VIA TRENTO 20,+39(0462)341377,bus_stop13,bike_station5,amusement7,train_station40
+holiday_house266,PIAZZI ANNA MARIA,46.2929,11.4601,Cavalese,VIA VANZO 9,+39(338)3816703,bus_stop1823,bike_station5,amusement7,train_station40
+holiday_house267,MARASTONI LAURO,46.2908,11.4677,Cavalese,VIA PARADISI 23,+39(338)7489220,bus_stop152,bike_station5,amusement7,train_station40
+holiday_house268,GABRIELLI EVARISTO,46.3109889,11.6027703,Predazzo,Via San Nicolò 4,(0039) 0462 503092,bus_stop24,bike_station28,amusement12,train_station37
+holiday_house269,SIMEONI RITA,46.3158,11.5989,Predazzo,"Via Mazzini, 61",+39(338)2020074,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house270,BACCHINI PATRIZIO,46.3484,11.4907,Varena,Passo Lavazè 17/A,+39(0462)342056,bus_stop1377,bike_station4,amusement9,train_station28
+holiday_house271,IMMOBILIARE SAN VITO,46.3175887,11.6000307,Predazzo,"VIA BEDOVINA, 47",+39(071)913887,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house272,LONGO PAOLA,46.300706,11.5058623,Tesero,"VIA STAVA, 96",+39(349)8067800,bus_stop2750,bike_station5,amusement8,train_station37
+holiday_house273,VINANTE DARIA,46.2906,11.4599,Cavalese,VIA PIZZEGODA 2,+39(0462)342718,bus_stop14,bike_station5,amusement7,train_station40
+holiday_house274,MONSORNO MARIA,46.2958021,11.4603494,Cavalese,"VIA VALLE, 2",+39(0462)342266,bus_stop2145,bike_station5,amusement7,train_station40
+holiday_house275,GUADAGNINI ANGELA,46.3166,11.5971,Predazzo,"Corso Dolomiti, 19",+39(0462)501470,bus_stop25,bike_station5,amusement12,train_station37
+holiday_house276,BULFON BRIGADOI NELLA,46.3139,11.6688,Predazzo,"Via Serradori, 32",+39(0462)501329,bus_stop732,bike_station28,amusement12,train_station37
+holiday_house277,DEFRANCESCO DOLORES,46.2839,11.5434,Panchià,VIA CAVELONTE 10,+39(0462)341300,bus_stop20,bike_station28,amusement6,train_station37
+holiday_house278,BONELLI PAOLO,46.2924,11.4582,Cavalese,Via 9 Novembre 8,+39(0462)341819,bus_stop1823,bike_station5,amusement7,train_station40
+holiday_house279,FONTANARI LUIGI,46.2869949924448,11.5671014785767,Ziano di Fiemme,"VIA GIUSEPPE VERDI, 27",+39(0462)571748,bus_stop22,bike_station28,amusement6,train_station37
+holiday_house280,GABRIELLI DUNIA,46.3106,11.6014,Predazzo,"Via Garibaldi, 43",+39(347)9927812,bus_stop1884,bike_station28,amusement12,train_station37
+holiday_house281,BUTTARELLI ATTILIO,46.2884499,11.4492982,Cavalese,Via Bonora,(0039) 0462 342718,bus_stop1822,bike_station5,amusement7,train_station28
+holiday_house282,CASA SILVANO WELPONER,46.2946018,11.4556249,Cavalese,"Via Matteotti, 12",+39(0462)342702,bus_stop764,bike_station5,amusement7,train_station40
+holiday_house283,ZANON ENOS,46.3048,11.6013,Predazzo,"VIA LAGORAI, 20",+39(0462)501264,bus_stop23,bike_station28,amusement12,train_station37
+holiday_house284,BAITA FIGLIEZZI,46.0708488122203,11.6237497329712,Castello Tesino,Loc. Figliezzi,+39 (348) 5816405,bus_stop543,bike_station68,amusement2,train_station39
+holiday_house285,MOSER MARIA RICCARDA - CASA LIBA,46.0028270426318,11.2464380264282,Calceranica Al Lago,"Corso Alpini, 41 ",(0039) 349 2585007,bus_stop2714,bike_station51,amusement5,train_station5
+holiday_house286,MARTINELLI ANNA MARIA,46.0042,11.2458,Calceranica Al Lago,"VIA AL LAGO, 11",+39(0461)724207,bus_stop562,bike_station51,amusement5,train_station5
+holiday_house287,CHALET CAMPOLONGO di OSS REMO E VANNINI AMELIA,46.0278,11.2472,Pergine Valusgana,VIA CAMPOLONGO 1-3,+39 (0461) 531559,bus_stop1160,bike_station68,amusement5,train_station18
+holiday_house288,CHALET MUSIERA,46.1028160814592,11.4894676208496,Telve Valsugana,LOC. MUSIERA ALTA,+39 (0461) 766414,bus_stop785,bike_station68,amusement4,train_station40
+holiday_house289,MOSCHEN ALESSANDRA,46.0106143517355,11.2906837463379,Levico Terme,"Viale Lido, 35",(0039) 0461 707711,bus_stop559,bike_station68,amusement5,train_station7
+holiday_house290,BAITA LISSA DI BALLERIN EMILIO,46.0723672300047,11.6290497779846,Castello Tesino,Loc. Lissa,+0039 (0461) 594989,bus_stop544,bike_station68,amusement2,train_station39
+holiday_house291,NOEMI BRUNA BRENTARI,46.0688316337916,11.6081070899963,Pieve Tesino,"Via Cesare Battisti, 27",+39(0461)594171,bus_stop797,bike_station68,amusement2,train_station39
+holiday_house292,CASA PARADISO,46.0666803918037,11.6261744499207,Castello Tesino,"VIA BAILI, 30",(0039) 347 8462891,bus_stop544,bike_station68,amusement2,train_station39
+holiday_house293,CASA ELI di Ferrari Claudia,46.0166645948594,11.3031077384949,Levico Terme,STRADA PROV. PER VETRIOLO 13/A,+39 (0461) 707787,bus_stop2410,bike_station68,amusement5,train_station7
+holiday_house294,CHALET PINETA di OSS REMO E VANNINI AMELIA,46.0258132125181,11.2486267089844,Pergine Valusgana,VIA CAMPOLONGO 1-3,+39 (0461) 531559,bus_stop1161,bike_station68,amusement5,train_station18
+holiday_house295,LORENZINI SERGIO,46.0121791332399,11.3032740354538,Levico Terme,Giovanni Prati 27,+39(0461)706261,bus_stop2410,bike_station68,amusement5,train_station7
+holiday_house296,CASA DEI CILIEGI - Libardi Antonio,46.009399752717,11.3126564025879,Levico Terme,"VIA NARORE', 16",+39(0461) 701593 ,bus_stop513,bike_station68,amusement5,train_station7
+holiday_house297,GRISENTI ROBERTO,46.0418575,11.3067494,Levico Terme,LOC. VETRIOLO TERME,(0039) 0461 1733333,bus_stop1843,bike_station68,amusement5,train_station7
+holiday_house298,OSLER GIACOMO,46.0082894517523,11.3008546829224,Levico Terme,A Pra' 22 - 28,+39(0461)706371,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house299,PIZZINI ANGELA,46.0581699,11.52232,Castel Ivano,"Via Franceschini, 11",(0039) 0461 762948 ,bus_stop527,bike_station68,amusement2,train_station37
+holiday_house300,NADALINI GIULIANO,46.0101,11.3024,Levico Terme,Via Cavour 34,(0039) 0461 858654,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house301,MARTELLO GUIDO,46.0133,11.2944,Levico Terme,don Mario Bebber 7,+39(0461)702334,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house302,BRIDA ALBERTO,45.9984410755044,11.2643069028854,Caldonazzo,Via Broleto 14,(0039) 0461 724848,bus_stop637,bike_station51,amusement5,train_station4
+holiday_house303,PACHER MARIO,46.0099,11.2942,Levico Terme,Brenta 12,+39(0461)706380,bus_stop559,bike_station68,amusement5,train_station7
+holiday_house304,APPARTAMENTO AI TISI  di Cirulli Egle,46.081314,11.5212475,Samone,"VIA MONTE CIMA, 5/C",+39 (0461) 763146,bus_stop1012,bike_station68,amusement2,train_station37
+holiday_house305,BERTOLINI ALESSANDRA,46.0097,11.3118,Levico Terme,"De Gasparri,37",+39(0461)707316,bus_stop490,bike_station68,amusement5,train_station7
+holiday_house306,MANFREDI LIA,46.0107,11.3034,Levico Terme,"VIA MARCONI, 27",+39 (0461) 701285,bus_stop1934,bike_station68,amusement5,train_station7
+holiday_house307,BAITA MIRALEFRE,46.081268486046,11.537082195282,Castel Ivano,LOC. LUNAZZA,+39 (0461) 763146,bus_stop531,bike_station68,amusement2,train_station37
+holiday_house308,VETTORAZZI ROSANNA,46.012,11.3005,Levico Terme,"VIA ROCCHE, 30",+39 (0461) 707007,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house309,BAITA CORNALÈ,46.0694792230928,11.6339635848999,Castello Tesino,LOCALITA' CORNALÈ N. 2,+39(0461)593375,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house310,BAITA DEGLI ANGELI di Walter Viero,46.1181085739068,11.654691696167,Castello Tesino,Loc. Marande,+0039 (0039) 1606765,bus_stop635,bike_station68,amusement4,train_station39
+holiday_house311,BERGAMO MARTA,46.02497,11.22842,Pergine Valsugana,"Località Valcanover, 106/d",(0039) 335 8143123,bus_stop2223,bike_station68,amusement3,train_station18
+holiday_house312,CASA CADENZI di Postai Riccardo,46.0518,11.4013,Roncegno Terme,alle Fonti  14,+39(0461)764176,bus_stop813,bike_station68,amusement5,train_station15
+holiday_house313,CIPOLLA RINO,46.0107,11.294,Levico Terme,Via Brenta 14,+39 (333) 4702637,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house314,APPARTAMENTO AL LAGO,46.0039523579267,11.258647441864,Calceranica Al Lago,"VIALE VENEZIA, 10",+39 (328) 7474848,bus_stop637,bike_station51,amusement5,train_station4
+holiday_house315,VILLA SOPHIE,46.0390119697384,11.2341642379761,Pergine Valsugana,"Via Europa, 65",(0039) 0461 533267,bus_stop564,bike_station68,amusement3,train_station18
+holiday_house316,CETTO MARIO,46.0088,11.3123,Levico Terme,Giannettini 29,+39(0461)706310,bus_stop488,bike_station68,amusement5,train_station7
+holiday_house317,BRAUS SIRO,46.0621,11.6343,Castello Tesino,"Via Dante, 16",(0039) 0461922221,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house318,MORANDUZZO PIERSISTO,46.0603,11.6349,Castello Tesino,Via Venezia 42,+39 (338) 2982980,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house319,MAGNAGO GIORGIO,46.015,11.2964,Levico Terme,"VIA SAN BIAGIO, 12",+39 (0461) 706005,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house320,APPARTAMENTO VERDEBLEU - CARLINI CARLA,46.01205991335,11.2949270009995,Levico Terme,via S. Croce 38,+39(0461)707511,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house321,APPARTAMENTO AL LAGO,46.0028270426318,11.2414920330048,Calceranica Al Lago,via della Miniera 21,,bus_stop553,bike_station51,amusement5,train_station5
+holiday_house322,GELMETTI MERCEDES,46.0104550768499,11.2980397045612,Levico Terme,"VIA BION, 15",+39 (0461) 707016,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house323,GROFF GIORGIO,46.0138183806658,11.2938380241394,Levico Terme,"Via Al Lago, 49",(0039) 0461 706610,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house324,STELDERHOF,46.1291,11.349,Palù del Fersina,.,+39(0461)550081,bus_stop279,bike_station28,amusement3,train_station15
+holiday_house325,ZAMPIERO GIUSEPPINA,46.0658020059187,11.6269254684448,Castello Tesino,"Via Baili, 32",+39(0461)594441,bus_stop545,bike_station68,amusement2,train_station39
+holiday_house326,PASQUALIN IDA,46.0657424538273,11.6286635398865,Castello Tesino,"Via C. Battisti, 10",+0039 (0461) 594989,bus_stop545,bike_station68,amusement2,train_station39
+holiday_house327,AVANZO MARIA,46.0691963689303,11.6078174114227,Pieve Tesino,"VIA DEGASPERI, 19",+39 (339) 6984804,bus_stop538,bike_station68,amusement2,train_station39
+holiday_house328,SOGGIORNO CARRARO,46.0572705142721,11.5212464332581,Castel Ivano,"VIA FRANCESCHINI, 2",+39(0461)762767,bus_stop527,bike_station68,amusement2,train_station37
+holiday_house329,BANELLI MARIO,46.0342378396148,11.2459874153137,Pergine Valusgana,"VIA VAL DE SAS, 50",+39 (0575) 680105,bus_stop1159,bike_station68,amusement3,train_station18
+holiday_house330,CETTO GIANCARLO,46.0121,11.3161,Levico Terme,per Selva 14,+39(0461)703038,bus_stop513,bike_station68,amusement5,train_station7
+holiday_house331,CHALET MUSIERA,46.1013580153235,11.4868497848511,Telve Valsugana,LOC. MUSIERA ALTA,+39 (0461) 766414,bus_stop785,bike_station68,amusement4,train_station40
+holiday_house332,FERRARI MICHELA,46.0041,11.2444,Calceranica Al Lago,"VIA ASILO, 8",+39 (0461) 848614,bus_stop562,bike_station51,amusement5,train_station5
+holiday_house333,DEFLORIAN GIOVANNA,46.0546,11.2358,Pergine Valusgana,Via  Al Lago 33/Bis,+39(388)8488094,bus_stop548,bike_station68,amusement3,train_station19
+holiday_house334,MOSCHEN ALESSANDRA,46.0092961,11.294123,Levico Terme,"Via per Caldonazzo, 79",(0039) 333 6465033,bus_stop559,bike_station68,amusement5,train_station7
+holiday_house335,CASA GIALLA,45.9950237301642,11.3133430480957,Levico Terme,"VIA AL DAZIO, 8",(0039) 349 3896355,bus_stop504,bike_station51,amusement5,train_station7
+holiday_house336,ROSATI MARIA GRAZIA,46.0388369504105,11.234872341156,Pergine Valsugana,"Viale Europa, 37 - S.Cristoforo",(0039) 0461 532437,bus_stop564,bike_station68,amusement3,train_station18
+holiday_house337,GAIGHER PAOLO,46.0119,11.299,Levico Terme,"Via Garibaldi, 28",+39(0461)706620,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house338,MAS DE L'ORS,46.1291,11.349,Palù del Fersina,LOC. HOF,+39(0461)550019,bus_stop279,bike_station28,amusement3,train_station15
+holiday_house339,SETTICASI FRANCESCA,46.0098095897232,11.2999749183655,Levico Terme,"Corso Centrale, 70",(0039) 0922 984734,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house340,ZANETTIN GUSTAVO,46.0642834075212,11.6323435306549,Castello Tesino,"Via Martino Braus, 2",(0039) 338 7050953,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house341,TOMASI NADIA,46.0122536455406,11.3028931617737,Levico Terme,"Piazza San Rocco, 8",(0039) 0461 706581,bus_stop2410,bike_station68,amusement5,train_station7
+holiday_house342,SORDO FRANCO,46.060486728763,11.6346073150635,Castello Tesino,"VIA VENEZIA, 44B",(0039) 0461 594651,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house343,LORENZINI AURELIA,46.0104019851195,11.3003182411194,Levico Terme,"Via Avancini, 10",(0039) 0461 706031,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house344,CASA TITTI,46.0524,11.4578,Borgo Valsugana,"VIA MAZZINI, 4",+39 (0461) 754174,bus_stop494,bike_station68,amusement5,train_station8
+holiday_house345,SORDO FRANCO,46.0642945738383,11.6313457489014,Castello Tesino,"Via Baili, 12",(0039) 0461 594651,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house346,ANNA ANDREATTA,46.0143,11.3038,Levico Terme,Via Montel 58,+39 (0461) 707664,bus_stop2410,bike_station68,amusement5,train_station7
+holiday_house347,DI BELLO GIOVANNI,46.0021,11.2647,Caldonazzo,Andanta 52 - loc Roro,+039(0461)234826,bus_stop637,bike_station51,amusement5,train_station4
+holiday_house348,LORENZINI MONICA,46.0108,11.3006,Levico Terme,"VIA XI FEBBRAIO, 25",+39 (0461) 701404,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house349,MENGUZZATO SABRINA - CASA VEGLIA,46.0640675249458,11.633448600769,Castello Tesino,"VIA LUGO, 7A",(0039) 0471 285136,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house350,VILLA ABETINA,46.0415441022364,11.3081073760986,Levico Terme,Località  Vetriolo Terme,(0039) 034 1251013,bus_stop1843,bike_station68,amusement5,train_station7
+holiday_house351,CASA DELLE ROSE,46.1138842239054,11.3074636459351,Sant'Orsola Terme,Località Roro 1,+39 (0461) 551446,bus_stop272,bike_station68,amusement3,train_station19
+holiday_house352,NADALINI GIULIANO,46.010107651093,11.3024210929871,Levico Terme,Via Cavour 34,(0039) 0461 858654,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house353,MAS DEI OSTI,46.1118,11.2998,Sant'Orsola Terme,Località Castello,+39(0039)551334,bus_stop281,bike_station68,amusement3,train_station19
+holiday_house354,ORLER FRANCO,46.0372,11.3908,Roncegno Terme,"Via della sega, 21/A",+39 (0461) 773319,bus_stop520,bike_station68,amusement5,train_station15
+holiday_house355,CARLINI CARLA  - CASA ROBERTO,46.0012545438469,11.3409805297852,Levico Terme,"Via per Sella, 33/A - Frazione Barco",(0039)0461 707511,bus_stop489,bike_station68,amusement5,train_station7
+holiday_house356,BAITA CORNALE,46.0696429801034,11.634156703949,Castello Tesino,LOCALITA' CORNALÈ N. 2,+39(0461)593375,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house357,NADALINI GIULIANO,46.0101672631742,11.3023567199707,Levico Terme,Via Cavour 34,(0039) 0461 858654,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house358,GELMETTI MERCEDES,46.0104,11.2981,Levico Terme,"VIA BION, 15",+39 (0461) 707016,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house359,TEDON,46.1484429791726,11.5229415893555,Scurelle,Località Val Campelle ,(0039) 338 7854119,bus_stop532,bike_station28,amusement4,train_station37
+holiday_house360,MERIGGI LIDIA E MOSCHEN ELDA,46.012,11.295,Levico Terme,"VIA SANTA CROCE, 20",+39 (0461) 706733,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house361,BOSO ROBERTO,46.0643727379951,11.6287708282471,Castello Tesino,"VIA BAILI, 85",+39(0461)593166,bus_stop545,bike_station68,amusement2,train_station39
+holiday_house362,BAITA SPERANDIO - CASA PER FERIE,46.1139734740849,11.6449928283691,Pieve Tesino,LOC. TELVAGOLA N.15,+39(0461)594936,bus_stop543,bike_station68,amusement4,train_station39
+holiday_house363,CASTAGNOLI MARIO,46.0018507571774,11.2636470794678,Caldonazzo,"VIA AL LAGO, 43",+39 (0461) 724081,bus_stop637,bike_station51,amusement5,train_station4
+holiday_house364,NICETTO FRANCA,46.0653255873891,11.6324293613434,Castello Tesino,"Via Donato Pelloso, 18",+0039 (333) 4408885,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house365,DALMASO RENATO,46.0093,11.2994,Levico Terme,via Brolotondo 6,+39(0461)706183,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house366,CASA PRANDEL di Bruno Prandel,46.0096,11.2984,Levico Terme,"Via Claudia Augusta, 4",+39 (0461) 707564,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house367,BORT ALDO,45.9949566482091,11.2664580345154,Caldonazzo,"Via Brenta, 16 a",+039(0461)724567,bus_stop637,bike_station51,amusement5,train_station4
+holiday_house368,MENATO GIULIO,46.0649459384296,11.6333091259003,Castello Tesino,Via Menguzzato,+39 (0461) 924868,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house369,FERRARI GIULIA,45.9993,11.2535,Calceranica Al Lago,"VIA ANDANTA, 11",+39 (0461) 723492,bus_stop561,bike_station51,amusement5,train_station4
+holiday_house370,BOSO ROBERTO,46.0648566088833,11.6326224803925,Castello Tesino,"Via Martinelli, 5 ",(0039) 0461 593166,bus_stop546,bike_station68,amusement2,train_station39
+holiday_house371,OCHNER MARILINA,46.0143,11.3142,Levico Terme,"LOC. VIOLANTE SALVADONEGHE, 14",+39 (0461) 707785,bus_stop2410,bike_station68,amusement5,train_station7
+holiday_house372,LIBARDONI GIUSEPPE,46.0177,11.2949,Levico Terme,"SALITA AL CASTAGNETO, 25",+39 (0461) 703023,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house373,CETTO LETIZIA,46.014,11.2934,Levico Terme,"VIA AL LAGO, 28",+39 (0461) 706191,bus_stop512,bike_station68,amusement5,train_station7
+holiday_house374,MOSER MARIA RICCARDA - CASA LIBA,46.0028419476197,11.2465560436249,Calceranica Al Lago,"Corso Alpini, 41",(0039) 349 2585007,bus_stop2714,bike_station51,amusement5,train_station5
+holiday_house375,AZZOLINI PIERPAOLO,46.0482462457647,11.4065337181091,Roncegno Terme,"Lungargine Prela, 11",+39(0461)764303,bus_stop813,bike_station68,amusement5,train_station15
+holiday_house376,OSLER GIACOMO,46.0078796034825,11.3008868694305,Levico Terme,A Pra' 22 - 28,+39(0461)706371,bus_stop487,bike_station68,amusement5,train_station7
+holiday_house377,ROSANELLI MARIO,46.012,11.2669,Tenna,"Via Roma, 16",+39(0461)766447,bus_stop1164,bike_station68,amusement5,train_station4
+holiday_house378,MASCOTTO GIUSEPPE,46.0125,11.2954,Levico Terme,S. Croce 14,+39(0461)707114,bus_stop512,bike_station68,amusement5,train_station7
