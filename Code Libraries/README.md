@@ -1,2 +1,1 @@
-This folder collects all the code libraries produced and/or adopted, during the KDI project to manage dta and knowledge resources.
-(i.e., Pyhton libs, Shell scripts, Javascript, etc)
+For this project, only Python was used to process the data. Protege was used to create the ontology and teleology. Karma was used to build the model,uniting datasets and teleology. Finally, GraphDB allowed to create queries and retireve the answers required for the project (specified in the competency questions, in the report).
