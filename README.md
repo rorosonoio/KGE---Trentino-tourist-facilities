@@ -36,4 +36,5 @@ For more information please check [the complete repository](https://github.com/r
 If more detailed information is needed, the complete report can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/KGE_2022_tourist-facilities.pdf).
 
 ## Project Report
-Project report document can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities).
+Project report document can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/KGE_2022_tourist-facilities.pdf).
+
