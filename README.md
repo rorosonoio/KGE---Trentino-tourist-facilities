@@ -31,4 +31,4 @@ We ended up with:
 
 ## Repository
 For more information please check [the complete repository](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities).\
-If preferred, this is the link to access the report.
+If more detailed information is needed, the complete report can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/KGE_2022_tourist-facilities.pdf).
