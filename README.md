@@ -36,3 +36,4 @@ For more information please check [the complete repository](https://github.com/r
 If more detailed information is needed, the complete report can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/KGE_2022_tourist-facilities.pdf).
 
 
+![http://knowdive.disi.unitn.it/wp-content/uploads/knowdive-new-logo.png]
