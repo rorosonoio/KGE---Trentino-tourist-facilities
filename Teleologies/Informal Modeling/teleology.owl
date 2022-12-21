@@ -1,0 +1,877 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/hamid/ontologies/2022/11/untitled-ontology-64#"
+     xml:base="http://www.semanticweb.org/hamid/ontologies/2022/11/untitled-ontology-64"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:etype="http://knowdive.disi.unitn.it/etype#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/hamid/ontologies/2022/11/untitled-ontology-64"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#isEtype -->
+
+    <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#isEtype"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_BookPlace -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_BookPlace">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Book_trip -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Book_trip">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_DrinkAt -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_DrinkAt">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_EatAt -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_EatAt">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Near -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Near">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_ReserveTaxi -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_ReserveTaxi">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_SpatialPartOf -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_SpatialPartOf">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Everything"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_Visit -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_Visit">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_locatedIn -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_locatedIn">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_shopFrom -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_shopFrom">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_accommodation -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_accommodation">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_address -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_age -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_age">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_city -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_city">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_drinking -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_drinking">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_eating -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_eating">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_end_time -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_end_time">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_latitude">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_longitude">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_amusement -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_amusement">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_barpub -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_barpub">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_bike -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_bike">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_bus -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_bus">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_campsite -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_campsite">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_gas -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_gas">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_hotel -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_hotel">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_locsou -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_locsou">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_natural -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_natural">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_n_restaurant -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_n_restaurant">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_name -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_name">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bicycle_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_phone -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_phone">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#amusement_park"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#local_souvenir"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#taxi_company"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_shopping -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_shopping">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_strat_time -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_strat_time">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_surname -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_surname">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_taxi_call -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_taxi_call">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_visit -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_visit">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Everything -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Everything"/>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Trentino_Region -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Trentino_Region">
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#amusement_park -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#amusement_park">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#bar_pub -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#bar_pub">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#bicycle_station -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#bicycle_station">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#bus_stop -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#bus_stop">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#restaurant"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#campsite -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#campsite">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#gas_station -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#gas_station">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#holiday_house -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#holiday_house">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#hotel -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#hotel">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#local_souvenir -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#local_souvenir">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#museum -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#museum">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Book_trip"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#natural_atraction -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#natural_atraction">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#train_station"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#restaurant -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#restaurant">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#skiing_infrastructure"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#skiing_infrastructure -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#skiing_infrastructure">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#bar_pub"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#bus_stop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#taxi_company -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#taxi_company">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#tourist -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#tourist">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_BookPlace"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#campsite"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_BookPlace"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_BookPlace"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#hotel"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Visit"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#museum"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Visit"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#natural_atraction"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#train_station -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#train_station">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_Near"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#holiday_house"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_locatedIn"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Trentino_Region"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
