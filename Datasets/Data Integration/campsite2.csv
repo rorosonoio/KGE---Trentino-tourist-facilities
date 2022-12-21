@@ -1,0 +1,26 @@
+id,Name,Latitude,Longitude,City,Address,Phone_number,n_bus,n_barpub,n_natural,n_gas,n_locsou
+campsite0,Lido Lillà **,46.096732,11.056698,Terlago,"Via al Travolt, 5",+39 0461 865377,bus_stop2360,bar19,natural_attractions24,gas_station4,loc_sou20
+campsite1,Laghi di Lamar **,46.110753,11.047959,Terlago,"Via alla Selva Faeda, 15",+39 0461 860423,bus_stop402,bar19,natural_attractions41,gas_station4,loc_sou20
+campsite2,CAMPING PINETA,46.1536,11.2867,,,,bus_stop183,bar113,natural_attractions32,gas_station2,loc_sou2
+campsite3,CAMPING VERDE BLU,46.1529,11.2871,,,,bus_stop183,bar113,natural_attractions32,gas_station2,loc_sou2
+campsite4,CAMPING CANE' IN FIORE,46.12019,11.261748,,,,bus_stop2322,bar109,natural_attractions37,gas_station3,loc_sou57
+campsite5,CAMPING VALLE VERDE,46.3093514280608,11.6400146484375,Predazzo,LOC. ALL'ISCHIA SOTTO SASSA,(0039) 0462 502394,bus_stop731,bar200,natural_attractions45,gas_station17,loc_sou42
+campsite6,CAMPEGGIO CALVELLO,46.2921357,11.4407586,Ville di Fiemme,"LOC. CALVELLO, 10",(0039) 0462 341694,bus_stop160,bar180,natural_attractions25,gas_station16,loc_sou40
+campsite7,CAMPING BELLAMONTE,46.3111901,11.6588808,Predazzo,"Via Cece, 16",(0039) 0462 576119,bus_stop732,bar200,natural_attractions45,gas_station17,loc_sou42
+campsite8,CAMPING RIVIERA,46.0045932557448,11.2592697143555,Calceranica Al Lago,"VIALE VENEZIA, 10",(0039) 0461 724464,bus_stop567,bar174,natural_attractions24,gas_station13,loc_sou35
+campsite9,CAMPING LAGORAI,46.0904956970005,11.5986442565918,Pieve Tesino,"LOC. QUISTAON, 1",(0039) 0461 593355,bus_stop536,bar54,natural_attractions40,gas_station11,loc_sou38
+campsite10,CAMPEGGIO SPIAGGIA,46.0048615363479,11.2602138519287,Calceranica Al Lago,"VIALE VENEZIA, 14",(0039) 0461 723037,bus_stop567,bar174,natural_attractions24,gas_station13,loc_sou35
+campsite11,CAMPING PUNTA INDIANI,46.0282565610645,11.2328338623047,Pergine Valusgana,"LOC. VALCANOVER, 77",(0039) 0461 548062,bus_stop563,bar76,natural_attractions24,gas_station7,loc_sou51
+campsite12,CASTELTESINO CAMPING,46.0676480888854,11.6337060928345,Castello Tesino,"LOC. SOTTOMOLIZZA, 1",(0039) 338 4490234,bus_stop546,bar155,natural_attractions40,gas_station10,loc_sou38
+campsite13,PENISOLA VERDE,46.0065755206029,11.2474679946899,Calceranica Al Lago,"VIA PENISOLA VERDE, 5",(0039) 0461 723272,bus_stop562,bar165,natural_attractions24,gas_station13,loc_sou35
+campsite14,CAMPING MARIO,46.005,11.2615,Caldonazzo,"VIA LUNGOLAGO, 4",(0039) 0461 723341,bus_stop567,bar174,natural_attractions24,gas_station13,loc_sou35
+campsite15,CAMPING VALMALENE,46.1140627241198,11.6182136535645,Pieve Tesino,LOCALITA' VAL MALENE,(0039) 0461 594627,bus_stop536,bar66,natural_attractions45,gas_station10,loc_sou38
+campsite16,CAMPING PUNTA LAGO,46.0024389,11.254469,Calceranica Al Lago,"VIA LUNGO LAGO, 70",(0039) 0461 723229,bus_stop2714,bar174,natural_attractions24,gas_station13,loc_sou35
+campsite17,CAMPEGGIO SAN CRISTOFORO,46.0371649293121,11.2363958358765,Pergine Valusgana,"VIA DEI PESCATORI, 48",(0039) 0461 706290,bus_stop564,bar144,natural_attractions24,gas_station7,loc_sou51
+campsite18,CAMPING LAGO DI LEVICO,46.0080808021035,11.2860488891602,Levico Terme,"LOC. PLEINA, 5",+39(0039)706491,bus_stop559,bar80,natural_attractions12,gas_station1,loc_sou35
+campsite19,CAMPEGGIO ALICE,46.041953701001,11.6472887992859,Castello Tesino,LOC. CELADO,(0039) 0461 594018,bus_stop546,bar142,natural_attractions40,gas_station10,loc_sou38
+campsite20,CAMPING BELVEDERE,46.0034605010773,11.2566947937012,Calceranica Al Lago,"VIALE VENEZIA, 6",(0039) 0461 723239,bus_stop2714,bar174,natural_attractions24,gas_station13,loc_sou35
+campsite21,CAMPEGGIO AI CASTAGNI,46.0730371069234,11.455864906311,Torcegno,"LOC. LOBEA, 1",(0039) 0461 766129,bus_stop789,bar51,natural_attractions10,gas_station9,loc_sou9
+campsite22,CAMPING FLEIOLA,46.0071269651149,11.2461805343628,Calceranica Al Lago,"VIALE TRENTO, 42",(0039) 0461 723153,bus_stop2713,bar165,natural_attractions24,gas_station13,loc_sou35
+campsite23,CAMPING 2 LAGHI,46.0044449,11.2874144,Levico Terme,"LOC. COSTA, 3",(0039) 0461 706290,bus_stop558,bar80,natural_attractions12,gas_station1,loc_sou35
+campsite24,CAMPING AL PESCATORE,46.0023724385711,11.255042552948,Calceranica Al Lago,"VIA DEI PESCATORI, 1",(0039) 0461 723062,bus_stop2714,bar174,natural_attractions24,gas_station13,loc_sou35
