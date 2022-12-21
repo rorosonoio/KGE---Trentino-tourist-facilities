@@ -27,10 +27,13 @@ Uniting the entities we extracted from the methodology phases with the reference
 ## Knowledge Graph
 At the end of this process we were able to construct the final Knowledge Graph and, through GraphDB, we called our queries presented as competency questions with SPARQL language. \
 We ended up with:
-- 15 E-types  
+- 15 Entities  
 - 10 object properties  
 - 27 data properties
 
 ## Repository
 For more information please check [the complete repository](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities).\
 If more detailed information is needed, the complete report can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/KGE_2022_tourist-facilities.pdf).
+
+## Project Report
+Project report document can be found [here](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities).
