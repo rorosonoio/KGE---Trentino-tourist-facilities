@@ -20,7 +20,7 @@ To ensure reusability we took the information from schema.org, which provided us
 
 ## ETG
 Uniting the entities we extracted from the methodology phases with the reference ontology, we obtained the final ETG.
-![ETG](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Teleologies/Formal%20Modeling/teleont_entity.png "Final ETG")
+![ETG](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Teleologies/Formal%20Modeling/teleont_entity.png)
 
 ## Knowledge Graph
 At the end of this process we were able to construct the final Knowledge Graph and, through GraphDB, we called our queries presented as competency questions with SPARQL language. \
