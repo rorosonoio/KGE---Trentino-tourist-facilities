@@ -1,0 +1,14 @@
+id,Name,Latitude,Longitude,City,Address,Phone_number,n_bus
+amusement0,Centro Fondo Lavazé,46.35474,11.492738,Varena,Loc. Passo di Lavazè,,bus_stop1377
+amusement1,Monte Bondone,46.02759,11.04461,Trento,Monte Bondone,,bus_stop1406
+amusement2,Pista NeveGhiaccio Parco La Cascatella,46.0656680136228,11.6557645797729,Castello Tesino,Loc. Parco La Cascatella,+39 (346) 7651584,bus_stop546
+amusement3,Pista da pattinaggio,46.0800479974203,11.2791180610657,Pergine Valsugana,Fraz. Canezza,+39 (0461) 530236,bus_stop262
+amusement4,Snowpark LGR Playground,46.115847694466,11.6611289978027,Castello Tesino,Loc. Marande-Passo Brocon,+39 (0461) 1866050,bus_stop635
+amusement5,Snowpark Panarotta,46.0571513916192,11.3129138946533,Levico Terme,Loc Panarotta,+39 (0461) 706757,bus_stop1957
+amusement6,SUAN PARK,46.2860459762847,11.5686678886414,Ziano di Fiemme,"Via Verdi, c/o parco giochi",+39 (347)5323839  ,bus_stop22
+amusement7,MINIGOLF - CAVALESE,46.2895602194644,11.4642119407654,Cavalese,Via Roma,+39 (335)1016559,bus_stop15
+amusement8,AVISIO PARK,46.2833471217223,11.4734172821045,Cavalese,Masi c/o Stazione a Valle Cabinovia Cermis,+39 (347)5323839,bus_stop2816
+amusement9,SNOWPARK LAVAZE',46.3545996970673,11.4930725097656,Cavalese,Via Borgonuovo 80 Passo Lavazè,+39 (0462)231830,bus_stop1377
+amusement10,ADVENTURE DOLOMITI BY ACROPARK,46.2617514986334,11.4176273345947,Castello-Molina di Fiemme,Loc.Piazzol,+39 (347)1375350,bus_stop2054
+amusement11,ALPINE COASTER GARDONE',46.3408247187732,11.5781307220459,Predazzo,Loc. Stamelin,+39 (0462)502929,bus_stop2671
+amusement12,MINIGOLF - PREDAZZO,46.3114264961786,11.615252494812,Predazzo,Loc Baldiss,,bus_stop1390
