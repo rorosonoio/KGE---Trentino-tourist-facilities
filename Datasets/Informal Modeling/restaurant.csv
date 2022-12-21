@@ -1,0 +1,287 @@
+,index,Name,Latitude,Longitude,City,Address,Phone_number,n_bus,n_bike,n_skiing
+0,0,MASO CANTANGHEL,46.083546,11.174873,Civezzano,Loc. Forte di Civezzano,+39 0461 858714,Civezzano-Via Fersina Avisio, Gorizia,Paganella/Andalo
+1,1,MONTECROCE,46.1826,11.3259,Bedollo,"PIAZZA ROSMINI, 6 Fraz. BRUSAGO",+39 0461 556603,Brusago,Mach,Alpe Cermis-Cavalese
+2,2,EUROPA,46.1716,11.2199,Cembra,"VIA SAN CARLO, 19",+39 0461 683032,Cembra-Polo Scolastico,Mach,Paganella/Andalo
+3,3,GIACOMOZZI,46.186722,11.26064,Segonzano,"Loc. Stedro, 12",+39 0461 686100,Scancio di Segonzano,Mach,Paganella/Andalo
+4,4,HAPPY RANCH SALOON,46.194559,11.208489,Cembra,Loc. Lago Santo,+39 0461 683518  +39 347 9192665,Cembra-Loc.Molini,Mach,Paganella/Andalo
+5,5,DA GIGI,46.126448,11.246784,Baselga di Piné,"Fr. Miola - Via dei Caduti, 24",+39 0461 557248,Miola,Grazioli,Paganella/Andalo
+6,6,ALPINO,46.131895,11.243409,Baselga di Piné,"Corso Roma, 3",+39 0461 557204,Baselga Municipio,Grazioli,Paganella/Andalo
+7,7,TAVOLA CALDA DO SPAGHI,46.168389,11.247134,Segonzano,"Fr. Sevignano, 68",+39 328 0475981 +39 380 3689810,Sevignano,Mach,Paganella/Andalo
+8,8,EXTREME PIZZA,46.09015,11.181437,Civezzano,"Via Murialdo, 1/b",+39 0461 857160,Civezzano, Piazza di Centa,Paganella/Andalo
+9,9,TALPA,46.12722,11.249635,Baselga di Piné,"Fr. Miola  Via della Cros, 7",+39 0461 557202,Miola,Grazioli,Paganella/Andalo
+10,10,HOTEL 2 PINI,46.123772,11.242033,Baselga di Piné,"VIA DEL 26 MAGGIO, 24 Fraz. VIGO DI BASELGA",+39 0461 557030,Miola-Bivio Ferrari/Miola, Bren Center,Paganella/Andalo
+11,11,BAITA ALPINA,46.169799,11.302225,Bedollo,"Loc. Pec, 27",+39 0461 556033,Svaldi,Mach,Alpe Cermis-Cavalese
+12,12,SAUCH,46.214783,11.192523,Giovo,Loc. Sauch,+39 0461 683768  +39 335 5933061,Pineta di Faedo,Stazione TN-Malè - RFI,Paganella/Andalo
+13,13,TIROL,46.2173,11.3267,Sover,"Fr. Montesover, Via D. Santuari, 3",+39 0461 698377,Montesover,Mach,Alpe Cermis-Cavalese
+14,14,LA VECCHIA SEGHERIA,46.133657,11.24747,Baselga di Piné,"Vicolo delle Roge, 7",+39 0461 558651,Baselga di Pine'-Lago,Grazioli,Paganella/Andalo
+15,15,PIZZERIA BAR CENTRALE (BEDOLLO),46.160929,11.302517,Bedollo,"VIA VERDI, 46",+39 0461 556625,Centrale di Bedollo,Mach,Alpe Cermis-Cavalese
+16,16,ALLE PIRAMIDI,46.187355,11.2584,Stredro,"FRAZIONE SCANCIO, 24 Fraz. SCANCIO",+39 0461 686106,Scancio di Segonzano,Mach,Paganella/Andalo
+17,17,AL LAGO,46.144035,11.218902,Lases,"Fr. Lases, Via Nazionale, 16",+39 0461 689207,Lases-Pesa,Grazioli,Paganella/Andalo
+18,18,SERGIO,46.135142,11.249391,Baselga di Piné,"Viale della Serraia, 7/a",+39 0461 557124,Baselga di Pine'-Lago,Grazioli,Paganella/Andalo
+19,19,AL LIDO,46.14042,11.25674,Baselga di Piné,"Via del Lido, 1",+39 0461 557670,Sternigo Bivio,Mach,Paganella/Andalo
+20,20,OSTERIA DEL MAESTRO - Ristorante Albergo Lagorai,46.1272,11.2466,Baselga di Piné,"VIA DEI CADUTI, 21",+39 0461 557044,Miola,Grazioli,Paganella/Andalo
+21,21,LAGO SANTA COLOMBA,46.12445,11.1798,Civezzano,"LOCALITA' SANTA COLOMBA, 80/81 ",+39 0461 850122,Bosco-Loc. Canova, Gardolo - ex segheria,Paganella/Andalo
+22,22,CA' DEI BOCI - Ristorante Romantik Hotel Posta 1899,46.098624,11.235974,Baselga di Piné,"VIA D. TARGA, 1 Fraz. MONTAGNAGA",+39 0461 558322,Montagnaga, Cimitero Villazzano,Paganella/Andalo
+23,23,Ristorante Carraro,46.0804201004719,11.5544682741165,Bieno,"Via A.G. Bettolo, 8",+39 (0461) 596309,Bieno, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+24,24,Prime Rose Al Belvedere,46.016217555207,11.2897825241089,Levico Terme,Loc. Belvedere,+39 (0461) 706416,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+25,25,"Passo Brocon ""Da Sciopo""",46.119,11.6881,Castello Tesino,Loc. Passo Brocon,+39 (0461) 594364,Ronco Chiesa, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+26,26,Villa Ester,46.0151893502917,11.2646341323853,Tenna,"Via Campolongo, 22",+39 (0461) 706539,Tenna-Sp 16 Al Km 4, Cimitero Villazzano,Lavarone
+27,27,La Cantina - LevicoLand,46.0075740782513,11.2923574447632,Levico Terme,"Via Traversa Lido, 5",+39 (0461) 700029,Levico T. Rist.Brenta, Cimitero Villazzano,Lavarone
+28,28,Ristorante Mezzolago,46.0260664914701,11.2307095527649,Pergine Valsugana,"Fraz. Valcanover, 85",+39 (0461) 530158,Valcanover, Cimitero Villazzano,Lavarone
+29,29,Baitella Lino,46.0504056521342,11.2568235397339,Pergine Valsugana,"Via per la Panarotta, 10 - Assizzi",+39 (0461) 511351,Assizzi, Cimitero Villazzano,Lavarone
+30,30,La Stua,46.009407204326,11.2999749183655,Levico Terme,"Via Battisti, 62",+39 (0461) 707028,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+31,31,La Tana dei Golosi di Garbari sas,46.0509864435783,11.2227702140808,Pergine Valsugana,"Via Rio Santo, 7 - Susà",+39 (0461) 530996,Susa', Cimitero Villazzano,Lavarone
+32,32,Sapori e Saperi di F&H Dynamics ,46.0602633865876,11.2373292446136,Pergine Valsugana,"Viale Venezia, 7",+39 (0461) 510859,Pergine V. V.Le Venezia, Cimitero Villazzano,Lavarone
+33,33,Scaranò,46.0161132454348,11.3154244422913,Levico Terme,"Via Per Vetriolo, 86",+39 (0461) 706810,Levico T. Polo Scolastico, Cimitero Villazzano,Lavarone
+34,34,Albergo Valcanover,46.0275861408122,11.2296581268311,Pergine Valsugana,"Fraz. Valcanover, 73",+39 (0461) 548037,Valcanover, Cimitero Villazzano,Lavarone
+35,35,Veg Point,46.0128646426197,11.2670803070068,Tenna,"Via Alberè, 22/1",+39 (0461) 700149,Tenna, Cimitero Villazzano,Lavarone
+36,36,Albergo Miramonti,46.0501524847217,11.2524461746216,Pergine Valsugana,"Via alle Canzane, 5",+39 (0461) 531268,Assizzi Bivio-Dir. Levico, Cimitero Villazzano,Lavarone
+37,37,Bar - One Rosso,46.014250537803,11.2667798995972,Tenna,"Via Alberè, 28",+39 (0461) 706448,Tenna, Cimitero Villazzano,Lavarone
+38,38,Rifugio Barricata,45.9786085879012,11.5910911560059,Grigno,Loc. Marcesina,+39 (0461) 765139,Grigno-Staz. Fs, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+39,39,La Darsena,46.0384012615909,11.2369644641876,Pergine Valsugana,"Via dei Pescatori, 47 - S. Cristoforo",+39 (0461) 533569,S.Cristoforo Al Lago, Cimitero Villazzano,Lavarone
+40,40,Vezzena,45.9571765971136,11.3289642333984,Levico Terme,Passo Vezzena,+39 (0461) 784197,Monterovere, Mattarello,Lavarone
+41,41,Betty's Hill,46.078500021792,11.5810060501099,Pieve Tesino,Loc. Pradellano,+39 (0461) 594015,Largo di Pradellano, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+42,42,Vecchia Pergine,46.0589382044302,11.2403118610382,Pergine Valsugana,"Via Maier, 71",+39 (0461) 511201,Pergine V. Bivio Susà, Cimitero Villazzano,Lavarone
+43,43,Alla Corte,46.0777111328917,11.206226348877,Pergine Valsugana,"Via al Dos dela Roda, 41 - Cirè",+39 (0461) 531710,Cirè-Ex Statale, Cimitero Villazzano,Lavarone
+44,44,Albergo Alla Comparsa,46.0941563885027,11.2337779998779,Pergine Valsugana,"Loc. Guarda, 14",+39 (0461) 557707,Montagnaga, Cimitero Villazzano,Paganella/Andalo
+45,45,Sale & Pepe,46.0533542224146,11.4552211761475,Borgo Valsugana,"Via XI Febbraio, 4",+39 (0461) 757043,Borgo-Bocciodromo, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+46,46,Al Posta,46.0613651992214,11.2383913993835,Pergine Valsugana,"Via Pennella, 104",+39 (0461) 532274,Pergine V., Cimitero Villazzano,Lavarone
+47,47,Albergo Ristorante Turismo,46.0596,11.2372,Pergine Valsugana,"Viale Venezia, 20",+39 (0461) 531073,Pergine V. V.Le Venezia, Cimitero Villazzano,Lavarone
+48,48,Albergo Ristorante Meridiana,46.0396971464544,11.2421035766602,Pergine Valsugana,"Via della Valsugana, 7 - San Cristoforo",+39 (0461) 538039,S.Cristoforo-Ht.Meridiana, Cimitero Villazzano,Lavarone
+49,49,Baita Al Verle,45.9584296347948,11.3272476196289,Levico Terme,"Via dei Forti, 4 - Passo Vezzena",+39 (0461) 784050,Monterovere, Mattarello,Lavarone
+50,50,Romanda,46.0112551723709,11.30042552948,Levico Terme,"Via Garibaldi, 7",+39 (0461) 707122,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+51,51,S. Giorgio,46.0531010685176,11.4579033851624,Borgo Valsugana,"Via Fratelli, 6",+39 (0461) 753693,Borgo V. Sp.40, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+52,52,Umberto I (Grand Hotel Bellavista),46.0157,11.2954,Levico Terme,"Via V. Emanuele III, 7",+39 (0461) 706136,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+53,53,Albergo Ristorante La Rotonda,46.058789305571,11.2375330924988,Pergine Valsugana,"Viale Venezia, 37",+39 (0461) 531128,Pergine V. Bivio Susà, Cimitero Villazzano,Lavarone
+54,54,La Giachenza (Hotel Al Salus),46.0143213218398,11.2961393594742,Levico Terme,"Via Pigio, 3/5",+39 (0461) 706328,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+55,55,Compet,46.0394588250821,11.2998676300049,Vignola Falesina,"Loc. Compet, 26",+39 (0461) 706466,Vignola, Cimitero Villazzano,Lavarone
+56,56,Da Remo,45.9975727842012,11.6663217544556,Grigno,"Via Masetto Vecchio, 59 - Fraz. Tezze",+39 (0461) 769190,Tezze-V. Masetto Vecchio, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+57,57,Albergo Ristorante Pizzeria Cirè,46.0751,11.2107,Pergine Valsugana,"Via per Trento, 3 - Cirè",+39 (0461) 538444,Cire' Via Al Dos De La Roda 12, Cimitero Villazzano,Lavarone
+58,58,Canterbury,46.0614768681936,11.6317749023438,Castello Tesino,"Via F.lli Ballerin, 12/b",+39 (0461) 594383,Castello T.-Via Baili, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+59,59,Spiky Pizza,46.0091538490556,11.3007581233978,Levico Terme,"Corso Centrale, 19",+39 (0461) 707707,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+60,60,Aurora L'Istciot,46.039786516704,11.3001251220703,Vignola Falesina,"Loc. Compet, 28",+39 (0461) 706447,Vignola, Cimitero Villazzano,Lavarone
+61,61,Spaghetti Club,46.0030431645636,11.2820792198181,Caldonazzo,"Loc. Costa di Brenta, 5",+39 (0461) 701494,Caldonazzo-Sp. Civ.85/B, Cimitero Villazzano,Lavarone
+62,62,Carlon,46.0060836870758,11.3802909851074,Borgo Valsugana,Loc. Sella,+39 (0461) 761036,Novaledo, Cimitero Villazzano,Lavarone
+63,63,Pizzeria Spaghetteria Panorama,46.0044814717762,11.2593019008636,Calceranica Al Lago,"Viale Venezia, 19",+39 (0461) 723479,Caldonazzo-Staz. Fs, Mattarello,Lavarone
+64,64,Vecchia Fontana,46.0108826031376,11.3016486167908,Levico Terme,"Piazza Venezia, 5",+39 (0461) 706366,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+65,65,Vecchia Fattoria,46.0106292546253,11.296112537384,Levico Terme,"Via Per Caldonazzo, 31",+39 (0461) 700242,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+66,66,La rustica,46.0510609035782,11.4566588401794,Borgo Valsugana,"Via Naurizio, 18",+39 (0461) 752648,Borgo V. Sp.40, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+67,67,Chalet Paradiso,46.1051370051494,11.6551208496094,Castello Tesino,Loc. Marande,,Castello T.-Loc. Molini, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+68,68,Alla Stella,46.069680197538,11.2069988250732,Pergine Valsugana,"Via La Svizzera, 41 - Roncogno",+39 (0461) 532715,Roncogno, Cimitero Villazzano,Lavarone
+69,69,Camping Alice,46.041953701001,11.6472887992859,Castello Tesino,Loc. Celado,+39 (0461) 594018,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+70,70,Bar Maso Al Vetriolo Vecchio,46.0413951564783,11.3098239898682,Levico Terme,Loc. Vetriolo,+39 (0461) 701564,Vignola, Cimitero Villazzano,Lavarone
+71,71,Cafè Ristorante Sapori e Saperi ,46.0603080550949,11.2373828887939,Pergine Valsugana,"Viale Venezia, 7",+39 (0461) 510859,Pergine V. V.Le Venezia, Cimitero Villazzano,Lavarone
+72,72,Bici Grill Levico,46.0019103781571,11.3096523284912,Levico Terme,"Via per Santa Giuliana, 10",+39 (328) 6548969,Levico Terme-Staz. Fs, Cimitero Villazzano,Lavarone
+73,73,Pizza Mania,46.059265780507,11.2373828887939,Pergine Valsugana,"Viale Venezia, 29",+39 (0461) 512830,Pergine V. Bivio Susà, Cimitero Villazzano,Lavarone
+74,74,Pizzo degli Uccelli,46.1188671376725,11.6885089874268,Castello Tesino,Loc. Passo Brocon,+39 (0461) 594365,Ronco Chiesa, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+75,75,Alla Torre,45.9926907210768,11.2591302394867,Caldonazzo,"Via della Villa, 37",+39 (0461) 723331,Caldonazzo, Mattarello,Lavarone
+76,76,Bar Trento,46.0803159118704,11.5529179573059,Bieno,"Via Milano, 10",+39 (340) 3134256,Bieno, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+77,77,Papillon,46.0091240424769,11.3117229938507,Levico Terme,"Via Giannettini, 9",+39 (0461) 706341,Levico T. Via Rovigo, Cimitero Villazzano,Lavarone
+78,78,IL LIBERTINO,46.070125,11.124925,Trento,"Piazza Piedicastello, 4-6 ",(+39) 0461 260085,Castello Buonconsiglio, Biblioteca,Paganella/Andalo
+79,79,LOCANDA MARGON,46.069691,11.121088,Trento,"Via Margone, 15",(+39) 0461 349401,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+80,80,CLESIO c/o GRAND HOTEL TRENTO,46.070544,11.121636,Trento,"Via Vittorio Alfieri, 1/3",(+39) 0461271000,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+81,81,DOC,46.061719,11.129111,Trento,"Via Milano, 148",(+39) 0461 262022,"Dei Mille ""Villa Igea""", Gorizia,Monte Bondone
+82,82,HOTEL RELAIS VILLA MADRUZZO,46.074016,11.146816,Trento,"Via Ponte Alto, 26",(+39) 0461 986220,Cognola Grezoni, Piazza Venezia,Paganella/Andalo
+83,83,MOVER,46.101533,11.101316,Trento,"Via Innsbruck, 13",(+39) 0461 966899,Roncafort, Roncafort,Paganella/Andalo
+84,84,CHISTE,46.068883,11.121255,Trento,"Via delle Orne, 4",(+39) 0461 262979,Trento Via Rosmini, Biblioteca,Paganella/Andalo
+85,85,NIKY'S,46.055005,11.120361,Trento,"Via San Pio X, 29",(+39) 0461 390828,S.Pio X Benevoli, Bezzi,Monte Bondone
+86,86,ALLA MOSTRA,46.071188,11.125855,Trento,"Piazza della Mostra, 13 ",(+39) 0461 230787,"Sanzio ""Castello""", Biblioteca,Paganella/Andalo
+87,87,AMERICA  EL MERICAN,46.070986,11.12343,Trento,"Via Torre Verde, 50",(+39) 0461 983010,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+88,88,AL MARINAIO ,46.033955,11.129333,Trento,Via dei Marinai dItalia ,(+39) 0461 1734471/933053,Parcheggio Area Camper, Lidorno,Monte Bondone
+89,89,DUE MORI ,46.064622,11.123308,Trento,"Via S. Marco, 11",(+39) 0461 984251,Piazza di Fiera, Centro Santa Chiara,Monte Bondone
+90,90,AL VOLT,46.14205,11.155242,Trento,"Via Santa Croce ,16 ",(+39) 0461 983776,Verla-Cantina Rossi,Grazioli,Paganella/Andalo
+91,91,AI VICOLI ,46.069691,11.121088,Trento,Piazza Santa Teresa Verzieri ,(+39) 0461 260673,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+92,92,GREEN TOWER,46.069691,11.121088,Trento,"Piazza S. Pellico, 12 ",(+39) 0461 231545,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+93,93,SCRIGNO DEL DUOMO,46.067352,11.120883,Trento,"Piazza Duomo, 29",(+39) 0461 220030,Rosmini S.Maria Maggiore, Università,Paganella/Andalo
+94,94,LA CANTINOTA,46.069691,11.121088,Trento,"Via S. Marco, 22-24",(+39) 0461 238527,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+95,95,AL VO,46.070791,11.123888,Trento,"Vicolo del Vo, 11",(+39) 0461 985374,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+96,96,TORREFRANCA,46.00625,11.136672,Trento,"Via Pomeranos, 43",(+39) 0461 944511,"Mattarello ""Torre Franca""", Mattarello,Monte Bondone
+97,97,IL CAPPELLO,46.069691,11.121088,Trento,"Piazzetta B. Lunelli, 5",(+39) 0461 235850,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+98,98,FORST,46.068916,11.122541,Trento,"Via Oss Mazzurana, 38",(+39) 0461 235590,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+99,99,IL SIMPOSIO,46.067966,11.118869,Trento,"Via Rosmini, 19",(+39) 0461 261848,Rosmini S.Maria Maggiore, Università,Paganella/Andalo
+100,100,OSTERIA DA GUIDO,46.069413,11.126516,Trento,Parco San Marco (via livio marchetti 9?),(+39) 0461 262418,Trento Port'aquila, Piazza Venezia,Paganella/Andalo
+101,101,AI TRE GAROFANI,46.0657,11.123022,Trento,"Via Giuseppe Mazzini, 33 ",(+39) 0461 237543,Piazza di Fiera, Centro Santa Chiara,Paganella/Andalo
+102,102,OLYMPIC,46.057736,11.112491,Trento,"Via R. da Sanseverino, 125",(+39) 0461 391215,Sanseverino Monte Baldo, Muse,Monte Bondone
+103,103,4 STAGIONI,46.075252,11.137725,Trento,"Via San Vito, 36",(+39) 0461 987031,San Vito, Piazza di Centa,Paganella/Andalo
+104,104,ROSA DORO,46.069691,11.121088,Trento,"Piazza S. Maria Maggiore, 21",(+39) 0461 261792,Torre Verde Galasso, Biblioteca,Paganella/Andalo
+105,105,EVEREST,46.078808,11.11828,Trento,"Corso Alpini, 14",(+39) 0461 825300,Degli Alpini Oberziner, Campo CONI,Paganella/Andalo
+106,106,DUO,46.070127,11.119711,Trento,"Via Torre Vanga, 14",(+39) 0461 1594461/1594462,Cavalcavia S.Lorenzo, Stazione Autocorriere,Paganella/Andalo
+107,107,TEX-MEX RESTAURANT CUEVA MAYA,46.06745,11.12088,Trento,"Piaza Duomo, 22",(+39) 0461 984507,Rosmini S.Maria Maggiore, Università,Paganella/Andalo
+108,108,SAPORI MEDITERRANEI,46.065072,11.113966,Trento,"Via Roberto da Sanseverino, 39/4",(+39) 0461 984360,Sanseverino Verdi, Università,Paganella/Andalo
+109,109,A LE DUE SPADE,46.067225,11.120036,Trento,"Via Don A. Rizzi, 11 ",(+39) 0461 234343,Rosmini S.Maria Maggiore, Università,Paganella/Andalo
+110,110,IL GIARDINO DELLE SPEZIE,46.058436,10.9809,Pardegnone,"Via Nazionale, 109",(+39) 0461 340122,Due Laghi-Hotel Miralaghi, Zuffo 2 via dos Trento,Monte Bondone
+111,111,ORSO GRIGIO,46.065583,11.122052,Trento,"Via degli Orti, 19",(+39) 0461 984400,Travai Piazza Fiera, Università,Paganella/Andalo
+112,112,NEVADA,46.039756,11.058479,Trento,"Strada di Vason, 61",(+39) 0461 948117,Vason, Muse,Monte Bondone
+113,113,RIFUGIO VIOTE,46.02325,11.038169,Trento,"Località Viote, 6",(+39) 0461 948033 - 348 3590494,Viote, Aldeno,Monte Bondone
+114,114,UVA E MENTA,46.065422,11.123858,Trento,"Via Dietro le Mura A, 35",(+39) 0461 1903162,Piazza di Fiera, Centro Santa Chiara,Paganella/Andalo
+115,115,MALGA CANDRIAI,46.046327,11.065047,Trento,"Strada di Candriai, 4",(+39) 0461 947526,Vaneze-Baita Montesel, Muse,Monte Bondone
+116,116,CHALET LO SCIATORE,46.040137,11.05859,Trento,"Strada di Vason, 84",(+39) 340 7124107,Vason, Muse,Monte Bondone
+117,117,MALGA BRIGOLINA,46.057136,11.060485,Trento,"Via della Brigolina, 6",(+39) 0461 947474 ,Vaneze-Sp.85, Zuffo 2 via dos Trento,Monte Bondone
+118,118,LILLÀ,46.097411,11.058247,Terlago,"Località Maso Travolt, 12",(+39) 0461 866159,Lago di Terlago-Hotel Lillà, Roncafort,Paganella/Andalo
+119,119,BAITA IMPERIALE,46.130638,11.204015,Fornace,Loc. Pian del Gac,+39 0461 849202 +39 347 0426302,Pian Del Gac,Grazioli,Paganella/Andalo
+120,120,CHIOSCO ALLE PIRAMIDI,46.180679,11.263719,Segonzano,"Fr. Sevignano, 1",+39 338 5267314,Piazzo di Segonzano Bivio,Mach,Paganella/Andalo
+121,121,LA LOCANDA DEL PASSATORE,46.18037,11.23473,Faver,"Via Campagna, 16",+39 328 6766881,Faver,Mach,Paganella/Andalo
+122,122,CENTRALE,46.160929,11.302517,Bedollo,"Fr. Centrale, Via G. Verdi, 46",+39 0461 556625,Centrale di Bedollo,Mach,Alpe Cermis-Cavalese
+123,123,LE TRE COLOMBE,46.1302,11.21425,Fornace,"Loc. S. Stefano, 22",+39 0461 849424  +39 333 5221610,S.Stefano,Grazioli,Paganella/Andalo
+124,124,OSTERIA DEL GRILLO,46.23114,11.298379,Grauno,Via Chiesa 17,+39 0461 688027,Grauno,Mach,Alpe Cermis-Cavalese
+125,125,SAINT ROCK,46.175202,11.222485,Cembra,"Viale IV Novembre, 51",+39 0461 683030,Cembra,Mach,Paganella/Andalo
+126,126,ANGEL PIZZA,46.133304,11.246379,Baselga di Piné,"Corso Roma, 48",+39 0461 557658 +39 349 5067537,Baselga di Pinè Monum.,Grazioli,Paganella/Andalo
+127,127,DOLOMITI,46.160312,11.234491,Lases,"VIA PROVINCIALE, 28 Fraz. LONA",+39 0461 697029,Lona,Mach,Paganella/Andalo
+128,128,ALBERGO RISTORANTE DUE LAGHI,46.1508,11.273,Baselga di Piné,"LOCALITA' CAMPOLONGO, 116",+39 0461 554074 ,Campolongo,Mach,Paganella/Andalo
+129,129,PINETA,46.154753,11.286777,Bedollo,Loc. Lago delle Piazze,+39 0461 556642,Piazze di Bedollo,Mach,Paganella/Andalo
+130,130,SERRAIA,46.134668,11.24909,Baselga di Piné,"Viale della Serraia, 3",+39 0461 557027,Baselga di Pine'-Lago,Grazioli,Paganella/Andalo
+131,131,EL CASEL EI MASI,46.221951,11.271814,Grumes,"Loc. Maso Noldi, 7 ",+39 0461 688012,Valda Via Centrale 25,Mach,Alpe Cermis-Cavalese
+132,132,LA CANOPA,46.10247,11.192871,Civezzano,"Fr. Penedallo, 3",+39 0461 850103,Penedallo Via Alle Praderie, Bren Center,Paganella/Andalo
+133,133,ALBERGO ANITA,46.133233,11.248433,Baselga di Piné,"VIA DEL FÒSCH, 21",+39 0461 557106,Baselga di Pine'-Lago,Grazioli,Paganella/Andalo
+134,134,EL FILO',46.139986,11.252489,Baselga di Piné,"Fr. Sternigo, Via Miralago, 43",+39 0461 553156,Sternigo Bivio,Mach,Paganella/Andalo
+135,135,RISTORANTE PENSIONE MARIA TURISMO RURALE,46.23814,11.325241,Sover,"VIA DEL LAGORAI, 30 Fraz. PISCINE",+39 0461 698251,Piscine,Mach,Alpe Cermis-Cavalese
+136,136,ALBERGO RISTORANTE SAN GIORGIO,46.1005,11.235456,Baselga di Piné,"VIA BERNARDI, 2 Fraz. MONTAGNAGA",+39 0461 557756,"Montagnaga ""Villa Alpina""", Cimitero Villazzano,Paganella/Andalo
+137,137,PONCIACH,46.20728,11.231062,Faver,"VIA PONCIACH, 14 Fraz. PONCIACH",+39 0461 683166,Faver Loc. Portegnago,Mach,Paganella/Andalo
+138,138,MAGIC PIZZA,46.144912,11.200249,Albiano,"Via Roma, 39/b",+39 0461 687069,Albiano Via Roma Civ.35,Grazioli,Paganella/Andalo
+139,139,MAGIC PIZZA,46.083434,11.199126,Civezzano,"Loc. Mochena, 4 - c/o Centro Commerciale Europa",+39 0461 858758,Civezzano-Centro Europa, Cimitero Villazzano,Paganella/Andalo
+140,140,L'OSTERIA DEI TÒNI,46.1828,11.3255,Bedollo,"PIAZZA ROSMINI, 2 Fraz. BRUSAGO",+39 0461 556646 +39 333 5760608,Brusago,Mach,Alpe Cermis-Cavalese
+141,141,DUE CAMINI,46.126021,11.243774,Baselga di Piné,"Via del 26 Maggio, 65",+39 0461 557200,Miola-Bivio Ferrari/Miola,Grazioli,Paganella/Andalo
+142,142,PIZZA PONDY,46.174781,11.220538,Cembra,"Viale IV Novembre, 23/1",+39 348 4286248,Cembra,Mach,Paganella/Andalo
+143,143,LA CAPANNINA,46.143374,11.245858,Baselga di Piné,Loc. Bedolpian,+39 328 8888269,Baselga di Pine'-Lago,Mach,Paganella/Andalo
+144,144,LAGO SANTO,46.1969,11.2055,Cembra,"LOCALITÀ LAGO SANTO, 1 Fraz. LAGO SANTO",+39 0461 683066,Cembra-Loc.Molini,Mach,Paganella/Andalo
+145,145,CANE' IN FIORE,46.12019,11.261748,Baselga di Piné,"LOC. CANE', 241/1",+39 0461 558270,Canè, Bren Center,Paganella/Andalo
+146,146,MIRAMONTI,46.1558,11.2879,Bedollo,"VIA CAVOUR, 20 Fraz.Piazze di Bedollo",+39 0461 556626,Piazze di Bedollo,Mach,Paganella/Andalo
+147,147,MASO SVESERI,46.20683,11.32401,Sover,"VIA SVESERI, 22",+39 0461 698106,Sveseri,Mach,Alpe Cermis-Cavalese
+148,148,STELLA ALPINA,46.221688,11.293805,Grumes,"Piazza Municipio, 1",+39 0461 685019,Grumes,Mach,Alpe Cermis-Cavalese
+149,149,BEL BAIT,46.162608,11.131155,Giovo,"Fr. Palù, Loc. Santa Croce",+39 0461 684111  +39 0461 246480,Passo Croce, Nave San Rocco,Paganella/Andalo
+150,150,FIOR DI BOSCO,46.1776,11.1674,Giovo,"FRAZIONE MASEN, 10",+39 0461 695008,Ville di Giovo,Mach,Paganella/Andalo
+151,151,BAITA MONTE PAT,46.221088,11.344754,Sover,"Loc. Vernera,1",,Montesover,Mach,Alpe Cermis-Cavalese
+152,152,AL CAMINETTO,46.1743,11.2235,Cembra,"Via C. Battisti, 7/9",+39 0461 683007,Cembra,Mach,Paganella/Andalo
+153,153,MASO FRANCH GOURMET E RELAIS,46.143058,11.118222,Giovo,"Maso Franch, 2",+39 0461 245533,Maso Franch,Grazioli,Paganella/Andalo
+154,154,Rifugio Crucolo,46.120964,11.498823,Scurelle,Loc. Val Campelle,+39 (0461) 766093,Samone, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+155,155,Cantinota,46.0113818453386,11.3013803958893,Levico Terme,"Via Trieste, 1",+39 (0461) 701699,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+156,156,Malga Sorgazza,46.1335752604075,11.5986442565918,Pieve Tesino,Loc. Sorgazza,+39 (346) 2304405,Pradellano, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+157,157,Boeriu Nineta - Hotel Madrano,46.0856292796992,11.215238571167,Pergine Valsugana,"Piazza Prada,11 - Madrano",+39 (0461) 552569,Madrano-Alb.Madrano, Cimitero Villazzano,Paganella/Andalo
+158,158,Al Volt,46.0604643945862,11.2408590316772,Pergine Valsugana,"Piazza Municipio, 10",+39 (0461) 532737,Pergine V., Cimitero Villazzano,Lavarone
+159,159,Fiore di Cardo,46.0559303696104,11.473503112793,Borgo Valsugana,"Corso Vicenza, 63",+39 (0461) 757462,Borgo Vals. Valli, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+160,160,Alte Stube,46.0059048374363,11.6572880744934,Grigno,"Fraz. Palù, 16",+39 (0461) 779605,Palù di Grigno, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+161,161,Monte Cimone,45.9958,11.2703,Caldonazzo,"Vial Trento, 21",+39 (0461) 723100,Caldonazzo-Via Roma, Mattarello,Lavarone
+162,162,Alpina,46.0398312017746,11.4649200439453,Borgo Valsugana,Via Volpi - fraz. Olle,,Olle-Via Del Boaletto, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+163,163,Biba's,46.0021488614333,11.2545919418335,Calceranica Al Lago,"Via Lungolago, 50",+39 (0461) 1740099,Calceranica C.So Alpini Gmp, Mattarello,Lavarone
+164,164,Ca' Rossa,46.0278021660037,11.2453544139862,Pergine Valsugana,"Via della Valsugana, 26 - Ischia",+39 (0461) 530840,Ischia di Pergine, Cimitero Villazzano,Lavarone
+165,165,Happy Days,46.0159046253001,11.2340569496155,Pergine Valsugana,"Fraz. Valcanover, 276",+39 (0461) 548000,Valcanover-Pizz.Happy Days, Cimitero Villazzano,Lavarone
+166,166,Alpina,46.064469512512,11.6322791576385,Castello Tesino,"Via Municipio Vecchio, 9",+39 (0461) 594127,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+167,167,L'Angolo dei Risotti,46.0103759049526,11.3011765480042,Levico Terme,"Via Battisti, 22",+39 (0461) 700156,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+168,168,Al Cacciatore,46.035228449668,11.6472244262695,Castello Tesino,Loc. Pozze di Celado,+39 (0461) 594681,Grigno-Segheria, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+169,169,Camping Casteltesino,46.0676480888854,11.6337060928345,Castello Tesino,"Loc. Sottomolizza, 1",+39 (338) 4490234,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+170,170,Camping Valmalene,46.1140627241198,11.6182136535645,Pieve Tesino,"Loc. Valmalene, snc",+39 (0461) 594627,Pradellano-Al Lago, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+171,171,Al Cavalletto,46.0605090629309,11.2392926216125,Pergine Valsugana,"Via Pennella, 15",+39 (0461) 531024,Pergine V., Cimitero Villazzano,Lavarone
+172,172,Camping Lagorai,46.0904956970005,11.5986442565918,Pieve Tesino,"Loc. Quistaon, 1",+39 (0461) 593355,Pradellano-Al Lago, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+173,173,Cacciatore,46.0225055808545,11.3115406036377,Levico Terme,Loc. Prati di Monte,+39 (0461) 701575,Levico T. Polo Scolastico, Cimitero Villazzano,Lavarone
+174,174,Al Brenta,46.0059048374363,11.2918639183044,Levico Terme,"Via Claudia Augusta, 17",+39 (0461) 706131,Levico T. Rist. Brenta, Cimitero Villazzano,Lavarone
+175,175,Belvedere,46.0859566973921,11.21433198452,Pergine Valsugana,"Via di Castel Rocca, 3-
+Madrano",+39 (0461) 552140,Madrano, Cimitero Villazzano,Paganella/Andalo
+176,176,Ristorante Albergo San Cristoforo,46.0394513775227,11.2348616123199,Pergine Valsugana,"Viale Europa, 29 - S. Cristoforo",+39 (0461) 531105,S.Cristoforo Al Lago-Fs, Cimitero Villazzano,Lavarone
+177,177,Bellavista,46.0661593171176,11.634349822998,Castello Tesino,"Via Roma, 19",+39 (0461) 594169,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+178,178,Kapriol,46.0799884606992,11.6398966312408,Castello Tesino,Loc. Fradea,+39 (0461) 594126,Castello T.-Ip, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+179,179,Osteria Storica Morelli,46.0780534822903,11.2779808044434,Pergine Valsugana,"Piazza G.A. Petrini, 1 - Canezza",+39 (0461) 509504,Canezza Bivio, Cimitero Villazzano,Lavarone
+180,180,Ristorante Al Falco,46.0824889476738,11.5440130233765,Bieno,"Fraz. Casetta, 12c",+39 (0461) 596263,Bieno-Via Lusumina, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+181,181,Boivin,46.0113594913066,11.3006186485291,Levico Terme,"Via Garibaldi, 9",+39 (0461) 701670,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+182,182,Ke Pi Kebab,46.0099884267378,11.3009190559387,Levico Terme,"Via Xicco Polentone, 2",+39 (389) 8385501,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+183,183,Osteria del Borgo Wine Bar,46.0516565799634,11.4565193653107,Borgo Valsugana,"Via Spagolla, 5/b",+39 (0461) 751304,Borgo V. Sp.40, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+184,184,Bar Al Tastavin,46.0669483711555,11.6521596908569,Castello Tesino,Loc. Rodena,+39 (0461) 593168,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+185,185,Pizzeria al taglio Macapla,46.0608738530605,11.2416315078735,Pergine Valsugana,"Via Tre Novembre, 3 ",+39 (0461) 533184,Pergine V., Cimitero Villazzano,Lavarone
+186,186,Dolomiti,46.0556027737462,11.4638471603394,Borgo Valsugana,"Via Temanza, 11",+39 (0461) 757193,Borgo V. Ospedale, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+187,187,Chalet Panarotta,46.0488419525058,11.3200807571411,Pergine Valsugana,Loc. Panarotta,+39 (0461) 706507,Maso Tingherla, Cimitero Villazzano,Lavarone
+188,188,Albergo Ristorante Pizzeria Sedran,46.0396077760603,11.2347435951233,Pergine Valsugana,"Via alla Stazione, 4 - S. Cristoforo",+39 (0461) 531539,S.Cristoforo Al Lago-Fs, Cimitero Villazzano,Lavarone
+189,189,Chalet Heidi,46.115847694466,11.6611289978027,Castello Tesino,Loc. Marande,+39 (0461) 1866060,Ronco Chiesa, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+190,190,Miravalle,46.0084384867338,11.314480304718,Levico Terme,"Viale Venezia, 78",+39 (0461) 700080,Levico Terme Cimitero, Cimitero Villazzano,Lavarone
+191,191,Chalet Rosa,46.005055293752,11.2419748306274,Calceranica Al Lago,"Via Bosentino, 1",+39 (0461) 724082,Calceranica Al Lago, Mattarello,Lavarone
+192,192,Al Corso,46.012246194315,11.2996101379395,Levico Terme,"Via Dante, 35",,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+193,193,Millennium,46.0167316504955,11.2944281101227,Levico Terme,"Viale Vittorio Emanuele, 50",+39 (0461) 703012,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+194,194,Al Cristallo,46.0619458754105,11.2416529655457,Pergine Valsugana,"Via Chimelli, 4",+39 (0461) 510301,Pergine V. V.Baratieri Teatro, Cimitero Villazzano,Lavarone
+195,195,Taverna die Gonzaga,46.0125665961073,11.298086643219,Levico Terme,Via Garibaldi,+39 (0461) 701802,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+196,196,Al Moro,46.0613279761805,11.2424468994141,Pergine Valsugana,"Via Tre Novembre, 22",+39 (0461) 532108,Pergine-Via S.Pietro Asl, Cimitero Villazzano,Lavarone
+197,197,Taverna,46.0150254317992,11.2861347198486,Levico Terme,"Loc. Lago, 3",+39 (0461) 706243,Levico T. Alb.Miralago, Cimitero Villazzano,Lavarone
+198,198,Al Faro,46.0369712844015,11.2433588504791,Pergine Valsugana,"Via della Valsugana, 18 - Ischia",+39 (0461) 534663,S.Cristoforo-Ht.Meridiana, Cimitero Villazzano,Lavarone
+199,199,Bar Ristorante Pizzeria Minuetto,46.0630997650958,11.232168674469,Pergine Valsugana,"Viale Dante, 81",+39 (0461) 538087,Pergine V. Intermodale, Cimitero Villazzano,Lavarone
+200,200,Al Conte ,46.0114787127063,11.3021421432495,Levico Terme,"Via Regia, 8",+39 (0461) 702302,Levico Terme Autostazione, Cimitero Villazzano,Lavarone
+201,201,Bar Ristorante Al Capriolo,46.081298253724,11.2655353546143,Pergine Valsugana,"Masi Alti, 11",,Viarago Via Vinciguerra 33, Cimitero Villazzano,Lavarone
+202,202,Giropizza VIP,46.0319660728167,11.2296152114868,Pergine Valsugana,"Fraz. Valcanover, 13",+39 (0461) 512282,"Valcanover ""Ex Lanterna""", Cimitero Villazzano,Lavarone
+203,203,Centrale,46.053391450831,11.458021402359,Borgo Valsugana,"Piazza Martiri, 5",,Borgo V. Sp.40, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+204,204,Al Cipriani,46.0162473579629,11.4467239379883,Borgo Valsugana,"Via del Dosso, 121 - Val di Sella",,Olle-Trattoria Alla Croce, Cimitero Villazzano,Lavarone
+205,205,El Filò,46.0067990798514,11.3048887252808,Levico Terme,"Viale Stazione, 64",+39 (0461) 706240,Levico Terme-Staz. Fs, Cimitero Villazzano,Lavarone
+206,206,Hotel Paoli - Alla Vedova,45.9894,11.2984,Caldonazzo,"Loc. Lochere, 6",+39 (0461) 700017,Loc. Lochere, Mattarello,Lavarone
+207,207,Giardino di Giada,46.0597794754413,11.2394213676453,Pergine Valsugana,"Via Roma, 20",+39 (0461) 512146,Pergine V., Cimitero Villazzano,Lavarone
+208,208,Ai Larici,46.0514629858429,11.6548204421997,Castello Tesino,Loc. Celado,+39 (0461) 594147,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+209,209,Bandus Braci e Pizza,46.0041759277763,11.2884521484375,Levico Terme,Via Claudia Augusta  ,+39 (0461) 709082,Levico T. Rist. Brenta, Cimitero Villazzano,Lavarone
+210,210,Tavola Calda Bar Malene,46.1061189049888,11.6182994842529,Pieve Tesino,"Loc. Valmalene, 3",+39 (0461) 594627,Castello T.-Loc. Molini, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+211,211,Conca D'Oro,46.0172159387867,11.6356801986694,Grigno,"Piazza Dante, 1",+39 (0461) 765126,Grigno-Segheria, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+212,212,Valsugana,46.0634124278255,11.2327587604523,Pergine Valsugana,"Viale Dante, 42",+39 (0461) 510649,Pergine V. Intermodale, Cimitero Villazzano,Lavarone
+213,213,Gilda,45.9953964062115,11.2666511535645,Caldonazzo,"Via Brenta, 22",+39 (0461) 723446,Caldonazzo-Staz. Fs, Mattarello,Lavarone
+214,214,Angi,46.0471292783092,11.2332630157471,Pergine Valsugana,"Via dell'Angi, 59 - Canale",+39 (0461) 538037,Canale Via Delle Stonfe, Cimitero Villazzano,Lavarone
+215,215,Trattoria Crosara,46.0649608266733,11.633448600769,Castello Tesino,Piazza San Giorgio,+39 (04619 594245,Castello Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+216,216,Stube Valzurg,46.238,11.1643,Vignola Falesina,"Fraz. Vignola, 22",+39 (0461) 511103,Roverè Della Luna-Sud,Cavalleggeri,Paganella/Andalo
+217,217,Aquila d'Oro,45.9920273235372,11.2627029418945,Caldonazzo,Via Roma,+39 (0461) 723116,Caldonazzo, Mattarello,Lavarone
+218,218,Due Spade,45.9916173547901,11.2616407871246,Caldonazzo,"Piazza Municipio, 2",+39 (0461) 723113,Caldonazzo, Mattarello,Lavarone
+219,219,Albergo Ristorante Da Ciolda,46.0323682940693,11.2303447723389,Pergine Valsugana,"Fraz. Valcanover, 95",+39 (0461) 548007,"Valcanover ""Ex Lanterna""", Cimitero Villazzano,Lavarone
+220,220,Aquilotto,45.9920273235372,11.2627029418945,Caldonazzo,"Viale Stazione, 4/a",+39 (0461) 718127,Caldonazzo, Mattarello,Lavarone
+221,221,Tre Faggi,46.0096605584359,11.4353084564209,Borgo Valsugana,Val di Sella,+39 (0461) 761016,Olle-Trattoria Alla Croce, Cimitero Villazzano,Lavarone
+222,222,Cima XII,46.0429143843715,11.4608001708984,Borgo Valsugana,"Via Per Olle, 59",+39 (0461) 754555,Olle-Trattoria Alla Croce, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+223,223,Cima D'Asta,46.0689,11.6099,Pieve Tesino,"Via Brigata Abruzzi, 2",+39 (0461) 592112,Pieve Tesino, Cimitero Villazzano,Lagorai/Passo Brocon-Castello Tesino
+224,224,Antiche Contrade,46.0550369217671,11.2362670898438,Pergine Valsugana,"Via al Lago, 11",+39 (0461) 538228,Pergine Via Al Lago, Cimitero Villazzano,Lavarone
+225,225,RISTORANTE CINESE LA GIADA,46.2836881931,11.4367246627808,Castello-Molina di Fiemme,Via Roma 29,+39 (0462)230192,Castello di Fiemme Via Roma,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+226,226,"BAR PIZZERIA ""I VOLTI""",46.2833655,11.48388,Cavalese,"Via Chiesa, 33/a",+39 (0462)231567,Masi-Piccolo Bar,Mach,Alpe Cermis-Cavalese
+227,227,MASO DELLO SPECK,46.3054382284177,11.4361667633057,Ville di Fiemme,Via Pozze di Sopra 2,+39 (0462)342244,Daiano Via Arca I,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+228,228,RISTORANTE PIZZERIA MILLENIUM,46.309262494812,11.6013479232788,Predazzo,Via Fiamme Gialle 2/c,+39 (0462)502449,Predazzo-I.T.C.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+229,229,STEAK HOUSE DA POLDO,46.31663,11.59824,Predazzo,Via Mazzini 48,+39 (0462)502472,Predazzo-Distributore Agip,Stazione TN-Malè - RFI,Latemar-Obereggen/Pampeago/Predazzo
+230,230,STALA DEL NONO,46.3416246511521,11.5393352508545,Tesero,"Loc. Pampeago, 1",+39 (0462)813244,Stava,Stazione TN-Malè - RFI,Latemar-Obereggen/Pampeago/Predazzo
+231,231,PIZZA SHOP,46.2876474315177,11.4440846443176,Ville di Fiemme,"Via Nazionale, 10",+39 (0462)232156,Cavalese-Bivio Carano,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+232,232,PIZZA HOUSE,46.2888336644683,11.5112042427063,Tesero,"Via Roma, 43",+39 (0462)814668,Tesero,Mach,Alpe Cermis-Cavalese
+233,233,LA RUOTA,46.2713637883303,11.4178204536438,Castello-Molina di Fiemme,Via Quirino Prada 2,+39 (0462)230220,Molina di Fiemme-Scuole,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+234,234,VECCHIA OSTERIA,46.2925404768632,11.4577746391296,Cavalese,"Via IX Novembre, 14",+39 (0462)230361,Cavalese Via Esterle,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+235,235,RISTORANTE PIZZERIA GAMS,46.3137238012574,11.5995669364929,Predazzo,Corso Dolomiti 13,+39 (0462)502322,Predazzo-I.T.C.,Stazione TN-Malè - RFI,Latemar-Obereggen/Pampeago/Predazzo
+236,236,RISTORANTE PIZZERIA ROMA,46.289412,11.5097609,Tesero,"Via Roma, 54",+39 (0462)813220,Tesero,Mach,Alpe Cermis-Cavalese
+237,237,RISTORANTE AL LAGO,46.2665331,11.406282,Castello-Molina di Fiemme,Stramentizzo Nuovo,+39 (0462)341235,Stramentizzo Bivio,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+238,238,RISTORANTE ANCORA,46.3111078301165,11.6027855873108,Predazzo,"Via IX Novembre, 1",(0039) 0462 501651,Predazzo Autostaz.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+239,239,PIZZERIA PRONTO PIZZA,46.31311,11.60245,Predazzo,"Via Dante, 1",+39 (0462)502227,Predazzo-I.T.C.,Stazione TN-Malè - RFI,Latemar-Obereggen/Pampeago/Predazzo
+240,240,HORSES RISTO PUB,46.3000422974147,11.5981721878052,Predazzo,Via Lagorai 117,+39 (0462)500116,Predazzo Via Fiamme Gialle,Mach,Latemar-Obereggen/Pampeago/Predazzo
+241,241,PIZZERIA DOLOMITI,46.2627478,11.337486,Capriana,Via Dallio G.B.,+39 (0462)816081,Capriana,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+242,242,RISTORANTE COSTA SALICI,46.2934004214863,11.4566373825073,Cavalese,"Via Costa Salici, 10",+39 (0462)340140,Cavalese Via Esterle,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+243,243,LA PELLE DELL'ORSO,46.2901384910427,11.4340853691101,Ville di Fiemme,Via del Nonéndol - loc. veronza,+39 (0462)240654,V.Veronza H.Veronza,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+244,244,RISTORANTE PIZZERIA RELAX,46.3112041712146,11.6078925132751,Predazzo,Via Venezia 28,+39 (0462)502344,Predazzo Autostaz.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+245,245,PIZZERIA LA BRICIOLA,46.3044598847961,11.5947604179382,Predazzo,Via Fiamme Gialle 54,+39 (0462)500050,Predazzo Via Fiamme Gialle,Mach,Latemar-Obereggen/Pampeago/Predazzo
+246,246,PIZZERIA DES ALPES,46.290197800603,11.478009223938,,via Marco 135 - 380330 CAVALESE,+39 (0462)231117,Marco di Cavalese,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+247,247,PIZZERIA L'INCONTRO,46.3142425342196,11.6011548042297,Predazzo,Via Verdi 13/a,+39 (0462)502716,Predazzo-I.T.C.,Stazione TN-Malè - RFI,Latemar-Obereggen/Pampeago/Predazzo
+248,248,PIZZERIA BARCOLLO,46.3128123014276,11.6650986671448,Predazzo,c/o Centro Servizi,+39 (338)6704809,Bellamonte,Mach,Alpe Lusia-Moena/Bellamonte
+249,249,RISTORANTE AGRITUR MASO SORTE,46.2778896908959,11.444878578186,Castello-Molina di Fiemme,Via Maso Sorte,+39 (0462)340522,Castello di Fiemme,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+250,250,RISTORANTE AGRITUR PIANRESTEL,46.2883888301223,11.478009223938,Cavalese,Via del Gastaldo,+39 (0462)340960,Marco di Cavalese,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+251,251,RISTORANTE LE CAORE,46.3196667043666,11.5028142929077,Tesero,"loc. Stava, 31",+39 (0462)814679,Stava,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+252,252,RISTORANTE PIZZERIA DEJAVU',46.305422,11.462465,Varena,Via A. Cantelger 2,+39 (347)7686059,Varena-Via Alpini-Dir.Lavazè,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+253,253,RISTORANTE PIZZERIA LA BAITA,46.3145982339805,11.4715719223022,Varena,"Via Bancoline, 1",+39 (0462)230283,Varena-Via Alpini-Dir.Lavazè,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+254,254,RISTORANTE AGRITUR SALANZADA,46.2722833943649,11.4645767211914,Cavalese,Loc. Salanzada 1,+39 (0462)235480,Cavalese Autostaz.,Mach,Alpe Cermis-Cavalese
+255,255,PIZZERIA RISTORANTE EL CALDERON,46.2855566334027,11.4656496047974,Cavalese,"Via Cermis, 4",+39 (0462)340111,Cavalese Autostaz.,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+256,256,RISTORANTE PIZZERIA LA CANTINETTA,46.302856,11.45444,Varena,"Via Val del Ru, 11",+39 (0462)342695,Varena-Pizz. La Cantinetta,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+257,257,PIZZERIA LA LANTERNA,46.300078,11.44749,Ville di Fiemme,"Via Ancona,2",+39 (0462)340607,Daiano,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+258,258,RISTORANTE PIZZERIA ANCORA,46.2895427,11.5105439,Tesero,Via IV Novembre 32,+39 (0462)813117,Tesero,Mach,Alpe Cermis-Cavalese
+259,259,LA SALERA,46.2915470757489,11.4627313613892,Cavalese,"Via Pizzegoda, 3",+39 (0462)341001,Cavalese Piazza G.Verdi,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+260,260,RISTORANTE MIOLA,46.2978778459822,11.6067123413086,Predazzo,Loc. Miola 1,+39 (0462)501924,Predazzo-Borgo Nuovo,Mach,Latemar-Obereggen/Pampeago/Predazzo
+261,261,RISTORANTE PIZZERIA MAJESTIC,46.30619,11.5982299,Predazzo,Via Fiamme Gialle 20/A,+39 (0462)500076,Predazzo-Borgo Nuovo,Mach,Latemar-Obereggen/Pampeago/Predazzo
+262,262,PIZZERIA EXCELSIOR,46.2918769758785,11.4590406417847,Cavalese,Piazza Cesare Battisti 11,+39 (0462)248421,Cavalese P. Francescani,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+263,263,RISTORANTE AGRITUR FIOR DI BOSCO,46.2286295989053,11.3632965087891,Valfloriana,Loc. Comuni,+39 (0462)910002,Sicina,Mach,Alpe Cermis-Cavalese
+264,264,AL CANTUCCIO,46.29159,11.46059,Cavalese,"Via Unterberger, 14",+39 (0462)235040,Cavalese Piazza G.Verdi,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+265,265,RISTORANTE PIZZERIA LA TRATTORIA,46.2825759959976,11.5234351158142,Tesero,Lago di Tesero,+39 (0462)810203,Lago-Mobilif. De Pal,Mach,Alpe Cermis-Cavalese
+266,266,RISTORANTE PIZZERIA GI & GIò,46.292948210911,11.4563369750977,Cavalese,"P.zza 12 Partigiani, 7",+39 (0462)342688,Cavalese Via Esterle,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+267,267,PIZZA TIME,46.3098924355446,11.6021418571472,Predazzo,Via Trento 15,+39 (0462)501555,Predazzo Autostaz.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+268,268,"RISTORANTE ""EL MOLIN""",46.2919696440967,11.4602476358414,Cavalese,Piazza Cesare Battisti 11,,Cavalese P. Francescani,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+269,269,RISTORANTE PINETA,46.2700288488885,11.4207172393799,Castello-Molina di Fiemme,"Via Cadino, 2",+39 (0462)341332,Molina di Fiemme Via Segherie,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+270,270,RISTORANTE VILLAGGIO,46.2476853,11.3463739,Valfloriana,Fraz. Villaggio 2/a,+39 (0462)910098,Villaggio Italo-Svizzero,Mach,Alpe Cermis-Cavalese
+271,271,PIZZERIA RISTORANTE L'ARCADE,46.3109522018304,11.6034078598022,Predazzo,"Via IX Novembre, 1 ",+39 (340)0021359,Predazzo Autostaz.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+272,272,TRATTORIA LA BERLOCCA,46.3113968529022,11.606605052948,Predazzo,Via Venezia 10/a,+39 (0462)502880,Predazzo Autostaz.,Mach,Latemar-Obereggen/Pampeago/Predazzo
+273,273,RISTORANTE AGRITUR MASO CORRADINI,46.2796841778629,11.4326691627502,Castello-Molina di Fiemme,Via Milano 28,+39 (0462)231010,Castello di Fiemme-Conc.Fiat,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+274,274,RISTORANTE PIZZERIA ANGELO D'ORO,46.2904869337896,11.4606070518494,Cavalese,"Vicolo rasmo, 3",+39 (0462)235760,Cavalese Piazza G.Verdi,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+275,275,BAR RISTORANTE LÖZE,46.299908874801,11.5994381904602,Predazzo,Via Lagorai 115,+39 (0462)502235,Predazzo Via Fiamme Gialle,Mach,Latemar-Obereggen/Pampeago/Predazzo
+276,276,RISTORANTE LA STUA,46.292629437278,11.4588904380798,Cavalese,Piazza Dante,+39 (0462)340235,Cavalese P. Francescani,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+277,277,RISTORANTE AL MOLIN,46.285825,11.565681,Ziano di Fiemme,Via G.Verdi 20/a,+39 (0462)571442,Ziano di Fiemme-Alla Roda,Mach,Alpe Cermis-Cavalese
+278,278,RISTORANTE AGRITUR MASO LENA,46.2976109898811,11.6019487380981,Predazzo,Località Löze,+39 (340)5923104,Predazzo Via Fiamme Gialle,Mach,Latemar-Obereggen/Pampeago/Predazzo
+279,279,PIZZERIA HOTEL CANADA,46.3112856904729,11.6761708259583,Predazzo,Via della Torba 1,,Bellamonte-H.Torretta,Mach,Alpe Lusia-Moena/Bellamonte
+280,280,OSTERIA DE L'ACQUAROL,46.2854528328355,11.5387344360352,Panchià,Via nazionale 42,+39 (0462)813082,Panchia',Mach,Alpe Cermis-Cavalese
+281,281,PIZZERIA LA PIEVE,46.2886779728581,11.4615726470947,Cavalese,"Via Marconi, 13",+39 (0462)232060,Cavalese Via Mendini,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+282,282,PIZZERIA RISTORANTE VERONZA,46.2901533184388,11.4304804801941,Ville di Fiemme,Viale Veronza 3,+39 (0462)341734,Villaggio Veronza Via Pale,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+283,283,RISTORANTE AL CONVENTO,46.29189,11.4587299,Cavalese,"P.zza Rizzoli, 4",+39 (0462)342250,Cavalese P. Francescani,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
+284,284,RISTORANTE PIZZERIA SOTTOVOCE,46.2872322439159,11.4211249351501,Castello-Molina di Fiemme,Via Nucleo Stazione 9,+39 (0462)235597,Castello di F. Nucleo Stazione,Stazione TN-Malè - RFI,Alpe Cermis-Cavalese
