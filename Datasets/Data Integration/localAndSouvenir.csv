@@ -1,0 +1,62 @@
+Name,Latitude,Longitude,City,Address,Phone_number,id
+CANTINA PELZ,46.169333,11.217748,Cembra,"Loc. Cavade, 3",+39 0461 683051 +39 348 5900192 ,loc_sou0
+Sottobosco,46.082876,11.200151,Civezzano,"Località Sille, 1",,loc_sou1
+APICOLTURA GOCCE D'ORO,46.158166,11.288884,Bedollo,"Fraz. Piazze, Via G.Marconi, 35",,loc_sou2
+DISTILLERIA GIACOMOZZI RENZO,46.186722,11.26064,Segonzano,"Loc. Stedro, 12",+39 0461 686100,loc_sou3
+AZIENDA AGRICOLA ZANOTELLI ELIO & F.LLI,46.174803,11.221179,Cembra,"V.le 4 Novembre, 52 ",+39 0461 683131,loc_sou4
+TORREFAZIONE TRIVENETA,46.16151,11.303131,Bedollo,"Fraz. Centrale, Via G.Verdi, 47",,loc_sou5
+AZIENDA AGRICOLA BARONE A PRATO PAOLO,46.183138,11.251027,Segonzano,"Loc. Piazzo, 44 ",+39 0461 686241,loc_sou6
+"AZIENDA AGRICOLA ""LE MANDRE""",46.168062,11.298557,Bedollo,"Franz. Bedollo, Via S.Osvaldo, 3/a",,loc_sou7
+"AZIENDA AGRICOLA BIOLOGICA ""MOLINO DEI LESSI""",46.175217,11.131275,Lavis,"Maso Rosabel, 5 ",+39 0461 870275 ,loc_sou8
+Az. Agricola Busarello,46.0786786365809,11.5522313117981,Bieno,"Via del Canton Borgo, 37",+39 (0461) 596330,loc_sou9
+Enovalsugana Sas di Baldi Massimo,46.0698886147082,11.2212574481964,Pergine Valsugana,Loc. Fratte,+39 (0461) 533544,loc_sou10
+Latte Trento,46.0722332536453,11.2359237670898,Pergine Valsugana,"Via Ponte Regio, 25",+39 (0461) 534830,loc_sou11
+Cose Così,46.0116873495375,11.3011765480042,Levico Terme,"Via Regia, 28",+39 (0461) 701763,loc_sou12
+Cantina Sociale di Trento Le Meridiane S.C.A.,46.032785,11.130995,Trento,Via dei Viticoltori 2-4,+39 0461920186,loc_sou13
+Cantine Ferrari - F.lli Lunelli,46.043122,11.112756,Trento,"Via Ponte di Ravina, 15",+39 0461 972311,loc_sou14
+Maso Bergamini,46.094022,11.131381,Trento,"Loc. Bergamini, 3 ",+39 0461 983079,loc_sou15
+Cantina Aldeno,45.980768,11.091773,Aldeno,"Via Roma, 76",+39 0461 842511,loc_sou16
+Cantine Rotari / Nosio S.P.A.,46.202564,11.122026,Mezzocorona,"Via del Teroldego, 1",+39 0461 616399,loc_sou17
+Distilleria Segnana - F.lli Lunelli,46.043122,11.112756,Trento,"Via Ponte Ravina, 13",+39 0461 972311,loc_sou18
+Cavit - Cantina ed Enoteca,46.042214,11.113421,Trento,"Via del Ponte, 31",+39 0461 381711,loc_sou19
+Antica Salumeria Belli,46.074019,11.060518,Trento,"Piazza Oveno, 1",+39 0461 866130,loc_sou20
+La Bottega degli Antichi Sapori,46.068191,11.121307,Trento,"Via Belenzani, 56",+39 0461 260535,loc_sou21
+Antica Salumeria Belli,46.067167,11.12356,Trento,Piazza A. Vittoria,+39 0461 866130,loc_sou22
+AZIENDA VITIVINICOLA VILLA CORNIOLE,46.156841,11.158176,Giovo,"Verla di Giovo, Via al Grec, 23 ",+39 0461 695067 +39 347 5860178 ,loc_sou23
+AZIENDA AGRICOLA SIMONI FERRUCCIO,46.158268,11.140582,Giovo,"Fr. Palù, Piazza degli Alpini 14",+39 0461 684381,loc_sou24
+Soc. MACELLERIA CASAGRANDA sas,46.160758,11.302338,Bedollo,"Fraz. Centrale, Via C.Colombo, 5",,loc_sou25
+DISTILLERIA PILZER S.n.c.,46.197805,11.246308,Faver,"Via Portegnago, 5 ",+39 0461 683326,loc_sou26
+DISTILLERIA PAOLAZZI VITTORIO,46.184477,11.24206,Faver,"Via Vich, 27 ",+39 0461 683024 +39 0461 682010,loc_sou27
+CANTINA LA VIS E VALLE DI CEMBRA SCARL,46.175434,11.223175,Cembra,"V.le 4 Novembre, 78 ",+39 0461 680010,loc_sou28
+CANTINA DELL'AZIENDA AGRICOLA MASO CANTANGHEL,46.087856,11.17972,Civezzano,"Via Madonnina, 33",+39 0461 246353,loc_sou29
+OPERA VITIVINICOLA IN VAL DI CEMBRA,46.154552,11.154576,Giovo,"Fr. Verla di Giovo, Via Tre Novembre, 8 ",+39 0461 684302 ,loc_sou30
+PRODOTTI AGRICOLI,46.11667,11.207116,Fornace,"Via del Borgolet, 30 ",,loc_sou31
+CANTINA LA VIS E VALLE DI CEMBRA SCARL,46.13791,11.10788,Lavis,"Via Carmine, 7 ",+39 0461 440111 ,loc_sou32
+AZIENDA VINICOLA NICOLODI ALFIO,46.177009,11.223679,Cembra,"Via Carraia, 22",+39 0461 683020 +39 335 5270862 ,loc_sou33
+AZIENDA AGRICOLA DEVIGLI ELIO,46.153601,11.119965,Giovo,"Maso Belvedere, 1 ",+39 0461 870233  +39 339 2528710,loc_sou34
+Bottega Artigiana di Capozzi Lorenzo,46.012119523327,11.2965631484985,Levico Terme,"Viale Lido, 13",+39 (0461) 707135,loc_sou35
+Più Gusto srl,46.0698960581641,11.2218475341797,Pergine Valsugana,"Loc. Fratte, 47 - Viarago",+39 (0461) 534642,loc_sou36
+Grappa Vettorazzi,46.0117022521382,11.3026571273804,Levico Terme,"Via Diaz, 7",+39 (0461) 706321,loc_sou37
+Macelleria Capraro,46.0692335866661,11.6087293624878,Pieve Tesino,"Via Sebastiano Buffa, 7",+39 (0461) 594175,loc_sou38
+IL MASO DELLE ERBE,46.288583,11.504977,Tesero,"via Roma, 2/a",+39 (0462)814753,loc_sou39
+CASEIFICIO SOCIALE VAL DI FIEMME,46.2873508692661,11.4420032501221,Ville di Fiemme,Via Nazionale 8,+39 (0462)340284,loc_sou40
+CASEIFICIO SOCIALE,46.3043042376079,11.5946102142334,Predazzo,Via Fiamme Gialle 48,+39 (0462)501287,loc_sou41
+PROGETTO LEGNO,46.3151196,11.5979268,Predazzo,Corso Dolomiti 54,+39 (0462)501115,loc_sou42
+DORMIRE BENE CUSCINI DI CIRMOLO,46.291799134454,11.4594805240631,Cavalese,Piazza cesare Battisti,+39 (335)1371360,loc_sou43
+ARTISTICA FELIX - CAVALESE,46.29056,11.46305,Cavalese,"Via Fratelli Bronzetti,24",+39 (0462)235744,loc_sou44
+LE ZIPOLE,46.289372,11.509888,Tesero,"via Roma, 56/a",+39 (0462)814549,loc_sou45
+ARTISTICA FELIX - TESERO,46.2886260755564,11.5112900733948,Tesero,Via Roma 70,+39 (0462)813159,loc_sou46
+IL PICCHIO,46.2913913918515,11.4586544036865,Cavalese,Via Regolani 2,+39 (0462)232030,loc_sou47
+AZIENDA AGRICOLA DELLADIO NICOLETTA,46.2817068,11.5262207,Tesero,"Via Tresselume, 13",(0039) 335 1017632,loc_sou48
+Colibri Artigianato,46.132386,11.244372,Baselga di Piné,Corso Roma nr. 23,,loc_sou49
+La Ciotola,46.0118810830332,11.2992453575134,Levico Terme,"Via Garibaldi, 63",+39 (0461) 707419,loc_sou50
+Re Laurino,46.0593848985985,11.2374043464661,Pergine Valsugana,"Viale Venezia, 29/a - Assizzi",+39 (0461) 531783,loc_sou51
+Tentazioni - Artigianato artistico,46.0636878673345,11.2319433689117,Pergine Valsugana,"Viale Dante, 276",+39 (0461) 531312,loc_sou52
+"Azienda per il Turismo Trento, Monte Bondone, Valle dei Laghi",46.069636,11.121366,Trento,"Via Manci, 2",+39 0461 216000,loc_sou53
+"Azienda per il Turismo Trento, Monte Bondone, Valle dei Laghi",46.000874,11.086009,Garniga Terme,"Via Bagni di Fieno, 18",+39 0461 842586,loc_sou54
+"Azienda per il Turismo Trento, Monte Bondone, Valle dei Laghi",46.075419,10.996386,Vezzano,"Via Roma, 61/1",+39 0461 864400,loc_sou55
+"Azienda per il Turismo Trento, Monte Bondone, Valle dei Laghi",46.050889,11.072877,Trento,"Strada di Vaneze, 13",+39 0461 947128,loc_sou56
+Erspamer Irene Snc,46.13273,11.247403,Baselga di Piné,Via C. Battisti nr. 68,,loc_sou57
+Lopez Lidia,46.13356,11.245848,Baselga di Piné,Via Piana nr. 35,,loc_sou58
+Keramos,46.0110763394521,11.3028287887573,Levico Terme,"Via Marconi, 22",+39 (0461) 702334,loc_sou59
+Hobby e Fantasia,46.0119108881262,11.3007473945618,Levico Terme,"Vicolo Rocche, 4",+39 (0461) 701678,loc_sou60
