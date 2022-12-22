@@ -22,6 +22,7 @@ To ensure reusability we took the information from schema.org, which provided us
 
 ## ETG
 Uniting the entities we extracted from the methodology phases with the reference ontology, we obtained the final ETG.
+
 This model presents many kinds of entities, because the purpose, asking for tourist facilities, includes transportation, businesses (like shops or food facilities) and the tourist themselves.
 More precisely, the Place concept includes both tourist attractions and local businesses; local businesses include stores, food establishments and lodging businesses.
 Then, transportation includes stops for certain transportation methods and the companies dedicated to this function.
