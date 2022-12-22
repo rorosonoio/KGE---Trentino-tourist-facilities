@@ -30,7 +30,7 @@ Then, transportation includes stops for certain transportation methods and the c
 
 ## Knowledge Graph
 At the end of this process we were able to construct the final Knowledge Graph and, through GraphDB, we called our queries presented as competency questions with SPARQL language. \
-This KG is exploitable based on the search on graph DB with SPARQL and also from the visualization section of the graph DB. Based on this, we can satisfy the CQs that have been made in the previous sections. This means that the graph that is representative of this KG can cover our needs for the tourist facilities as our scenarios try to simulate them. \
+This KG is exploitable based on the search on graph DB with SPARQL and also from the visualization section of the graph DB. Based on this, we can satisfy the CQs that have been made in the previous sections. This means that the graph that is representative of this KG can cover our needs for the tourist facilities as our scenarios try to simulate them.
 
 We ended up with:
 - 15 Entities  
